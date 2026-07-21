@@ -1,0 +1,50 @@
+name: Coletar condições e publicar JSON
+
+on:
+  schedule:
+    # A cada 6 horas (mesmo ritmo dos ciclos do GFS-Wave -- rodar mais
+    # rápido que isso não traz dado mais novo)
+    - cron: "30 */6 * * *"
+  workflow_dispatch: {}  # permite rodar manualmente pela aba Actions do GitHub
+
+permissions:
+  contents: write  # necessário para o job commitar o JSON de volta no repo
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Coletar onda/vento (NOAA GFS-Wave)
+        env:
+          BEACH_API_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          BEACH_API_SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/collect_daily_conditions.py
+
+      - name: Coletar balneabilidade (INEA via praialimpa.net)
+        env:
+          BEACH_API_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          BEACH_API_SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/collect_balneabilidade.py
+
+      - name: Exportar condicoes.json
+        env:
+          BEACH_API_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          BEACH_API_SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: python scripts/export_json.py
+
+      - name: Commitar e publicar condicoes.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add condicoes.json
+          git diff --staged --quiet || git commit -m "Atualiza condicoes.json [skip ci]"
+          git push

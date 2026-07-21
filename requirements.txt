@@ -1,0 +1,14 @@
+fastapi==0.139.0
+uvicorn[standard]==0.34.0
+httpx==0.28.1
+pydantic==2.13.4
+pydantic-settings==2.14.2
+supabase==2.31.0
+eccodes==2.46.0
+beautifulsoup4==4.14.3
+
+# testes
+pytest==9.1.1
+pytest-asyncio==1.4.0
+pytest-cov==7.1.0
+respx==0.23.1
