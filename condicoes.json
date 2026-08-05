@@ -1,0 +1,4412 @@
+{
+  "gerado_em": "2026-08-05T12:04:59.352059+00:00",
+  "fonte_onda_vento": "NOAA GFS-Wave",
+  "fonte_balneabilidade": "INEA (via praialimpa.net)",
+  "praia_recomendada": "recreio",
+  "praias": {
+    "barra-da-tijuca": {
+      "nome": "Barra da Tijuca",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0116,
+      "longitude": -43.3652,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:52:52.338615+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "copacabana": {
+      "nome": "Copacabana",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9868,
+      "longitude": -43.1897,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:53:08.225655+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "ipanema": {
+      "nome": "Ipanema",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9868,
+      "longitude": -43.2044,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:53:25.663959+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "leblon": {
+      "nome": "Leblon",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9838,
+      "longitude": -43.2223,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:53:42.837116+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "arpoador": {
+      "nome": "Arpoador",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9889,
+      "longitude": -43.1936,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:53:56.618986+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "leme": {
+      "nome": "Leme",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9647,
+      "longitude": -43.1719,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:54:12.878553+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "barra": {
+      "nome": "Barra da Tijuca",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0116,
+      "longitude": -43.3652,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:54:29.204408+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "recreio": {
+      "nome": "Recreio dos Bandeirantes",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0264,
+      "longitude": -43.4649,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:54:44.297836+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "grumari": {
+      "nome": "Grumari",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.05333,
+      "longitude": -43.535,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999987792969
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:55:00.411128+00:00",
+      "balneabilidade": "propria",
+      "score": 155
+    },
+    "prainha": {
+      "nome": "Prainha",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.03965,
+      "longitude": -43.50528,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999987792969
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:55:17.475098+00:00",
+      "balneabilidade": "propria",
+      "score": 155
+    },
+    "joatinga": {
+      "nome": "Joatinga",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.02,
+      "longitude": -43.29,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:55:33.289959+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "sao_conrado": {
+      "nome": "São Conrado",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9986,
+      "longitude": -43.257,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:55:49.995771+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "flamengo": {
+      "nome": "Flamengo",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.931,
+      "longitude": -43.173,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:56:06.921675+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "botafogo": {
+      "nome": "Botafogo",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9519,
+      "longitude": -43.1823,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:56:24.266699+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "urca": {
+      "nome": "Urca",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9489,
+      "longitude": -43.1656,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:56:42.347009+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "vermelha": {
+      "nome": "Vermelha",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.95528,
+      "longitude": -43.16472,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:56:56.970524+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "recreio-dos-bandeirantes-rio-de-janeiro": {
+      "nome": "Recreio dos Bandeirantes",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Recreio dos Bandeirantes",
+      "regiao": "Zona Oeste",
+      "latitude": -23.0241,
+      "longitude": -43.4626,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:57:16.348146+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "grumari-rio-de-janeiro": {
+      "nome": "Grumari",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Grumari",
+      "regiao": "Zona Oeste",
+      "latitude": -23.0548,
+      "longitude": -43.5283,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999987792969
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:57:30.721139+00:00",
+      "balneabilidade": null,
+      "score": 55
+    },
+    "barra-de-guaratiba-rio-de-janeiro": {
+      "nome": "Barra de Guaratiba",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Guaratiba",
+      "regiao": "Zona Oeste",
+      "latitude": -23.065,
+      "longitude": -43.57,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999987792969
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:57:49.121990+00:00",
+      "balneabilidade": "propria",
+      "score": 155
+    },
+    "itaipu-niteroi": {
+      "nome": "Itaipu",
+      "municipio": "Niterói",
+      "bairro": "Itaipu",
+      "regiao": "Niterói",
+      "latitude": -22.9591,
+      "longitude": -43.0493,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:58:42.070786+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "piratininga-niteroi": {
+      "nome": "Piratininga",
+      "municipio": "Niterói",
+      "bairro": "Piratininga",
+      "regiao": "Niterói",
+      "latitude": -22.9554,
+      "longitude": -43.0588,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:58:58.934186+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "arpoador-rio-de-janeiro": {
+      "nome": "Arpoador",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Ipanema",
+      "regiao": "Zona Sul",
+      "latitude": -22.9876,
+      "longitude": -43.194,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:59:14.221575+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "diabo-rio-de-janeiro": {
+      "nome": "Diabo",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Ipanema",
+      "regiao": "Zona Sul",
+      "latitude": -22.988,
+      "longitude": -43.196,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:59:31.477897+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "itacoatiara-niteroi": {
+      "nome": "Itacoatiara",
+      "municipio": "Niterói",
+      "bairro": "Itacoatiara",
+      "regiao": "Niterói",
+      "latitude": -22.9681,
+      "longitude": -43.0356,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T18:59:46.179424+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "macumba-rio-de-janeiro": {
+      "nome": "Macumba",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Recreio dos Bandeirantes",
+      "regiao": "Zona Oeste",
+      "latitude": -23.031,
+      "longitude": -43.4921,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:00:01.839830+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "campista-macae": {
+      "nome": "Campista",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.392478,
+      "longitude": -41.7799543,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:00:21.531687+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "gragoata-niteroi": {
+      "nome": "Gragoatá",
+      "municipio": "Niterói",
+      "bairro": "São Domingos",
+      "regiao": "Niterói",
+      "latitude": -22.895,
+      "longitude": -43.123,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:00:37.964257+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "leme-rio-de-janeiro": {
+      "nome": "Leme",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Leme",
+      "regiao": "Zona Sul",
+      "latitude": -22.9635,
+      "longitude": -43.1674,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:00:52.985652+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "pepino-rio-de-janeiro": {
+      "nome": "Pepino",
+      "municipio": "Rio de Janeiro",
+      "bairro": "São Conrado",
+      "regiao": "Zona Sul",
+      "latitude": -23.007,
+      "longitude": -43.282,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:01:09.807858+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "vermelha-rio-de-janeiro": {
+      "nome": "Vermelha",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Urca",
+      "regiao": "Zona Sul",
+      "latitude": -22.9533,
+      "longitude": -43.1607,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:01:25.904028+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "prainha-rio-de-janeiro": {
+      "nome": "Prainha",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Recreio dos Bandeirantes",
+      "regiao": "Zona Oeste",
+      "latitude": -23.0415,
+      "longitude": -43.5043,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999987792969
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:01:41.697310+00:00",
+      "balneabilidade": null,
+      "score": 55
+    },
+    "recreio-rio-de-janeiro": {
+      "nome": "Recreio",
+      "municipio": "Rio de Janeiro",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0282272,
+      "longitude": -43.4641815,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:01:59.614776+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "pontal-de-sernambetiba-rio-de-janeiro": {
+      "nome": "Pontal de Sernambetiba",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Recreio dos Bandeirantes",
+      "regiao": "Zona Oeste",
+      "latitude": -23.018,
+      "longitude": -43.445,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:02:13.428243+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "camboinhas-niteroi": {
+      "nome": "Camboinhas",
+      "municipio": "Niterói",
+      "bairro": "Camboinhas",
+      "regiao": "Niterói",
+      "latitude": -22.9645,
+      "longitude": -43.0534,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:02:28.627861+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "joatinga-rio-de-janeiro": {
+      "nome": "Joatinga",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Joá",
+      "regiao": "Zona Sul",
+      "latitude": -23.0102,
+      "longitude": -43.2879,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:02:44.657878+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "adao-niteroi": {
+      "nome": "Adão",
+      "municipio": "Niterói",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9275652,
+      "longitude": -43.122763,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:03:01.346781+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "icarai-niteroi": {
+      "nome": "Icaraí",
+      "municipio": "Niterói",
+      "bairro": "Icaraí",
+      "regiao": "Niterói",
+      "latitude": -22.9035,
+      "longitude": -43.1106,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:03:17.094486+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "boa-viagem-niteroi": {
+      "nome": "Boa Viagem",
+      "municipio": "Niterói",
+      "bairro": "Boa Viagem",
+      "regiao": "Niterói",
+      "latitude": -22.899,
+      "longitude": -43.115,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:03:32.943230+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "sao-francisco-niteroi": {
+      "nome": "São Francisco",
+      "municipio": "Niterói",
+      "bairro": "São Francisco",
+      "regiao": "Niterói",
+      "latitude": -22.915,
+      "longitude": -43.118,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:03:49.731622+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "flamengo-rio-de-janeiro": {
+      "nome": "Flamengo",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Flamengo",
+      "regiao": "Zona Sul",
+      "latitude": -22.9295,
+      "longitude": -43.1736,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:04:04.890936+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "botafogo-rio-de-janeiro": {
+      "nome": "Botafogo",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Botafogo",
+      "regiao": "Zona Sul",
+      "latitude": -22.9519,
+      "longitude": -43.182,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:04:19.221793+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "urca-rio-de-janeiro": {
+      "nome": "Urca",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Urca",
+      "regiao": "Zona Sul",
+      "latitude": -22.9486,
+      "longitude": -43.1637,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:04:34.733515+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "barra-da-tijuca-rio-de-janeiro": {
+      "nome": "Barra da Tijuca",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Barra da Tijuca",
+      "regiao": "Zona Oeste",
+      "latitude": -23.0048,
+      "longitude": -43.3658,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:04:49.785047+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "charitas-niteroi": {
+      "nome": "Charitas",
+      "municipio": "Niterói",
+      "bairro": "Charitas",
+      "regiao": "Niterói",
+      "latitude": -22.9231,
+      "longitude": -43.12,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:05:06.269088+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "jurujuba-niteroi": {
+      "nome": "Jurujuba",
+      "municipio": "Niterói",
+      "bairro": "Jurujuba",
+      "regiao": "Niterói",
+      "latitude": -22.9354,
+      "longitude": -43.1118,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:05:21.882746+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "ipanema-rio-de-janeiro": {
+      "nome": "Ipanema",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Ipanema",
+      "regiao": "Zona Sul",
+      "latitude": -22.9868,
+      "longitude": -43.204,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:05:37.611002+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "leblon-rio-de-janeiro": {
+      "nome": "Leblon",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Leblon",
+      "regiao": "Zona Sul",
+      "latitude": -22.9877,
+      "longitude": -43.223,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:05:52.737592+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "vidigal-rio-de-janeiro": {
+      "nome": "Vidigal",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Vidigal",
+      "regiao": "Zona Sul",
+      "latitude": -22.9932,
+      "longitude": -43.2349,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:06:10.257495+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "gloria-rio-de-janeiro": {
+      "nome": "Glória",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Glória",
+      "regiao": "Zona Sul",
+      "latitude": -22.9232,
+      "longitude": -43.174,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:06:24.861038+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "bonfim-angra-dos-reis": {
+      "nome": "Bonfim",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.020845,
+      "longitude": -44.3327425,
+      "vento": {
+        "velocidade_kmh": 7.748999845504777,
+        "rajada_kmh": 10.872,
+        "direcao_graus": 46.0199993896484
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 10.16,
+        "direcao_graus": 139.6
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:06:41.166530+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "praia-grande-angra-dos-reis": {
+      "nome": "Praia Grande",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.044002,
+      "longitude": -44.3728007,
+      "vento": {
+        "velocidade_kmh": 7.748999845504777,
+        "rajada_kmh": 10.872,
+        "direcao_graus": 46.0199993896484
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 10.16,
+        "direcao_graus": 139.6
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:06:57.905851+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "jacuecanga-angra-dos-reis": {
+      "nome": "Jacuecanga",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9987739,
+      "longitude": -44.254071,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "brava-angra-dos-reis": {
+      "nome": "Brava",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.1352592,
+      "longitude": -44.1545463,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:07:18.333719+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "guaxindiba-sao-francisco-de-itabapoana": {
+      "nome": "Guaxindiba",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.4792521,
+      "longitude": -41.0577166,
+      "vento": {
+        "velocidade_kmh": 24.362999519348158,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:07:34.456939+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "sossego-sao-francisco-de-itabapoana": {
+      "nome": "Sossego",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.492483,
+      "longitude": -41.0664792,
+      "vento": {
+        "velocidade_kmh": 24.362999519348158,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:07:50.246776+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "tropical-sao-francisco-de-itabapoana": {
+      "nome": "Tropical",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.5369093,
+      "longitude": -41.0710554,
+      "vento": {
+        "velocidade_kmh": 24.36299965667725,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:08:07.941753+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "itaperuna-sao-francisco-de-itabapoana": {
+      "nome": "Itaperuna",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.5114814,
+      "longitude": -41.0866915,
+      "vento": {
+        "velocidade_kmh": 24.36299965667725,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:08:24.265197+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "sonho-sao-francisco-de-itabapoana": {
+      "nome": "Sonho",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.4537437,
+      "longitude": -41.1452982,
+      "vento": {
+        "velocidade_kmh": 24.362999519348158,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:08:37.748186+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "gargau-sao-francisco-de-itabapoana": {
+      "nome": "Gargaú",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.5615608,
+      "longitude": -41.0600938,
+      "vento": {
+        "velocidade_kmh": 24.36299965667725,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:08:52.196632+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "grussai-sao-joao-da-barra": {
+      "nome": "Grussaí",
+      "municipio": "São João da Barra",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.688009,
+      "longitude": -41.0231546,
+      "vento": {
+        "velocidade_kmh": 24.36299965667725,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:09:07.718339+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "atafona-sao-joao-da-barra": {
+      "nome": "Atafona",
+      "municipio": "São João da Barra",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.6537276,
+      "longitude": -41.0176438,
+      "vento": {
+        "velocidade_kmh": 24.36299965667725,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:09:25.733412+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "lagoa-de-grussai-sao-joao-da-barra": {
+      "nome": "Lagoa de Grussaí",
+      "municipio": "São João da Barra",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.688009,
+      "longitude": -41.0231546,
+      "vento": {
+        "velocidade_kmh": 24.36299965667725,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:09:42.090978+00:00",
+      "balneabilidade": null,
+      "score": 30
+    },
+    "farol-de-sao-tome-campos": {
+      "nome": "Farol de São Tomé",
+      "municipio": "Campos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.0391709,
+      "longitude": -41.0536377,
+      "vento": {
+        "velocidade_kmh": 25.991999656677255,
+        "rajada_kmh": 31.644,
+        "direcao_graus": 21.2499993896484
+      },
+      "onda": {
+        "altura_m": 0.869999961853027,
+        "periodo_s": 9.55,
+        "direcao_graus": 134.83
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:09:59.600344+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "lagoa-lagamar-campos": {
+      "nome": "Lagoa Lagamar",
+      "municipio": "Campos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.7546,
+      "longitude": -41.3242,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "propria",
+      "score": 100
+    },
+    "cavaleiros-macae": {
+      "nome": "Cavaleiros",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.4071231,
+      "longitude": -41.8005748,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:10:20.259841+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "imbetiba-macae": {
+      "nome": "Imbetiba",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.3822494,
+      "longitude": -41.7706265,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:10:36.383262+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "forte-macae": {
+      "nome": "Forte",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.3764369,
+      "longitude": -41.771176,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:10:52.951113+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "barra-macae": {
+      "nome": "Barra",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.3538145,
+      "longitude": -41.7697617,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:11:09.738240+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "pecado-macae": {
+      "nome": "Pecado",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.411424,
+      "longitude": -41.808443,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:11:27.037752+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "aeroporto-macae": {
+      "nome": "Aeroporto",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.3417817,
+      "longitude": -41.7655371,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:11:44.877343+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "barreto-macae": {
+      "nome": "Barreto",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.3283926,
+      "longitude": -41.7339495,
+      "vento": {
+        "velocidade_kmh": 21.338999382019033,
+        "rajada_kmh": 27.755998901367192,
+        "direcao_graus": 25.8699993896484
+      },
+      "onda": {
+        "altura_m": 0.799999961853027,
+        "periodo_s": 9.44,
+        "direcao_graus": 142.93
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:11:58.767747+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "lagomar-macae": {
+      "nome": "Lagomar",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.3070411,
+      "longitude": -41.708926,
+      "vento": {
+        "velocidade_kmh": 21.338999382019033,
+        "rajada_kmh": 27.755998901367192,
+        "direcao_graus": 25.8699993896484
+      },
+      "onda": {
+        "altura_m": 0.799999961853027,
+        "periodo_s": 9.44,
+        "direcao_graus": 142.93
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:12:14.518434+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "lagoa-de-imboassica-macae": {
+      "nome": "Lagoa de Imboassica",
+      "municipio": "Macaé",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.2828305,
+      "longitude": -41.9649091,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:12:30.816799+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "tartarugas-rio-das-ostras": {
+      "nome": "Tartarugas",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5310507,
+      "longitude": -41.9570342,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:12:46.209789+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "centro-rio-das-ostras": {
+      "nome": "Centro",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5279445,
+      "longitude": -41.9442201,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:13:02.595127+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "cemiterio-rio-das-ostras": {
+      "nome": "Cemitério",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.532569,
+      "longitude": -41.9377597,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:13:18.517910+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "joana-rio-das-ostras": {
+      "nome": "Joana",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.536186,
+      "longitude": -41.9370671,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:13:32.965568+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "areia-negra-rio-das-ostras": {
+      "nome": "Areia Negra",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5269448,
+      "longitude": -41.944972,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:13:51.543394+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "remanso-rio-das-ostras": {
+      "nome": "Remanso",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5279445,
+      "longitude": -41.9442201,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:14:04.668806+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "costazul-rio-das-ostras": {
+      "nome": "Costazul",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5071036,
+      "longitude": -41.9097663,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:14:20.174200+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "mar-do-norte-rio-das-ostras": {
+      "nome": "Mar do Norte",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.4393532,
+      "longitude": -41.845932,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:14:36.766889+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "lagoa-da-coca-cola-rio-das-ostras": {
+      "nome": "Lagoa da Coca-Cola",
+      "municipio": "Rio das Ostras",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5075068,
+      "longitude": -41.9122139,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:14:52.741625+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "praiao-casimiro-de-abreu-e-unamar-cabo-frio": {
+      "nome": "Praião",
+      "municipio": "Casimiro de Abreu e Unamar (Cabo Frio)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.485,
+      "longitude": -42.2026,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "propria",
+      "score": 100
+    },
+    "prainha-casimiro-de-abreu-e-unamar-cabo-frio": {
+      "nome": "Prainha",
+      "municipio": "Casimiro de Abreu e Unamar (Cabo Frio)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.5982663,
+      "longitude": -41.9897769,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:15:09.751388+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "unamar-casimiro-de-abreu-e-unamar-cabo-frio": {
+      "nome": "Unamar",
+      "municipio": "Casimiro de Abreu e Unamar (Cabo Frio)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.485,
+      "longitude": -42.2026,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "propria",
+      "score": 100
+    },
+    "pontal-casimiro-de-abreu-e-unamar-cabo-frio": {
+      "nome": "Pontal",
+      "municipio": "Casimiro de Abreu e Unamar (Cabo Frio)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.485,
+      "longitude": -42.2026,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "rasa-buzios": {
+      "nome": "Rasa",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7212864,
+      "longitude": -41.9827153,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:15:34.436909+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "tucuns-buzios": {
+      "nome": "Tucuns",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7956177,
+      "longitude": -41.9281221,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:15:53.603755+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "manguinhos-buzios": {
+      "nome": "Manguinhos",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.764826,
+      "longitude": -41.9356827,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:16:08.541763+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "geriba-buzios": {
+      "nome": "Geribá",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7803612,
+      "longitude": -41.9136286,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:16:25.868753+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "copacabana-rio-de-janeiro": {
+      "nome": "Copacabana",
+      "municipio": "Rio de Janeiro",
+      "bairro": "Copacabana",
+      "regiao": "Zona Sul",
+      "latitude": -22.9711,
+      "longitude": -43.1823,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:16:43.885771+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "sao-conrado-rio-de-janeiro": {
+      "nome": "São Conrado",
+      "municipio": "Rio de Janeiro",
+      "bairro": "São Conrado",
+      "regiao": "Zona Sul",
+      "latitude": -23.0038,
+      "longitude": -43.2753,
+      "vento": {
+        "velocidade_kmh": 9.427499862670908,
+        "rajada_kmh": 15.371999999999998,
+        "direcao_graus": 25.46
+      },
+      "onda": {
+        "altura_m": 0.66,
+        "periodo_s": 10.08,
+        "direcao_graus": 147.149995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:16:58.294199+00:00",
+      "balneabilidade": null,
+      "score": 60
+    },
+    "eva-niteroi": {
+      "nome": "Eva",
+      "municipio": "Niterói",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9296593,
+      "longitude": -43.1226435,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:17:15.020599+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "flechas-niteroi": {
+      "nome": "Flechas",
+      "municipio": "Niterói",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9054564,
+      "longitude": -43.1215632,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:17:29.907181+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "mambucaba-angra-dos-reis": {
+      "nome": "Mambucaba",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0263311,
+      "longitude": -44.5174704,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:17:45.391201+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "gordas-angra-dos-reis": {
+      "nome": "Gordas",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.1555405,
+      "longitude": -44.2344809,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:18:01.086056+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "costeirinha-angra-dos-reis": {
+      "nome": "Costeirinha",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0148205,
+      "longitude": -44.3218714,
+      "vento": {
+        "velocidade_kmh": 7.748999845504777,
+        "rajada_kmh": 10.872,
+        "direcao_graus": 46.0199993896484
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 10.16,
+        "direcao_graus": 139.6
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:18:18.707354+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "enseada-angra-dos-reis": {
+      "nome": "Enseada",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9834706,
+      "longitude": -44.3153514,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "frade-angra-dos-reis": {
+      "nome": "Frade",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9647968,
+      "longitude": -44.4356029,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "garatucaia-angra-dos-reis": {
+      "nome": "Garatucaia",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0352354,
+      "longitude": -44.17493,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:18:39.469140+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "retiro-angra-dos-reis": {
+      "nome": "Retiro",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9940865,
+      "longitude": -44.3263644,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "eguas-angra-dos-reis": {
+      "nome": "Éguas",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.1555405,
+      "longitude": -44.2344809,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:18:58.078781+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "bexiga-angra-dos-reis": {
+      "nome": "Bexiga",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.1555405,
+      "longitude": -44.2344809,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:19:15.723740+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "itinga-angra-dos-reis": {
+      "nome": "Itinga",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9527812,
+      "longitude": -44.3864875,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "biscaia-angra-dos-reis": {
+      "nome": "Biscaia",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.1555405,
+      "longitude": -44.2344809,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:19:33.493321+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "figueira-angra-dos-reis": {
+      "nome": "Figueira",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0239893,
+      "longitude": -44.5158563,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:19:49.621341+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "laboratorio-angra-dos-reis": {
+      "nome": "Laboratório",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0098371,
+      "longitude": -44.4449195,
+      "vento": {
+        "velocidade_kmh": 7.748999845504777,
+        "rajada_kmh": 10.872,
+        "direcao_graus": 46.0199993896484
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 10.16,
+        "direcao_graus": 139.6
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:20:06.815105+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "vermelha-angra-dos-reis": {
+      "nome": "Vermelha",
+      "municipio": "Angra dos Reis",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.1618352,
+      "longitude": -44.3494574,
+      "vento": {
+        "velocidade_kmh": 7.748999845504777,
+        "rajada_kmh": 10.872,
+        "direcao_graus": 46.0199993896484
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 10.16,
+        "direcao_graus": 139.6
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:20:24.357704+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "manguinhos-sao-francisco-de-itabapoana": {
+      "nome": "Manguinhos",
+      "municipio": "São Francisco de Itabapoana",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -21.452964,
+      "longitude": -41.0367367,
+      "vento": {
+        "velocidade_kmh": 24.362999519348158,
+        "rajada_kmh": 34.63199780273438,
+        "direcao_graus": 7.37999969482422
+      },
+      "onda": {
+        "altura_m": 0.529999961853027,
+        "periodo_s": 8.26,
+        "direcao_graus": 99.91
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:20:41.481410+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "canto-buzios": {
+      "nome": "Canto",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7542039,
+      "longitude": -41.8945301,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:21:01.062904+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "armacao-buzios": {
+      "nome": "Armação",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7493359,
+      "longitude": -41.8817468,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:21:15.653724+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "ossos-buzios": {
+      "nome": "Ossos",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7460152,
+      "longitude": -41.88141,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:21:30.973997+00:00",
+      "balneabilidade": "impropria",
+      "score": -70
+    },
+    "azeda-buzios": {
+      "nome": "Azeda",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7422107,
+      "longitude": -41.8817569,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:21:46.351711+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "joao-fernandes-buzios": {
+      "nome": "João Fernandes",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7417628,
+      "longitude": -41.874454,
+      "vento": {
+        "velocidade_kmh": 29.024999656677256,
+        "rajada_kmh": 36.75600000000001,
+        "direcao_graus": 32.9399993896484
+      },
+      "onda": {
+        "altura_m": 0.969999961853027,
+        "periodo_s": 8.55,
+        "direcao_graus": 117.17
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:22:02.731878+00:00",
+      "balneabilidade": "propria",
+      "score": 130
+    },
+    "brava-buzios": {
+      "nome": "Brava",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.754833,
+      "longitude": -41.8721866,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:22:19.712608+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "forno-buzios": {
+      "nome": "Forno",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7613831,
+      "longitude": -41.8749429,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:22:35.601507+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "ferradura-buzios": {
+      "nome": "Ferradura",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7716498,
+      "longitude": -41.8890462,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:22:52.258097+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "tartaruga-buzios": {
+      "nome": "Tartaruga",
+      "municipio": "Búzios",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7567016,
+      "longitude": -41.9065765,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:23:07.829577+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "monte-alto-arraial-do-cabo": {
+      "nome": "Monte Alto",
+      "municipio": "Arraial do Cabo",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9518494,
+      "longitude": -42.1002629,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:23:25.901521+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "pontal-arraial-do-cabo": {
+      "nome": "Pontal",
+      "municipio": "Arraial do Cabo",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9402004,
+      "longitude": -42.0355684,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:23:41.156968+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "praia-grande-arraial-do-cabo": {
+      "nome": "Praia Grande",
+      "municipio": "Arraial do Cabo",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9706994,
+      "longitude": -42.0332551,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:23:58.376708+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "anjos-arraial-do-cabo": {
+      "nome": "Anjos",
+      "municipio": "Arraial do Cabo",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9729848,
+      "longitude": -42.0206256,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:24:13.806373+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "prainha-arraial-do-cabo": {
+      "nome": "Prainha",
+      "municipio": "Arraial do Cabo",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9587433,
+      "longitude": -42.0253936,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:24:30.349859+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "figueira-arraial-do-cabo": {
+      "nome": "Figueira",
+      "municipio": "Arraial do Cabo",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9518494,
+      "longitude": -42.1002629,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:24:45.577726+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "siqueira-cabo-frio": {
+      "nome": "Siqueira",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.876211,
+      "longitude": -42.0521943,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:25:03.178780+00:00",
+      "balneabilidade": "impropria",
+      "score": -110
+    },
+    "forte-cabo-frio": {
+      "nome": "Forte",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8865672,
+      "longitude": -42.0181832,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:25:18.717572+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "passagem-cabo-frio": {
+      "nome": "Passagem",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8865672,
+      "longitude": -42.0181832,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:25:35.372542+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "conchas-cabo-frio": {
+      "nome": "Conchas",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8696868,
+      "longitude": -41.9831021,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:25:51.777805+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "pero-cabo-frio": {
+      "nome": "Peró",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8450317,
+      "longitude": -41.9838846,
+      "vento": {
+        "velocidade_kmh": 36.22049965667736,
+        "rajada_kmh": 43.74,
+        "direcao_graus": 32.0899993896484
+      },
+      "onda": {
+        "altura_m": 1.13999996185303,
+        "periodo_s": 8.7,
+        "direcao_graus": 111.419995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:26:08.391835+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "palmeiras-cabo-frio": {
+      "nome": "Palmeiras",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8885044,
+      "longitude": -42.042257,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:26:24.314183+00:00",
+      "balneabilidade": "impropria",
+      "score": -110
+    },
+    "foguete-cabo-frio": {
+      "nome": "Foguete",
+      "municipio": "Cabo Frio",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.91732,
+      "longitude": -42.0365793,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:26:40.570181+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "iguaba-grande-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Iguaba Grande",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.841065,
+      "longitude": -42.2120543,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:26:55.923556+00:00",
+      "balneabilidade": "impropria",
+      "score": -110
+    },
+    "linda-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Linda",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8388498,
+      "longitude": -42.2286746,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:27:11.993030+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "centro-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Centro",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.840618,
+      "longitude": -42.2229632,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:27:28.082553+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "pitoria-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Pitória",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8388498,
+      "longitude": -42.2286746,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:27:43.592327+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "sol-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Sol",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.831792,
+      "longitude": -42.229118,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:27:58.808411+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "sudoeste-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Sudoeste",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8388498,
+      "longitude": -42.2286746,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:28:14.537152+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "balneario-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Balneário",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8388498,
+      "longitude": -42.2286746,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:28:29.981622+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "ponta-da-areia-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Ponta da Areia",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8388498,
+      "longitude": -42.2286746,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:28:45.248315+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "porto-d-aldeia-iguaba-grande-e-sao-pedro-d-aldeia": {
+      "nome": "Porto d' Aldeia",
+      "municipio": "Iguaba Grande e São Pedro d'Aldeia",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8388498,
+      "longitude": -42.2286746,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:29:01.650778+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "seca-lagoa-araruama": {
+      "nome": "Seca (Lagoa)",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7446908,
+      "longitude": -42.3231292,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "propria",
+      "score": 100
+    },
+    "nobres-araruama": {
+      "nome": "Nobres",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9211814,
+      "longitude": -42.3062241,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:29:20.046516+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "hospicio-araruama": {
+      "nome": "Hospício",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8906714,
+      "longitude": -42.3492987,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:29:35.898466+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "areal-araruama": {
+      "nome": "Areal",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8930003,
+      "longitude": -42.3578768,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:29:50.870012+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "centro-araruama": {
+      "nome": "Centro",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8703726,
+      "longitude": -42.3385996,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:30:06.939794+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "pontinha-araruama": {
+      "nome": "Pontinha",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8812683,
+      "longitude": -42.3155084,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:30:23.834854+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "amores-araruama": {
+      "nome": "Amores",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9273848,
+      "longitude": -42.3088309,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:30:38.084950+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "coqueiral-araruama": {
+      "nome": "Coqueiral",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8678555,
+      "longitude": -42.3090805,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:30:53.690871+00:00",
+      "balneabilidade": "propria",
+      "score": 110
+    },
+    "barbudo-araruama": {
+      "nome": "Barbudo",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8671517,
+      "longitude": -42.295941,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:31:09.588474+00:00",
+      "balneabilidade": "propria",
+      "score": 110
+    },
+    "iguabinha-araruama": {
+      "nome": "Iguabinha",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8593866,
+      "longitude": -42.2421945,
+      "vento": {
+        "velocidade_kmh": 35.05049965667725,
+        "rajada_kmh": 39.456,
+        "direcao_graus": 37.9199993896484
+      },
+      "onda": {
+        "altura_m": 1.21999996185303,
+        "periodo_s": 9.02,
+        "direcao_graus": 117.549995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:31:24.143330+00:00",
+      "balneabilidade": "propria",
+      "score": 90
+    },
+    "gaviao-araruama": {
+      "nome": "Gavião",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7446908,
+      "longitude": -42.3231292,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "bananeiras-araruama": {
+      "nome": "Bananeiras",
+      "municipio": "Araruama",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8775936,
+      "longitude": -42.2600027,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:31:44.314351+00:00",
+      "balneabilidade": "propria",
+      "score": 110
+    },
+    "itauna-saquarema": {
+      "nome": "Itaúna",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9359818,
+      "longitude": -42.4825457,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:31:57.817522+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "saquarema-saquarema": {
+      "nome": "Saquarema",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9359818,
+      "longitude": -42.4825457,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:32:13.447497+00:00",
+      "balneabilidade": "propria",
+      "score": 110
+    },
+    "boqueirao-saquarema": {
+      "nome": "Boqueirão",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9270528,
+      "longitude": -42.4164821,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:32:29.950272+00:00",
+      "balneabilidade": "impropria",
+      "score": -90
+    },
+    "gravata-saquarema": {
+      "nome": "Gravatá",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9257974,
+      "longitude": -42.507633,
+      "vento": {
+        "velocidade_kmh": 19.669499725341783,
+        "rajada_kmh": 24.984,
+        "direcao_graus": 41.28
+      },
+      "onda": {
+        "altura_m": 0.92,
+        "periodo_s": 9.6,
+        "direcao_graus": 133.629995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:32:43.696856+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "lagoa-de-itauna-saquarema": {
+      "nome": "Lagoa de Itaúna",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9257974,
+      "longitude": -42.507633,
+      "vento": {
+        "velocidade_kmh": 19.669499725341783,
+        "rajada_kmh": 24.984,
+        "direcao_graus": 41.28
+      },
+      "onda": {
+        "altura_m": 0.92,
+        "periodo_s": 9.6,
+        "direcao_graus": 133.629995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:32:59.052167+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "lagoa-do-boqueirao-saquarema": {
+      "nome": "Lagoa do Boqueirão",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9248745,
+      "longitude": -42.5184872,
+      "vento": {
+        "velocidade_kmh": 19.669499725341783,
+        "rajada_kmh": 24.984,
+        "direcao_graus": 41.28
+      },
+      "onda": {
+        "altura_m": 0.92,
+        "periodo_s": 9.6,
+        "direcao_graus": 133.629995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:33:14.695150+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "lagoa-de-saquarema-saquarema": {
+      "nome": "Lagoa de Saquarema",
+      "municipio": "Saquarema",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9275154,
+      "longitude": -42.4264618,
+      "vento": {
+        "velocidade_kmh": 28.95299972534182,
+        "rajada_kmh": 34.308,
+        "direcao_graus": 41.9099993896484
+      },
+      "onda": {
+        "altura_m": 1,
+        "periodo_s": 9.45,
+        "direcao_graus": 132.129995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:33:34.496998+00:00",
+      "balneabilidade": null,
+      "score": 10
+    },
+    "imbuca-paqueta": {
+      "nome": "Imbuca",
+      "municipio": "Paquetá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7677279,
+      "longitude": -43.1065321,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:33:48.545628+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "ribeira-paqueta": {
+      "nome": "Ribeira",
+      "municipio": "Paquetá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7589261,
+      "longitude": -43.1091992,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:34:05.661302+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "grossa-paqueta": {
+      "nome": "Grossa",
+      "municipio": "Paquetá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.76333,
+      "longitude": -43.1068799,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:34:20.822476+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "tamoios-paqueta": {
+      "nome": "Tamoios",
+      "municipio": "Paquetá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7588704,
+      "longitude": -43.1082246,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:34:37.994734+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "catimbau-paqueta": {
+      "nome": "Catimbau",
+      "municipio": "Paquetá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.750301,
+      "longitude": -43.1050218,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:34:52.094156+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "j-bonifacio-paqueta": {
+      "nome": "J. Bonifácio",
+      "municipio": "Paquetá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.7622701,
+      "longitude": -43.1102212,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:35:07.746202+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "galeao-ilha-do-governador-e-ramos": {
+      "nome": "Galeão",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:35:23.483754+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "sao-bento-ilha-do-governador-e-ramos": {
+      "nome": "São Bento",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:35:38.621796+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "jardim-guanabara-ilha-do-governador-e-ramos": {
+      "nome": "Jardim Guanabara",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:35:54.357132+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "bica-ilha-do-governador-e-ramos": {
+      "nome": "Bica",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:36:10.474878+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "ribeira-ilha-do-governador-e-ramos": {
+      "nome": "Ribeira",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:36:27.044494+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "engenhoca-ilha-do-governador-e-ramos": {
+      "nome": "Engenhoca",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:36:42.412214+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "pitangueiras-ilha-do-governador-e-ramos": {
+      "nome": "Pitangueiras",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:36:57.461799+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "bandeira-ilha-do-governador-e-ramos": {
+      "nome": "Bandeira",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:37:12.934052+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "b-capanema-ilha-do-governador-e-ramos": {
+      "nome": "B. Capanema",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:37:27.441323+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "guanabara-ilha-do-governador-e-ramos": {
+      "nome": "Guanabara",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:37:42.602878+00:00",
+      "balneabilidade": null,
+      "score": 45
+    },
+    "pelonias-ilha-do-governador-e-ramos": {
+      "nome": "Pelônias",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:37:58.025690+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "ramos-ilha-do-governador-e-ramos": {
+      "nome": "Ramos",
+      "municipio": "Ilha do Governador e Ramos",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.804841,
+      "longitude": -43.2199084,
+      "vento": {
+        "velocidade_kmh": 10.790999794006344,
+        "rajada_kmh": 19.224,
+        "direcao_graus": 34.94
+      },
+      "onda": {
+        "altura_m": 0.75,
+        "periodo_s": 9.74,
+        "direcao_graus": 138.329995117188
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:38:13.365360+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "mangaratiba-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Mangaratiba",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.923208,
+      "longitude": -43.978044,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999993896484
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:38:30.242443+00:00",
+      "balneabilidade": "impropria",
+      "score": -45
+    },
+    "saco-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Saco",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9467893,
+      "longitude": -44.0414054,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "ibicui-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Ibicuí",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9627159,
+      "longitude": -44.0273374,
+      "vento": null,
+      "onda": null,
+      "estado_do_mar": null,
+      "agitacao": null,
+      "observado_em": null,
+      "balneabilidade": "impropria",
+      "score": -100
+    },
+    "grande-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Grande",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.923208,
+      "longitude": -43.978044,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999993896484
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:38:52.451261+00:00",
+      "balneabilidade": "impropria",
+      "score": -45
+    },
+    "muriqui-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Muriqui",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9281144,
+      "longitude": -43.9452811,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999993896484
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:39:09.070802+00:00",
+      "balneabilidade": "impropria",
+      "score": -45
+    },
+    "itacuruca-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Itacuruça",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0531246,
+      "longitude": -43.9798512,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999993896484
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:39:24.692828+00:00",
+      "balneabilidade": "impropria",
+      "score": -45
+    },
+    "coroa-grande-regiao-da-costa-verde-mangaratiba-e-itaguai": {
+      "nome": "Coroa Grande",
+      "municipio": "Região da Costa Verde (Mangaratiba e Itaguaí)",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.8920694,
+      "longitude": -43.8873857,
+      "vento": {
+        "velocidade_kmh": 12.568499845504775,
+        "rajada_kmh": 18.863999450683597,
+        "direcao_graus": 22.0999993896484
+      },
+      "onda": {
+        "altura_m": 0.48,
+        "periodo_s": 13.47,
+        "direcao_graus": 176.689995117187
+      },
+      "estado_do_mar": "quase_calmo",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:39:40.542737+00:00",
+      "balneabilidade": null,
+      "score": 55
+    },
+    "conceicao-de-jacarei-conceicao-de-jacarei": {
+      "nome": "Conceição de Jacareí",
+      "municipio": "Conceição de Jacareí",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0326763,
+      "longitude": -44.1628983,
+      "vento": {
+        "velocidade_kmh": 12.487499845504775,
+        "rajada_kmh": 20.483999450683594,
+        "direcao_graus": 37.8899993896484
+      },
+      "onda": {
+        "altura_m": 0.97,
+        "periodo_s": 10.01,
+        "direcao_graus": 135.189995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:39:58.828613+00:00",
+      "balneabilidade": "impropria",
+      "score": -55
+    },
+    "ponta-negra-marica": {
+      "nome": "Ponta Negra",
+      "municipio": "Maricá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9397068,
+      "longitude": -42.6561212,
+      "vento": {
+        "velocidade_kmh": 19.669499725341783,
+        "rajada_kmh": 24.984,
+        "direcao_graus": 41.28
+      },
+      "onda": {
+        "altura_m": 0.92,
+        "periodo_s": 9.6,
+        "direcao_graus": 133.629995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:40:14.018033+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "itaipuacu-marica": {
+      "nome": "Itaipuaçu",
+      "municipio": "Maricá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9654407,
+      "longitude": -42.8696498,
+      "vento": {
+        "velocidade_kmh": 12.838499794006346,
+        "rajada_kmh": 19.979999450683597,
+        "direcao_graus": 44.98
+      },
+      "onda": {
+        "altura_m": 0.84,
+        "periodo_s": 9.63,
+        "direcao_graus": 134.849995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:40:30.726823+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "marica-marica": {
+      "nome": "Maricá",
+      "municipio": "Maricá",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -22.9623547,
+      "longitude": -42.9940643,
+      "vento": {
+        "velocidade_kmh": 12.838499794006346,
+        "rajada_kmh": 19.979999450683597,
+        "direcao_graus": 44.98
+      },
+      "onda": {
+        "altura_m": 0.84,
+        "periodo_s": 9.63,
+        "direcao_graus": 134.849995117187
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:40:47.377578+00:00",
+      "balneabilidade": "propria",
+      "score": 145
+    },
+    "pontal-paraty": {
+      "nome": "Pontal",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.2151171,
+      "longitude": -44.7114782,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:41:03.307046+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "paraty-mirim-paraty": {
+      "nome": "Paraty-Mirim",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.2400746,
+      "longitude": -44.6334044,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:41:19.644449+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "jabaquara-paraty": {
+      "nome": "Jabaquara",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.206547,
+      "longitude": -44.7177897,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:41:35.646826+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "tarituba-paraty": {
+      "nome": "Tarituba",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0460841,
+      "longitude": -44.5938002,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:41:50.756102+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "prainha-de-mambucaba-paraty": {
+      "nome": "Prainha de Mambucaba",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.0464188,
+      "longitude": -44.5685479,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:42:08.135953+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "praia-grande-de-corumbe-paraty": {
+      "nome": "Praia Grande de Corumbê",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.2196461,
+      "longitude": -44.7154196,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:42:22.528655+00:00",
+      "balneabilidade": "impropria",
+      "score": -40
+    },
+    "praia-do-meio-trindade-paraty": {
+      "nome": "Praia do Meio (Trindade)",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.3535628,
+      "longitude": -44.7264128,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:42:38.635484+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    },
+    "cepilho-paraty": {
+      "nome": "Cepilho",
+      "municipio": "Paraty",
+      "bairro": "",
+      "regiao": "",
+      "latitude": -23.3445124,
+      "longitude": -44.7145693,
+      "vento": {
+        "velocidade_kmh": 6.1379998111724765,
+        "rajada_kmh": 8.531999450683596,
+        "direcao_graus": 67.0799993896484
+      },
+      "onda": {
+        "altura_m": 0.51,
+        "periodo_s": 13.4,
+        "direcao_graus": 171.63
+      },
+      "estado_do_mar": "leve",
+      "agitacao": null,
+      "observado_em": "2026-08-04T19:42:54.358993+00:00",
+      "balneabilidade": "propria",
+      "score": 160
+    }
+  }
+}
