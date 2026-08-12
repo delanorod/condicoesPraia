@@ -79,6 +79,7 @@ class Beach:
     municipality: str = "Rio de Janeiro"
     neighborhood: str = ""
     region: str = ""
+    characteristics: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
