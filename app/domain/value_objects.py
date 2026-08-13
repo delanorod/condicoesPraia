@@ -5,6 +5,12 @@ import math
 from dataclasses import dataclass
 
 EARTH_RADIUS_KM = 6371.0
+MPS_TO_KMH_FACTOR = 3.6
+
+
+def mps_to_kmh(speed_ms: float) -> float:
+    """Converte velocidade de m/s para km/h (1 m/s = 3.6 km/h)."""
+    return speed_ms * MPS_TO_KMH_FACTOR
 
 
 @dataclass(frozen=True)

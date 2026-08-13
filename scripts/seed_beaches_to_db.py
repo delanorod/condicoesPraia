@@ -24,6 +24,7 @@ async def main() -> None:
     rows = [
         {"id": b.id, "name": b.name, "municipality": b.municipality,
          "neighborhood": b.neighborhood, "region": b.region,
+         "characteristics": list(b.characteristics),
          "latitude": b.coordinates.latitude, "longitude": b.coordinates.longitude}
         for b in RIO_BEACHES
     ]

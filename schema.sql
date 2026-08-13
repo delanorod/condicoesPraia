@@ -1,13 +1,14 @@
 -- Rode isto no SQL Editor do painel do Supabase.
 
 CREATE TABLE IF NOT EXISTS beaches (
-    id            TEXT PRIMARY KEY,
-    name          TEXT NOT NULL,
-    municipality  TEXT NOT NULL DEFAULT 'Rio de Janeiro',
-    neighborhood  TEXT NOT NULL DEFAULT '',
-    region        TEXT NOT NULL DEFAULT '',
-    latitude      DOUBLE PRECISION NOT NULL,
-    longitude     DOUBLE PRECISION NOT NULL
+    id               TEXT PRIMARY KEY,
+    name             TEXT NOT NULL,
+    municipality     TEXT NOT NULL DEFAULT 'Rio de Janeiro',
+    neighborhood     TEXT NOT NULL DEFAULT '',
+    region           TEXT NOT NULL DEFAULT '',
+    characteristics  TEXT[] NOT NULL DEFAULT '{}',
+    latitude         DOUBLE PRECISION NOT NULL,
+    longitude        DOUBLE PRECISION NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS coastal_conditions (

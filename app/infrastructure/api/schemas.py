@@ -7,6 +7,7 @@ from datetime import datetime
 from pydantic import BaseModel
 
 from app.domain.entities import CoastalCondition
+from app.domain.value_objects import mps_to_kmh
 
 
 class BeachDTO(BaseModel):
@@ -20,8 +21,8 @@ class BeachDTO(BaseModel):
 
 
 class WindDTO(BaseModel):
-    velocidade_ms: float
-    rajada_ms: float
+    velocidade_kmh: float
+    rajada_kmh: float
     direcao_graus: float
     observado_em: datetime
 
@@ -53,8 +54,8 @@ class CoastalConditionDTO(BaseModel):
                 longitude=condition.beach.coordinates.longitude,
             ),
             vento=WindDTO(
-                velocidade_ms=condition.wind.speed_ms,
-                rajada_ms=condition.wind.gust_ms,
+                velocidade_kmh=mps_to_kmh(condition.wind.speed_ms),
+                rajada_kmh=mps_to_kmh(condition.wind.gust_ms),
                 direcao_graus=condition.wind.direction_deg,
                 observado_em=condition.wind.observed_at,
             ),

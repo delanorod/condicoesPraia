@@ -51,7 +51,7 @@ class TestGetCoastalConditionEndpoint:
         assert response.status_code == 200
         body = response.json()
         assert body["praia"]["nome"] == "Copacabana"
-        assert body["vento"]["velocidade_ms"] == 6.2
+        assert body["vento"]["velocidade_kmh"] == 6.2 * 3.6
         assert body["onda"]["altura_m"] == 1.8
         assert body["estado_do_mar"] == "moderado"
 

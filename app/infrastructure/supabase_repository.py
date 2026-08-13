@@ -24,6 +24,7 @@ def _row_to_beach(row: dict) -> Beach:
         municipality=row.get("municipality", "Rio de Janeiro"),
         neighborhood=row.get("neighborhood", "") or "",
         region=row.get("region", "") or "",
+        characteristics=tuple(row.get("characteristics") or ()),
     )
 
 
