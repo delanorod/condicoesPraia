@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-27T10:20:42.931314+00:00",
+  "gerado_em": "2026-08-27T22:44:09.252587+00:00",
   "fonte_onda_vento": "NOAA GFS-Wave",
   "fonte_balneabilidade": "INEA (via praialimpa.net)",
   "praia_recomendada": "recreio-dos-bandeirantes-rio-de-janeiro",
@@ -13,20 +13,20 @@
       "latitude": -23.0116,
       "longitude": -43.3652,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:14.823001+00:00",
+      "observado_em": "2026-08-27T22:29:29.295315+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -100
     },
     "copacabana": {
       "nome": "Copacabana",
@@ -37,20 +37,20 @@
       "latitude": -22.9868,
       "longitude": -43.1897,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:17.371475+00:00",
+      "observado_em": "2026-08-27T22:29:31.209427+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "ipanema": {
       "nome": "Ipanema",
@@ -61,20 +61,20 @@
       "latitude": -22.9868,
       "longitude": -43.2044,
       "vento": {
-        "velocidade_kmh": 6.516,
-        "rajada_kmh": 6.516,
-        "direcao_graus": 288.359995117188
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.04,
-        "periodo_s": 12.39,
-        "direcao_graus": 179.61
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-26T20:35:54.584201+00:00",
+      "observado_em": "2026-08-27T22:29:33.286926+00:00",
       "balneabilidade": "impropria",
-      "score": -100
+      "score": -115
     },
     "leblon": {
       "nome": "Leblon",
@@ -85,20 +85,20 @@
       "latitude": -22.9838,
       "longitude": -43.2223,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:50.306365+00:00",
+      "observado_em": "2026-08-27T22:29:35.249338+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "arpoador": {
       "nome": "Arpoador",
@@ -109,20 +109,20 @@
       "latitude": -22.9889,
       "longitude": -43.1936,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:52.455920+00:00",
+      "observado_em": "2026-08-27T22:29:37.813721+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "leme": {
       "nome": "Leme",
@@ -133,20 +133,20 @@
       "latitude": -22.9647,
       "longitude": -43.1719,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:54.517839+00:00",
+      "observado_em": "2026-08-27T22:29:39.721469+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "barra": {
       "nome": "Barra da Tijuca",
@@ -157,20 +157,20 @@
       "latitude": -23.0116,
       "longitude": -43.3652,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:56.952944+00:00",
+      "observado_em": "2026-08-27T22:29:41.783391+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": 0
     },
     "recreio": {
       "nome": "Recreio dos Bandeirantes",
@@ -181,20 +181,20 @@
       "latitude": -23.0264,
       "longitude": -43.4649,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:08:59.041807+00:00",
+      "observado_em": "2026-08-27T22:29:43.689590+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 100
     },
     "grumari": {
       "nome": "Grumari",
@@ -205,20 +205,20 @@
       "latitude": -23.05333,
       "longitude": -43.535,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.3
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.5599987792969,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:01.293232+00:00",
+      "observado_em": "2026-08-27T22:29:45.990483+00:00",
       "balneabilidade": "propria",
-      "score": 85
+      "score": 120
     },
     "prainha": {
       "nome": "Prainha",
@@ -253,18 +253,18 @@
       "latitude": -23.02,
       "longitude": -43.29,
       "vento": {
-        "velocidade_kmh": 4.284,
-        "rajada_kmh": 4.284,
-        "direcao_graus": 261.91
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 1.85,
-        "periodo_s": 12.39,
-        "direcao_graus": 174.309990234375
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-26T20:36:14.009991+00:00",
+      "observado_em": "2026-08-27T22:30:18.973112+00:00",
       "balneabilidade": "indisponivel",
       "score": 0
     },
@@ -277,20 +277,20 @@
       "latitude": -22.9986,
       "longitude": -43.257,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.5599987792969,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:36.278065+00:00",
+      "observado_em": "2026-08-27T22:30:22.621318+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 100
     },
     "flamengo": {
       "nome": "Flamengo",
@@ -301,20 +301,20 @@
       "latitude": -22.931,
       "longitude": -43.173,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:38.271421+00:00",
+      "observado_em": "2026-08-27T22:30:24.510421+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "botafogo": {
       "nome": "Botafogo",
@@ -325,20 +325,20 @@
       "latitude": -22.9519,
       "longitude": -43.1823,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:40.123524+00:00",
+      "observado_em": "2026-08-27T22:30:27.012316+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "urca": {
       "nome": "Urca",
@@ -349,20 +349,20 @@
       "latitude": -22.9489,
       "longitude": -43.1656,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:42.038485+00:00",
+      "observado_em": "2026-08-27T22:30:29.611471+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "vermelha": {
       "nome": "Vermelha",
@@ -373,20 +373,20 @@
       "latitude": -22.95528,
       "longitude": -43.16472,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:44.464351+00:00",
+      "observado_em": "2026-08-27T22:30:31.471003+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "recreio-dos-bandeirantes-rio-de-janeiro": {
       "nome": "Recreio dos Bandeirantes",
@@ -400,20 +400,20 @@
       "latitude": -23.0241,
       "longitude": -43.4626,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:46.186344+00:00",
+      "observado_em": "2026-08-27T22:30:34.776400+00:00",
       "balneabilidade": "propria",
-      "score": 95
+      "score": 125
     },
     "grumari-rio-de-janeiro": {
       "nome": "Grumari",
@@ -427,20 +427,20 @@
       "latitude": -23.0548,
       "longitude": -43.5283,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.3
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.5599987792969,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:48.192723+00:00",
+      "observado_em": "2026-08-27T22:30:37.296961+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": 5
     },
     "barra-de-guaratiba-rio-de-janeiro": {
       "nome": "Barra de Guaratiba",
@@ -454,20 +454,20 @@
       "latitude": -23.065,
       "longitude": -43.57,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.3
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.5599987792969,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:50.193260+00:00",
+      "observado_em": "2026-08-27T22:30:39.436666+00:00",
       "balneabilidade": "propria",
-      "score": 85
+      "score": 120
     },
     "itaipu-niteroi": {
       "nome": "Itaipu",
@@ -508,20 +508,20 @@
       "latitude": -22.9554,
       "longitude": -43.0588,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:53.875161+00:00",
+      "observado_em": "2026-08-27T22:31:11.745818+00:00",
       "balneabilidade": "propria",
-      "score": 55
+      "score": 70
     },
     "arpoador-rio-de-janeiro": {
       "nome": "Arpoador",
@@ -535,20 +535,20 @@
       "latitude": -22.9876,
       "longitude": -43.194,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:55.825385+00:00",
+      "observado_em": "2026-08-27T22:31:13.767828+00:00",
       "balneabilidade": null,
-      "score": -45
+      "score": -30
     },
     "diabo-rio-de-janeiro": {
       "nome": "Diabo",
@@ -562,20 +562,20 @@
       "latitude": -22.988,
       "longitude": -43.196,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:57.790398+00:00",
+      "observado_em": "2026-08-27T22:31:15.582112+00:00",
       "balneabilidade": "impropria",
-      "score": -145
+      "score": -130
     },
     "itacoatiara-niteroi": {
       "nome": "Itacoatiara",
@@ -589,20 +589,20 @@
       "latitude": -22.9681,
       "longitude": -43.0356,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:09:59.564529+00:00",
+      "observado_em": "2026-08-27T22:31:17.762344+00:00",
       "balneabilidade": "propria",
-      "score": 55
+      "score": 70
     },
     "macumba-rio-de-janeiro": {
       "nome": "Macumba",
@@ -616,20 +616,20 @@
       "latitude": -23.031,
       "longitude": -43.4921,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:01.732452+00:00",
+      "observado_em": "2026-08-27T22:31:19.785506+00:00",
       "balneabilidade": null,
-      "score": -45
+      "score": -15
     },
     "charitas-niteroi": {
       "nome": "Charitas",
@@ -643,20 +643,20 @@
       "latitude": -22.9231,
       "longitude": -43.12,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:03.688188+00:00",
+      "observado_em": "2026-08-27T22:31:21.771654+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "gragoata-niteroi": {
       "nome": "Gragoatá",
@@ -670,20 +670,20 @@
       "latitude": -22.895,
       "longitude": -43.123,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:05.782066+00:00",
+      "observado_em": "2026-08-27T22:31:23.815926+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "leme-rio-de-janeiro": {
       "nome": "Leme",
@@ -697,20 +697,20 @@
       "latitude": -22.9635,
       "longitude": -43.1674,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:07.639855+00:00",
+      "observado_em": "2026-08-27T22:31:25.787320+00:00",
       "balneabilidade": null,
-      "score": -5
+      "score": 10
     },
     "pepino-rio-de-janeiro": {
       "nome": "Pepino",
@@ -724,20 +724,20 @@
       "latitude": -23.007,
       "longitude": -43.282,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:10.201379+00:00",
+      "observado_em": "2026-08-27T22:31:27.801702+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 100
     },
     "vermelha-rio-de-janeiro": {
       "nome": "Vermelha",
@@ -751,20 +751,20 @@
       "latitude": -22.9533,
       "longitude": -43.1607,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:12.223249+00:00",
+      "observado_em": "2026-08-27T22:31:29.846687+00:00",
       "balneabilidade": null,
-      "score": -45
+      "score": -30
     },
     "prainha-rio-de-janeiro": {
       "nome": "Prainha",
@@ -778,20 +778,20 @@
       "latitude": -23.0415,
       "longitude": -43.5043,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.3
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.5599987792969,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:14.653066+00:00",
+      "observado_em": "2026-08-27T22:31:31.921825+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": 5
     },
     "recreio-rio-de-janeiro": {
       "nome": "Recreio",
@@ -802,20 +802,20 @@
       "latitude": -23.0282272,
       "longitude": -43.4641815,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:16.713938+00:00",
+      "observado_em": "2026-08-27T22:31:33.942524+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": 0
     },
     "pontal-de-sernambetiba-rio-de-janeiro": {
       "nome": "Pontal de Sernambetiba",
@@ -828,20 +828,20 @@
       "latitude": -23.018,
       "longitude": -43.445,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:19.068841+00:00",
+      "observado_em": "2026-08-27T22:31:35.929502+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -100
     },
     "camboinhas-niteroi": {
       "nome": "Camboinhas",
@@ -854,20 +854,20 @@
       "latitude": -22.9645,
       "longitude": -43.0534,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:20.950801+00:00",
+      "observado_em": "2026-08-27T22:31:37.806254+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "joatinga-rio-de-janeiro": {
       "nome": "Joatinga",
@@ -881,20 +881,20 @@
       "latitude": -23.0102,
       "longitude": -43.2879,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:23.016883+00:00",
+      "observado_em": "2026-08-27T22:31:39.900314+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": 0
     },
     "jurujuba-niteroi": {
       "nome": "Jurujuba",
@@ -908,20 +908,20 @@
       "latitude": -22.9354,
       "longitude": -43.1118,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:25.204192+00:00",
+      "observado_em": "2026-08-27T22:31:41.788469+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "icarai-niteroi": {
       "nome": "Icaraí",
@@ -935,20 +935,20 @@
       "latitude": -22.9035,
       "longitude": -43.1106,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:27.503511+00:00",
+      "observado_em": "2026-08-27T22:31:43.837986+00:00",
       "balneabilidade": "propria",
-      "score": 95
+      "score": 110
     },
     "boa-viagem-niteroi": {
       "nome": "Boa Viagem",
@@ -962,20 +962,20 @@
       "latitude": -22.899,
       "longitude": -43.115,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:29.646266+00:00",
+      "observado_em": "2026-08-27T22:31:45.973456+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "sao-francisco-niteroi": {
       "nome": "São Francisco",
@@ -988,20 +988,20 @@
       "latitude": -22.915,
       "longitude": -43.118,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:32.716887+00:00",
+      "observado_em": "2026-08-27T22:31:47.899262+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "flamengo-rio-de-janeiro": {
       "nome": "Flamengo",
@@ -1015,20 +1015,20 @@
       "latitude": -22.9295,
       "longitude": -43.1736,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:34.882375+00:00",
+      "observado_em": "2026-08-27T22:31:50.190933+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "botafogo-rio-de-janeiro": {
       "nome": "Botafogo",
@@ -1042,20 +1042,20 @@
       "latitude": -22.9519,
       "longitude": -43.182,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:36.975551+00:00",
+      "observado_em": "2026-08-27T22:31:52.236375+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "urca-rio-de-janeiro": {
       "nome": "Urca",
@@ -1069,20 +1069,20 @@
       "latitude": -22.9486,
       "longitude": -43.1637,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:38.959033+00:00",
+      "observado_em": "2026-08-27T22:31:54.185764+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "barra-da-tijuca-rio-de-janeiro": {
       "nome": "Barra da Tijuca",
@@ -1096,20 +1096,20 @@
       "latitude": -23.0048,
       "longitude": -43.3658,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:40.806500+00:00",
+      "observado_em": "2026-08-27T22:31:56.216199+00:00",
       "balneabilidade": null,
-      "score": -45
+      "score": -15
     },
     "ipanema-rio-de-janeiro": {
       "nome": "Ipanema",
@@ -1123,20 +1123,20 @@
       "latitude": -22.9868,
       "longitude": -43.204,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:43.029927+00:00",
+      "observado_em": "2026-08-27T22:31:58.329675+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "leblon-rio-de-janeiro": {
       "nome": "Leblon",
@@ -1150,20 +1150,20 @@
       "latitude": -22.9877,
       "longitude": -43.223,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:45.007317+00:00",
+      "observado_em": "2026-08-27T22:32:00.268185+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "vidigal-rio-de-janeiro": {
       "nome": "Vidigal",
@@ -1177,20 +1177,20 @@
       "latitude": -22.9932,
       "longitude": -43.2349,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:47.524623+00:00",
+      "observado_em": "2026-08-27T22:32:02.118355+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "gloria-rio-de-janeiro": {
       "nome": "Glória",
@@ -1204,20 +1204,20 @@
       "latitude": -22.9232,
       "longitude": -43.174,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:49.504896+00:00",
+      "observado_em": "2026-08-27T22:32:04.055900+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "adao-niteroi": {
       "nome": "Adão",
@@ -1228,20 +1228,20 @@
       "latitude": -22.9275652,
       "longitude": -43.122763,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:51.422169+00:00",
+      "observado_em": "2026-08-27T22:32:06.113508+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "bonfim-angra-dos-reis": {
       "nome": "Bonfim",
@@ -1252,20 +1252,20 @@
       "latitude": -23.020845,
       "longitude": -44.3327425,
       "vento": {
-        "velocidade_kmh": 21.636,
-        "rajada_kmh": 21.636,
-        "direcao_graus": 80.9
+        "velocidade_kmh": 13.967999450683596,
+        "rajada_kmh": 13.967999450683596,
+        "direcao_graus": 53.55
       },
       "onda": {
-        "altura_m": 2.16,
-        "periodo_s": 14.32,
-        "direcao_graus": 166.55
+        "altura_m": 1.97,
+        "periodo_s": 14.4499987792969,
+        "direcao_graus": 164.359990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:53.339663+00:00",
+      "observado_em": "2026-08-27T22:32:08.059908+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "praia-grande-angra-dos-reis": {
       "nome": "Praia Grande",
@@ -1276,20 +1276,20 @@
       "latitude": -23.044002,
       "longitude": -44.3728007,
       "vento": {
-        "velocidade_kmh": 21.636,
-        "rajada_kmh": 21.636,
-        "direcao_graus": 80.9
+        "velocidade_kmh": 13.967999450683596,
+        "rajada_kmh": 13.967999450683596,
+        "direcao_graus": 53.55
       },
       "onda": {
-        "altura_m": 2.16,
-        "periodo_s": 14.32,
-        "direcao_graus": 166.55
+        "altura_m": 1.97,
+        "periodo_s": 14.4499987792969,
+        "direcao_graus": 164.359990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:10:55.142722+00:00",
+      "observado_em": "2026-08-27T22:32:10.123773+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "jacuecanga-angra-dos-reis": {
       "nome": "Jacuecanga",
@@ -1316,18 +1316,18 @@
       "latitude": -23.1352592,
       "longitude": -44.1545463,
       "vento": {
-        "velocidade_kmh": 29.268000000000004,
-        "rajada_kmh": 29.268000000000004,
-        "direcao_graus": 88.11
+        "velocidade_kmh": 22.031999450683596,
+        "rajada_kmh": 22.031999450683596,
+        "direcao_graus": 54.81
       },
       "onda": {
-        "altura_m": 2.37,
-        "periodo_s": 14.29,
-        "direcao_graus": 167.2
+        "altura_m": 2.14,
+        "periodo_s": 14.45,
+        "direcao_graus": 164.739990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:11:00.294786+00:00",
+      "observado_em": "2026-08-27T22:32:13.702402+00:00",
       "balneabilidade": "propria",
       "score": 70
     },
@@ -1340,20 +1340,20 @@
       "latitude": -21.4792521,
       "longitude": -41.0577166,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.8999987792969,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:02.133525+00:00",
+      "observado_em": "2026-08-27T22:32:15.732804+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "sossego-sao-francisco-de-itabapoana": {
       "nome": "Sossego",
@@ -1364,20 +1364,20 @@
       "latitude": -21.492483,
       "longitude": -41.0664792,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.8999987792969,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:04.076535+00:00",
+      "observado_em": "2026-08-27T22:32:17.738355+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "tropical-sao-francisco-de-itabapoana": {
       "nome": "Tropical",
@@ -1388,20 +1388,20 @@
       "latitude": -21.5369093,
       "longitude": -41.0710554,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.9,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:06.322835+00:00",
+      "observado_em": "2026-08-27T22:32:19.858289+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "itaperuna-sao-francisco-de-itabapoana": {
       "nome": "Itaperuna",
@@ -1412,20 +1412,20 @@
       "latitude": -21.5114814,
       "longitude": -41.0866915,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.9,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:08.404041+00:00",
+      "observado_em": "2026-08-27T22:32:21.790737+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "sonho-sao-francisco-de-itabapoana": {
       "nome": "Sonho",
@@ -1436,20 +1436,20 @@
       "latitude": -21.4537437,
       "longitude": -41.1452982,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.8999987792969,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:10.532468+00:00",
+      "observado_em": "2026-08-27T22:32:23.686578+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "gargau-sao-francisco-de-itabapoana": {
       "nome": "Gargaú",
@@ -1460,18 +1460,18 @@
       "latitude": -21.5615608,
       "longitude": -41.0600938,
       "vento": {
-        "velocidade_kmh": 13.176,
-        "rajada_kmh": 13.176,
-        "direcao_graus": 230.34
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.79,
-        "periodo_s": 12.96,
-        "direcao_graus": 123.08
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-26T20:38:08.366672+00:00",
+      "observado_em": "2026-08-27T22:32:25.585911+00:00",
       "balneabilidade": "propria",
       "score": 140
     },
@@ -1484,20 +1484,20 @@
       "latitude": -21.688009,
       "longitude": -41.0231546,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.9,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:42.616146+00:00",
+      "observado_em": "2026-08-27T22:32:27.579124+00:00",
       "balneabilidade": "impropria",
-      "score": -75
+      "score": -60
     },
     "atafona-sao-joao-da-barra": {
       "nome": "Atafona",
@@ -1508,20 +1508,20 @@
       "latitude": -21.6537276,
       "longitude": -41.0176438,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.9,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:44.981061+00:00",
+      "observado_em": "2026-08-27T22:32:29.901528+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "lagoa-de-grussai-sao-joao-da-barra": {
       "nome": "Lagoa de Grussaí",
@@ -1532,20 +1532,20 @@
       "latitude": -21.688009,
       "longitude": -41.0231546,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.9,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:11:46.988758+00:00",
+      "observado_em": "2026-08-27T22:32:31.798260+00:00",
       "balneabilidade": null,
-      "score": 25
+      "score": 40
     },
     "farol-de-sao-tome-campos": {
       "nome": "Farol de São Tomé",
@@ -1556,18 +1556,18 @@
       "latitude": -22.0391709,
       "longitude": -41.0536377,
       "vento": {
-        "velocidade_kmh": 21.635999450683595,
-        "rajada_kmh": 21.635999450683595,
-        "direcao_graus": 125.84
+        "velocidade_kmh": 20.304,
+        "rajada_kmh": 20.304,
+        "direcao_graus": 98.89
       },
       "onda": {
-        "altura_m": 2.02999992370605,
-        "periodo_s": 14.55,
-        "direcao_graus": 154.619990234375
+        "altura_m": 1.98,
+        "periodo_s": 14.47,
+        "direcao_graus": 153.949990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:11:49.590990+00:00",
+      "observado_em": "2026-08-27T22:32:33.948902+00:00",
       "balneabilidade": "propria",
       "score": 70
     },
@@ -1596,18 +1596,18 @@
       "latitude": -22.4071231,
       "longitude": -41.8005748,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:11:53.219844+00:00",
+      "observado_em": "2026-08-27T22:32:37.628255+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1620,18 +1620,18 @@
       "latitude": -22.392478,
       "longitude": -41.7799543,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:11:55.576495+00:00",
+      "observado_em": "2026-08-27T22:32:39.532339+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1644,18 +1644,18 @@
       "latitude": -22.3822494,
       "longitude": -41.7706265,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:11:57.770624+00:00",
+      "observado_em": "2026-08-27T22:32:41.512070+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -1668,18 +1668,18 @@
       "latitude": -22.3764369,
       "longitude": -41.771176,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:11:59.483589+00:00",
+      "observado_em": "2026-08-27T22:32:43.438938+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -1716,18 +1716,18 @@
       "latitude": -22.411424,
       "longitude": -41.808443,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:03.633224+00:00",
+      "observado_em": "2026-08-27T22:33:16.065649+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1740,18 +1740,18 @@
       "latitude": -22.3417817,
       "longitude": -41.7655371,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:05.761461+00:00",
+      "observado_em": "2026-08-27T22:33:18.077772+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -1764,18 +1764,18 @@
       "latitude": -22.3283926,
       "longitude": -41.7339495,
       "vento": {
-        "velocidade_kmh": 15.083998901367192,
-        "rajada_kmh": 15.083998901367192,
-        "direcao_graus": 113.21
+        "velocidade_kmh": 14.796000000000001,
+        "rajada_kmh": 14.796000000000001,
+        "direcao_graus": 84.47
       },
       "onda": {
-        "altura_m": 2.14999992370605,
-        "periodo_s": 14.6,
-        "direcao_graus": 164.449990234375
+        "altura_m": 2.02,
+        "periodo_s": 14.59,
+        "direcao_graus": 163.709990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:07.784577+00:00",
+      "observado_em": "2026-08-27T22:33:20.110986+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1788,18 +1788,18 @@
       "latitude": -22.3070411,
       "longitude": -41.708926,
       "vento": {
-        "velocidade_kmh": 15.083998901367192,
-        "rajada_kmh": 15.083998901367192,
-        "direcao_graus": 113.21
+        "velocidade_kmh": 14.796000000000001,
+        "rajada_kmh": 14.796000000000001,
+        "direcao_graus": 84.47
       },
       "onda": {
-        "altura_m": 2.14999992370605,
-        "periodo_s": 14.6,
-        "direcao_graus": 164.449990234375
+        "altura_m": 2.02,
+        "periodo_s": 14.59,
+        "direcao_graus": 163.709990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:09.816806+00:00",
+      "observado_em": "2026-08-27T22:33:22.029075+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -1812,18 +1812,18 @@
       "latitude": -22.2828305,
       "longitude": -41.9649091,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:12.070477+00:00",
+      "observado_em": "2026-08-27T22:33:23.902771+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1836,18 +1836,18 @@
       "latitude": -22.5310507,
       "longitude": -41.9570342,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:14.007363+00:00",
+      "observado_em": "2026-08-27T22:33:25.929308+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1860,18 +1860,18 @@
       "latitude": -22.5279445,
       "longitude": -41.9442201,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:15.846015+00:00",
+      "observado_em": "2026-08-27T22:33:27.868407+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1884,18 +1884,18 @@
       "latitude": -22.532569,
       "longitude": -41.9377597,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:18.099677+00:00",
+      "observado_em": "2026-08-27T22:33:30.012199+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -1908,18 +1908,18 @@
       "latitude": -22.536186,
       "longitude": -41.9370671,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:20.199148+00:00",
+      "observado_em": "2026-08-27T22:33:31.775031+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1932,18 +1932,18 @@
       "latitude": -22.5269448,
       "longitude": -41.944972,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:22.557611+00:00",
+      "observado_em": "2026-08-27T22:33:33.742331+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1956,18 +1956,18 @@
       "latitude": -22.5279445,
       "longitude": -41.9442201,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:24.704990+00:00",
+      "observado_em": "2026-08-27T22:33:35.924743+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -1980,18 +1980,18 @@
       "latitude": -22.5071036,
       "longitude": -41.9097663,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:26.982597+00:00",
+      "observado_em": "2026-08-27T22:33:37.834992+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2004,18 +2004,18 @@
       "latitude": -22.4393532,
       "longitude": -41.845932,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.689990234375
+        "altura_m": 2.19,
+        "periodo_s": 14.6099987792969,
+        "direcao_graus": 161.719990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:28.891546+00:00",
+      "observado_em": "2026-08-27T22:33:39.804708+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2028,18 +2028,18 @@
       "latitude": -22.5075068,
       "longitude": -41.9122139,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:30.730874+00:00",
+      "observado_em": "2026-08-27T22:33:41.847147+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2068,18 +2068,18 @@
       "latitude": -22.5982663,
       "longitude": -41.9897769,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:34.299587+00:00",
+      "observado_em": "2026-08-27T22:33:45.407717+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2124,18 +2124,18 @@
       "latitude": -22.7212864,
       "longitude": -41.9827153,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:39.757105+00:00",
+      "observado_em": "2026-08-27T22:33:50.883917+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2148,20 +2148,20 @@
       "latitude": -22.7956177,
       "longitude": -41.9281221,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:12:41.559985+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:33:52.807591+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "manguinhos-buzios": {
       "nome": "Manguinhos",
@@ -2172,20 +2172,20 @@
       "latitude": -22.764826,
       "longitude": -41.9356827,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:12:43.700488+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:33:54.942361+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "geriba-buzios": {
       "nome": "Geribá",
@@ -2196,20 +2196,20 @@
       "latitude": -22.7803612,
       "longitude": -41.9136286,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:12:45.567788+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:33:56.931027+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "monte-alto-arraial-do-cabo": {
       "nome": "Monte Alto",
@@ -2220,20 +2220,20 @@
       "latitude": -22.9518494,
       "longitude": -42.1002629,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:12:47.431228+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:33:58.815175+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "copacabana-rio-de-janeiro": {
       "nome": "Copacabana",
@@ -2247,20 +2247,20 @@
       "latitude": -22.9711,
       "longitude": -43.1823,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:49.544549+00:00",
+      "observado_em": "2026-08-27T22:34:00.719916+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "sao-conrado-rio-de-janeiro": {
       "nome": "São Conrado",
@@ -2274,20 +2274,20 @@
       "latitude": -23.0038,
       "longitude": -43.2753,
       "vento": {
-        "velocidade_kmh": 20.088,
-        "rajada_kmh": 20.088,
-        "direcao_graus": 87.7099951171875
+        "velocidade_kmh": 9.647999450683596,
+        "rajada_kmh": 9.647999450683596,
+        "direcao_graus": 68.1
       },
       "onda": {
-        "altura_m": 2.05,
-        "periodo_s": 14.37,
-        "direcao_graus": 167.66
+        "altura_m": 1.79,
+        "periodo_s": 14.56,
+        "direcao_graus": 166.39
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:51.924110+00:00",
+      "observado_em": "2026-08-27T22:34:02.568915+00:00",
       "balneabilidade": null,
-      "score": -45
+      "score": -15
     },
     "eva-niteroi": {
       "nome": "Eva",
@@ -2298,20 +2298,20 @@
       "latitude": -22.9296593,
       "longitude": -43.1226435,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:53.810273+00:00",
+      "observado_em": "2026-08-27T22:34:04.857636+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "flechas-niteroi": {
       "nome": "Flechas",
@@ -2322,20 +2322,20 @@
       "latitude": -22.9054564,
       "longitude": -43.1215632,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:55.639219+00:00",
+      "observado_em": "2026-08-27T22:34:06.665709+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "mambucaba-angra-dos-reis": {
       "nome": "Mambucaba",
@@ -2346,18 +2346,18 @@
       "latitude": -23.0263311,
       "longitude": -44.5174704,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:12:57.501256+00:00",
+      "observado_em": "2026-08-27T22:34:08.679928+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2370,20 +2370,20 @@
       "latitude": -23.1555405,
       "longitude": -44.2344809,
       "vento": {
-        "velocidade_kmh": 7.5600000000000005,
-        "rajada_kmh": 7.5600000000000005,
-        "direcao_graus": 79.6599975585938
+        "velocidade_kmh": 22.031999450683596,
+        "rajada_kmh": 22.031999450683596,
+        "direcao_graus": 54.81
       },
       "onda": {
-        "altura_m": 2.06,
-        "periodo_s": 12.28,
-        "direcao_graus": 176.049990234375
+        "altura_m": 2.14,
+        "periodo_s": 14.45,
+        "direcao_graus": 164.739990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-26T20:39:28.308970+00:00",
+      "observado_em": "2026-08-27T22:34:10.750844+00:00",
       "balneabilidade": "propria",
-      "score": 100
+      "score": 70
     },
     "costeirinha-angra-dos-reis": {
       "nome": "Costeirinha",
@@ -2394,20 +2394,20 @@
       "latitude": -23.0148205,
       "longitude": -44.3218714,
       "vento": {
-        "velocidade_kmh": 21.636,
-        "rajada_kmh": 21.636,
-        "direcao_graus": 80.9
+        "velocidade_kmh": 13.967999450683596,
+        "rajada_kmh": 13.967999450683596,
+        "direcao_graus": 53.55
       },
       "onda": {
-        "altura_m": 2.16,
-        "periodo_s": 14.32,
-        "direcao_graus": 166.55
+        "altura_m": 1.97,
+        "periodo_s": 14.4499987792969,
+        "direcao_graus": 164.359990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:13:30.367771+00:00",
+      "observado_em": "2026-08-27T22:34:12.562801+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "enseada-angra-dos-reis": {
       "nome": "Enseada",
@@ -2450,18 +2450,18 @@
       "latitude": -23.0352354,
       "longitude": -44.17493,
       "vento": {
-        "velocidade_kmh": 29.268000000000004,
-        "rajada_kmh": 29.268000000000004,
-        "direcao_graus": 88.11
+        "velocidade_kmh": 22.031999450683596,
+        "rajada_kmh": 22.031999450683596,
+        "direcao_graus": 54.81
       },
       "onda": {
-        "altura_m": 2.37,
-        "periodo_s": 14.29,
-        "direcao_graus": 167.2
+        "altura_m": 2.14,
+        "periodo_s": 14.45,
+        "direcao_graus": 164.739990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:13:36.405011+00:00",
+      "observado_em": "2026-08-27T22:34:17.784397+00:00",
       "balneabilidade": "propria",
       "score": 70
     },
@@ -2490,18 +2490,18 @@
       "latitude": -23.1555405,
       "longitude": -44.2344809,
       "vento": {
-        "velocidade_kmh": 29.268000000000004,
-        "rajada_kmh": 29.268000000000004,
-        "direcao_graus": 88.11
+        "velocidade_kmh": 22.031999450683596,
+        "rajada_kmh": 22.031999450683596,
+        "direcao_graus": 54.81
       },
       "onda": {
-        "altura_m": 2.37,
-        "periodo_s": 14.29,
-        "direcao_graus": 167.2
+        "altura_m": 2.14,
+        "periodo_s": 14.45,
+        "direcao_graus": 164.739990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:13:40.341339+00:00",
+      "observado_em": "2026-08-27T22:34:22.857663+00:00",
       "balneabilidade": "propria",
       "score": 70
     },
@@ -2578,18 +2578,18 @@
       "latitude": -23.0239893,
       "longitude": -44.5158563,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:13:48.542675+00:00",
+      "observado_em": "2026-08-27T22:35:28.027294+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -2602,20 +2602,20 @@
       "latitude": -23.0098371,
       "longitude": -44.4449195,
       "vento": {
-        "velocidade_kmh": 21.636,
-        "rajada_kmh": 21.636,
-        "direcao_graus": 80.9
+        "velocidade_kmh": 13.967999450683596,
+        "rajada_kmh": 13.967999450683596,
+        "direcao_graus": 53.55
       },
       "onda": {
-        "altura_m": 2.16,
-        "periodo_s": 14.32,
-        "direcao_graus": 166.55
+        "altura_m": 1.97,
+        "periodo_s": 14.4499987792969,
+        "direcao_graus": 164.359990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:13:50.812933+00:00",
+      "observado_em": "2026-08-27T22:35:29.911967+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "vermelha-angra-dos-reis": {
       "nome": "Vermelha",
@@ -2626,20 +2626,20 @@
       "latitude": -23.1618352,
       "longitude": -44.3494574,
       "vento": {
-        "velocidade_kmh": 21.636,
-        "rajada_kmh": 21.636,
-        "direcao_graus": 80.9
+        "velocidade_kmh": 13.967999450683596,
+        "rajada_kmh": 13.967999450683596,
+        "direcao_graus": 53.55
       },
       "onda": {
-        "altura_m": 2.16,
-        "periodo_s": 14.32,
-        "direcao_graus": 166.55
+        "altura_m": 1.97,
+        "periodo_s": 14.4499987792969,
+        "direcao_graus": 164.359990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:13:52.915885+00:00",
+      "observado_em": "2026-08-27T22:35:32.440844+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "manguinhos-sao-francisco-de-itabapoana": {
       "nome": "Manguinhos",
@@ -2650,20 +2650,20 @@
       "latitude": -21.452964,
       "longitude": -41.0367367,
       "vento": {
-        "velocidade_kmh": 21.816,
-        "rajada_kmh": 21.816,
-        "direcao_graus": 138.36
+        "velocidade_kmh": 12.744,
+        "rajada_kmh": 12.744,
+        "direcao_graus": 107.5
       },
       "onda": {
-        "altura_m": 0.979999923706055,
-        "periodo_s": 14.8999987792969,
-        "direcao_graus": 117.809990234375
+        "altura_m": 0.98,
+        "periodo_s": 14.8,
+        "direcao_graus": 117.109990234375
       },
       "estado_do_mar": "leve",
       "agitacao": "Moderado",
-      "observado_em": "2026-08-27T10:13:54.893543+00:00",
+      "observado_em": "2026-08-27T22:35:34.565015+00:00",
       "balneabilidade": "propria",
-      "score": 125
+      "score": 140
     },
     "pontal-arraial-do-cabo": {
       "nome": "Pontal",
@@ -2674,20 +2674,20 @@
       "latitude": -22.9402004,
       "longitude": -42.0355684,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:13:56.882620+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:35:36.615968+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "praia-grande-arraial-do-cabo": {
       "nome": "Praia Grande",
@@ -2698,20 +2698,20 @@
       "latitude": -22.9706994,
       "longitude": -42.0332551,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:13:59.036764+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:35:38.668505+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "anjos-arraial-do-cabo": {
       "nome": "Anjos",
@@ -2722,20 +2722,20 @@
       "latitude": -22.9729848,
       "longitude": -42.0206256,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:01.286590+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:35:40.482513+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "canto-buzios": {
       "nome": "Canto",
@@ -2746,20 +2746,20 @@
       "latitude": -22.7542039,
       "longitude": -41.8945301,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:03.415418+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:35:42.653785+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "armacao-buzios": {
       "nome": "Armação",
@@ -2770,18 +2770,18 @@
       "latitude": -22.7493359,
       "longitude": -41.8817468,
       "vento": {
-        "velocidade_kmh": 16.776,
-        "rajada_kmh": 16.776,
-        "direcao_graus": 111.5
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 2.40999992370605,
-        "periodo_s": 14.58,
-        "direcao_graus": 162.69
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:14:05.691152+00:00",
+      "observado_em": "2026-08-27T22:35:46.466565+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -2794,20 +2794,20 @@
       "latitude": -22.7460152,
       "longitude": -41.88141,
       "vento": {
-        "velocidade_kmh": 8.964,
-        "rajada_kmh": 8.964,
-        "direcao_graus": 231.24
+        "velocidade_kmh": 13.536,
+        "rajada_kmh": 13.536,
+        "direcao_graus": 79.83
       },
       "onda": {
-        "altura_m": 1.87,
-        "periodo_s": 16.33,
-        "direcao_graus": 159.91
+        "altura_m": 2.18999992370605,
+        "periodo_s": 14.61,
+        "direcao_graus": 161.72
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-26T20:40:06.770420+00:00",
+      "observado_em": "2026-08-27T22:35:48.331617+00:00",
       "balneabilidade": "propria",
-      "score": 100
+      "score": 85
     },
     "azeda-buzios": {
       "nome": "Azeda",
@@ -2866,20 +2866,20 @@
       "latitude": -22.754833,
       "longitude": -41.8721866,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:41.639305+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:36:51.298094+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "forno-buzios": {
       "nome": "Forno",
@@ -2890,20 +2890,20 @@
       "latitude": -22.7613831,
       "longitude": -41.8749429,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:43.893774+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:36:53.719029+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "ferradura-buzios": {
       "nome": "Ferradura",
@@ -2914,20 +2914,20 @@
       "latitude": -22.7716498,
       "longitude": -41.8890462,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:45.828887+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:36:55.747968+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "tartaruga-buzios": {
       "nome": "Tartaruga",
@@ -2938,20 +2938,20 @@
       "latitude": -22.7567016,
       "longitude": -41.9065765,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:47.839247+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:36:57.775878+00:00",
       "balneabilidade": "indisponivel",
-      "score": -10
+      "score": -15
     },
     "prainha-arraial-do-cabo": {
       "nome": "Prainha",
@@ -2962,20 +2962,20 @@
       "latitude": -22.9587433,
       "longitude": -42.0253936,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:49.709153+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:36:59.744098+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "figueira-arraial-do-cabo": {
       "nome": "Figueira",
@@ -2986,20 +2986,20 @@
       "latitude": -22.9518494,
       "longitude": -42.1002629,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:51.522811+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:02.073875+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "siqueira-cabo-frio": {
       "nome": "Siqueira",
@@ -3010,20 +3010,20 @@
       "latitude": -22.876211,
       "longitude": -42.0521943,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:53.368797+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:04.034475+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "forte-cabo-frio": {
       "nome": "Forte",
@@ -3034,20 +3034,20 @@
       "latitude": -22.8865672,
       "longitude": -42.0181832,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:55.458712+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:06.069727+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "passagem-cabo-frio": {
       "nome": "Passagem",
@@ -3058,20 +3058,20 @@
       "latitude": -22.8865672,
       "longitude": -42.0181832,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:57.409651+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:08.347586+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "conchas-cabo-frio": {
       "nome": "Conchas",
@@ -3082,20 +3082,20 @@
       "latitude": -22.8696868,
       "longitude": -41.9831021,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:14:59.535601+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:10.218399+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "pero-cabo-frio": {
       "nome": "Peró",
@@ -3106,20 +3106,20 @@
       "latitude": -22.8450317,
       "longitude": -41.9838846,
       "vento": {
-        "velocidade_kmh": 24.66,
-        "rajada_kmh": 24.66,
-        "direcao_graus": 111.41
+        "velocidade_kmh": 19.043998901367193,
+        "rajada_kmh": 19.043998901367193,
+        "direcao_graus": 93.9
       },
       "onda": {
-        "altura_m": 2.74999992370605,
-        "periodo_s": 14.51,
-        "direcao_graus": 170.88
+        "altura_m": 2.39999992370605,
+        "periodo_s": 14.52,
+        "direcao_graus": 169.43
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:01.517890+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:12.077110+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "palmeiras-cabo-frio": {
       "nome": "Palmeiras",
@@ -3130,20 +3130,20 @@
       "latitude": -22.8885044,
       "longitude": -42.042257,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:03.752899+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:14.085344+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "foguete-cabo-frio": {
       "nome": "Foguete",
@@ -3154,20 +3154,20 @@
       "latitude": -22.91732,
       "longitude": -42.0365793,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:06.188769+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:16.082648+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "iguaba-grande-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Iguaba Grande",
@@ -3178,20 +3178,20 @@
       "latitude": -22.841065,
       "longitude": -42.2120543,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:08.655114+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:17.901833+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "linda-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Linda",
@@ -3202,20 +3202,20 @@
       "latitude": -22.8388498,
       "longitude": -42.2286746,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:11.045118+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:19.709212+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "centro-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Centro",
@@ -3226,20 +3226,20 @@
       "latitude": -22.840618,
       "longitude": -42.2229632,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:13.029548+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:21.728146+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "pitoria-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Pitória",
@@ -3250,20 +3250,20 @@
       "latitude": -22.8388498,
       "longitude": -42.2286746,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:15.196605+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:23.768417+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "sol-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Sol",
@@ -3274,20 +3274,20 @@
       "latitude": -22.831792,
       "longitude": -42.229118,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:16.998211+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:25.577495+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "sudoeste-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Sudoeste",
@@ -3298,20 +3298,20 @@
       "latitude": -22.8388498,
       "longitude": -42.2286746,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:19.149105+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:27.504567+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "balneario-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Balneário",
@@ -3322,20 +3322,20 @@
       "latitude": -22.8388498,
       "longitude": -42.2286746,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:21.544326+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:29.427868+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "ponta-da-areia-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Ponta da Areia",
@@ -3346,20 +3346,20 @@
       "latitude": -22.8388498,
       "longitude": -42.2286746,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:25.383409+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:31.315660+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "porto-d-aldeia-iguaba-grande-e-sao-pedro-d-aldeia": {
       "nome": "Porto d' Aldeia",
@@ -3370,20 +3370,20 @@
       "latitude": -22.8388498,
       "longitude": -42.2286746,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:27.134471+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:33.763743+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "seca-lagoa-araruama": {
       "nome": "Seca (Lagoa)",
@@ -3410,20 +3410,20 @@
       "latitude": -22.9211814,
       "longitude": -42.3062241,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:31.232401+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:37.358140+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "hospicio-araruama": {
       "nome": "Hospício",
@@ -3434,20 +3434,20 @@
       "latitude": -22.8906714,
       "longitude": -42.3492987,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:33.232631+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:39.159104+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "areal-araruama": {
       "nome": "Areal",
@@ -3458,20 +3458,20 @@
       "latitude": -22.8930003,
       "longitude": -42.3578768,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:34.983810+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:41.046707+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "centro-araruama": {
       "nome": "Centro",
@@ -3482,20 +3482,20 @@
       "latitude": -22.8703726,
       "longitude": -42.3385996,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:36.896876+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:42.937656+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "pontinha-araruama": {
       "nome": "Pontinha",
@@ -3506,20 +3506,20 @@
       "latitude": -22.8812683,
       "longitude": -42.3155084,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:39.068644+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:44.785195+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "amores-araruama": {
       "nome": "Amores",
@@ -3530,20 +3530,20 @@
       "latitude": -22.9273848,
       "longitude": -42.3088309,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:40.920303+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:46.775690+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "coqueiral-araruama": {
       "nome": "Coqueiral",
@@ -3554,20 +3554,20 @@
       "latitude": -22.8678555,
       "longitude": -42.3090805,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:43.073075+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:48.678428+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "barbudo-araruama": {
       "nome": "Barbudo",
@@ -3578,20 +3578,20 @@
       "latitude": -22.8671517,
       "longitude": -42.295941,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:45.124880+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:50.597787+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "iguabinha-araruama": {
       "nome": "Iguabinha",
@@ -3602,20 +3602,20 @@
       "latitude": -22.8593866,
       "longitude": -42.2421945,
       "vento": {
-        "velocidade_kmh": 25.632,
-        "rajada_kmh": 25.632,
-        "direcao_graus": 104.15
+        "velocidade_kmh": 19.871998901367192,
+        "rajada_kmh": 19.871998901367192,
+        "direcao_graus": 73.85
       },
       "onda": {
-        "altura_m": 2.67999992370605,
-        "periodo_s": 14.37,
-        "direcao_graus": 175.67
+        "altura_m": 2.31999992370605,
+        "periodo_s": 14.42,
+        "direcao_graus": 173.84
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:47.075541+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:52.664335+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "gaviao-araruama": {
       "nome": "Gavião",
@@ -3642,20 +3642,20 @@
       "latitude": -22.8775936,
       "longitude": -42.2600027,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:15:50.565641+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:37:56.588733+00:00",
       "balneabilidade": "propria",
-      "score": 90
+      "score": 85
     },
     "itauna-saquarema": {
       "nome": "Itaúna",
@@ -3666,18 +3666,18 @@
       "latitude": -22.9359818,
       "longitude": -42.4825457,
       "vento": {
-        "velocidade_kmh": 14.004000000000001,
-        "rajada_kmh": 14.004000000000001,
-        "direcao_graus": 241.92
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.26,
-        "periodo_s": 12.39,
-        "direcao_graus": 187.799990234375
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-26T20:41:24.977907+00:00",
+      "observado_em": "2026-08-27T22:37:58.495842+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -3690,18 +3690,18 @@
       "latitude": -22.9359818,
       "longitude": -42.4825457,
       "vento": {
-        "velocidade_kmh": 14.004000000000001,
-        "rajada_kmh": 14.004000000000001,
-        "direcao_graus": 241.92
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.26,
-        "periodo_s": 12.39,
-        "direcao_graus": 187.799990234375
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-26T20:41:29.630145+00:00",
+      "observado_em": "2026-08-27T22:38:00.355634+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -3714,20 +3714,20 @@
       "latitude": -22.9270528,
       "longitude": -42.4164821,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:16:53.847191+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:38:02.268387+00:00",
       "balneabilidade": "impropria",
-      "score": -110
+      "score": -115
     },
     "gravata-saquarema": {
       "nome": "Gravatá",
@@ -3738,20 +3738,20 @@
       "latitude": -22.9257974,
       "longitude": -42.507633,
       "vento": {
-        "velocidade_kmh": 22.788,
-        "rajada_kmh": 22.788,
-        "direcao_graus": 90.18
+        "velocidade_kmh": 19.223999450683596,
+        "rajada_kmh": 19.223999450683596,
+        "direcao_graus": 66.46
       },
       "onda": {
-        "altura_m": 2.47,
-        "periodo_s": 14.32,
-        "direcao_graus": 172.049990234375
+        "altura_m": 2.17,
+        "periodo_s": 14.4399987792969,
+        "direcao_graus": 170.34
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:16:56.468394+00:00",
+      "observado_em": "2026-08-27T22:38:04.441431+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "lagoa-de-itauna-saquarema": {
       "nome": "Lagoa de Itaúna",
@@ -3762,20 +3762,20 @@
       "latitude": -22.9257974,
       "longitude": -42.507633,
       "vento": {
-        "velocidade_kmh": 22.788,
-        "rajada_kmh": 22.788,
-        "direcao_graus": 90.18
+        "velocidade_kmh": 19.223999450683596,
+        "rajada_kmh": 19.223999450683596,
+        "direcao_graus": 66.46
       },
       "onda": {
-        "altura_m": 2.47,
-        "periodo_s": 14.32,
-        "direcao_graus": 172.049990234375
+        "altura_m": 2.17,
+        "periodo_s": 14.4399987792969,
+        "direcao_graus": 170.34
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:16:58.322845+00:00",
+      "observado_em": "2026-08-27T22:38:06.383542+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "lagoa-do-boqueirao-saquarema": {
       "nome": "Lagoa do Boqueirão",
@@ -3786,20 +3786,20 @@
       "latitude": -22.9248745,
       "longitude": -42.5184872,
       "vento": {
-        "velocidade_kmh": 22.788,
-        "rajada_kmh": 22.788,
-        "direcao_graus": 90.18
+        "velocidade_kmh": 19.223999450683596,
+        "rajada_kmh": 19.223999450683596,
+        "direcao_graus": 66.46
       },
       "onda": {
-        "altura_m": 2.47,
-        "periodo_s": 14.32,
-        "direcao_graus": 172.049990234375
+        "altura_m": 2.17,
+        "periodo_s": 14.4399987792969,
+        "direcao_graus": 170.34
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:00.602113+00:00",
+      "observado_em": "2026-08-27T22:38:08.379703+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "lagoa-de-saquarema-saquarema": {
       "nome": "Lagoa de Saquarema",
@@ -3810,20 +3810,20 @@
       "latitude": -22.9275154,
       "longitude": -42.4264618,
       "vento": {
-        "velocidade_kmh": 24.444,
-        "rajada_kmh": 24.444,
-        "direcao_graus": 96.7499951171875
+        "velocidade_kmh": 18.755999450683596,
+        "rajada_kmh": 18.755999450683596,
+        "direcao_graus": 70.73
       },
       "onda": {
-        "altura_m": 2.53999992370605,
-        "periodo_s": 14.33,
-        "direcao_graus": 174.93
+        "altura_m": 2.19999992370605,
+        "periodo_s": 14.41,
+        "direcao_graus": 172.99
       },
-      "estado_do_mar": "agitado",
-      "agitacao": "Muito Forte",
-      "observado_em": "2026-08-27T10:17:02.419005+00:00",
+      "estado_do_mar": "moderado",
+      "agitacao": "Forte",
+      "observado_em": "2026-08-27T22:38:10.354437+00:00",
       "balneabilidade": null,
-      "score": -10
+      "score": -15
     },
     "imbuca-paqueta": {
       "nome": "Imbuca",
@@ -3858,20 +3858,20 @@
       "latitude": -22.7589261,
       "longitude": -43.1091992,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:06.484616+00:00",
+      "observado_em": "2026-08-27T22:38:42.783911+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "grossa-paqueta": {
       "nome": "Grossa",
@@ -3906,20 +3906,20 @@
       "latitude": -22.7588704,
       "longitude": -43.1082246,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:38.934893+00:00",
+      "observado_em": "2026-08-27T22:39:15.266799+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "catimbau-paqueta": {
       "nome": "Catimbau",
@@ -3930,20 +3930,20 @@
       "latitude": -22.750301,
       "longitude": -43.1050218,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:40.832538+00:00",
+      "observado_em": "2026-08-27T22:39:17.277876+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "j-bonifacio-paqueta": {
       "nome": "J. Bonifácio",
@@ -3954,20 +3954,20 @@
       "latitude": -22.7622701,
       "longitude": -43.1102212,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:42.805446+00:00",
+      "observado_em": "2026-08-27T22:39:19.371781+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "galeao-ilha-do-governador-e-ramos": {
       "nome": "Galeão",
@@ -3978,20 +3978,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:44.656575+00:00",
+      "observado_em": "2026-08-27T22:39:21.193567+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "sao-bento-ilha-do-governador-e-ramos": {
       "nome": "São Bento",
@@ -4002,20 +4002,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:46.590723+00:00",
+      "observado_em": "2026-08-27T22:39:23.302274+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "jardim-guanabara-ilha-do-governador-e-ramos": {
       "nome": "Jardim Guanabara",
@@ -4026,20 +4026,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:48.498636+00:00",
+      "observado_em": "2026-08-27T22:39:25.346699+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "bica-ilha-do-governador-e-ramos": {
       "nome": "Bica",
@@ -4050,20 +4050,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:50.446522+00:00",
+      "observado_em": "2026-08-27T22:39:27.213691+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "ribeira-ilha-do-governador-e-ramos": {
       "nome": "Ribeira",
@@ -4098,20 +4098,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:54.248600+00:00",
+      "observado_em": "2026-08-27T22:39:59.719724+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "pitangueiras-ilha-do-governador-e-ramos": {
       "nome": "Pitangueiras",
@@ -4146,20 +4146,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:57.960087+00:00",
+      "observado_em": "2026-08-27T22:40:47.746097+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "b-capanema-ilha-do-governador-e-ramos": {
       "nome": "B. Capanema",
@@ -4170,20 +4170,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:17:59.841131+00:00",
+      "observado_em": "2026-08-27T22:40:49.804232+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "guanabara-ilha-do-governador-e-ramos": {
       "nome": "Guanabara",
@@ -4194,20 +4194,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:02.023337+00:00",
+      "observado_em": "2026-08-27T22:40:51.929177+00:00",
       "balneabilidade": null,
-      "score": -30
+      "score": -15
     },
     "pelonias-ilha-do-governador-e-ramos": {
       "nome": "Pelônias",
@@ -4218,20 +4218,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:03.953802+00:00",
+      "observado_em": "2026-08-27T22:40:54.023873+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "ramos-ilha-do-governador-e-ramos": {
       "nome": "Ramos",
@@ -4242,20 +4242,20 @@
       "latitude": -22.804841,
       "longitude": -43.2199084,
       "vento": {
-        "velocidade_kmh": 22.968,
-        "rajada_kmh": 22.968,
-        "direcao_graus": 87.59
+        "velocidade_kmh": 12.167999450683597,
+        "rajada_kmh": 12.167999450683597,
+        "direcao_graus": 67.79
       },
       "onda": {
-        "altura_m": 2.27,
-        "periodo_s": 14.33,
-        "direcao_graus": 169.91
+        "altura_m": 1.99,
+        "periodo_s": 14.51,
+        "direcao_graus": 168.42
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:05.969703+00:00",
+      "observado_em": "2026-08-27T22:40:55.940564+00:00",
       "balneabilidade": "impropria",
-      "score": -130
+      "score": -115
     },
     "mangaratiba-regiao-da-costa-verde-mangaratiba-e-itaguai": {
       "nome": "Mangaratiba",
@@ -4266,20 +4266,20 @@
       "latitude": -22.923208,
       "longitude": -43.978044,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.2999951171875
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.56,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:07.843477+00:00",
+      "observado_em": "2026-08-27T22:40:57.818996+00:00",
       "balneabilidade": "impropria",
-      "score": -115
+      "score": -80
     },
     "saco-regiao-da-costa-verde-mangaratiba-e-itaguai": {
       "nome": "Saco",
@@ -4322,20 +4322,20 @@
       "latitude": -22.923208,
       "longitude": -43.978044,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.2999951171875
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.56,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:13.401590+00:00",
+      "observado_em": "2026-08-27T22:41:04.856643+00:00",
       "balneabilidade": "impropria",
-      "score": -115
+      "score": -80
     },
     "muriqui-regiao-da-costa-verde-mangaratiba-e-itaguai": {
       "nome": "Muriqui",
@@ -4346,20 +4346,20 @@
       "latitude": -22.9281144,
       "longitude": -43.9452811,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.2999951171875
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.56,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:15.514583+00:00",
+      "observado_em": "2026-08-27T22:41:06.850550+00:00",
       "balneabilidade": "impropria",
-      "score": -115
+      "score": -80
     },
     "itacuruca-regiao-da-costa-verde-mangaratiba-e-itaguai": {
       "nome": "Itacuruça",
@@ -4370,20 +4370,20 @@
       "latitude": -23.0531246,
       "longitude": -43.9798512,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.3
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.56,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:17.362799+00:00",
+      "observado_em": "2026-08-27T22:41:08.678269+00:00",
       "balneabilidade": "impropria",
-      "score": -115
+      "score": -80
     },
     "coroa-grande-regiao-da-costa-verde-mangaratiba-e-itaguai": {
       "nome": "Coroa Grande",
@@ -4394,20 +4394,20 @@
       "latitude": -22.8920694,
       "longitude": -43.8873857,
       "vento": {
-        "velocidade_kmh": 14.76,
-        "rajada_kmh": 14.76,
-        "direcao_graus": 90.2999951171875
+        "velocidade_kmh": 8.567999450683596,
+        "rajada_kmh": 8.567999450683596,
+        "direcao_graus": 41.49
       },
       "onda": {
-        "altura_m": 1.56,
-        "periodo_s": 14.39,
-        "direcao_graus": 173.28
+        "altura_m": 1.36,
+        "periodo_s": 14.56,
+        "direcao_graus": 172.009990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:19.403481+00:00",
+      "observado_em": "2026-08-27T22:41:10.857789+00:00",
       "balneabilidade": null,
-      "score": -15
+      "score": 20
     },
     "conceicao-de-jacarei-conceicao-de-jacarei": {
       "nome": "Conceição de Jacareí",
@@ -4418,18 +4418,18 @@
       "latitude": -23.0326763,
       "longitude": -44.1628983,
       "vento": {
-        "velocidade_kmh": 29.268000000000004,
-        "rajada_kmh": 29.268000000000004,
-        "direcao_graus": 88.11
+        "velocidade_kmh": 22.031999450683596,
+        "rajada_kmh": 22.031999450683596,
+        "direcao_graus": 54.81
       },
       "onda": {
-        "altura_m": 2.37,
-        "periodo_s": 14.29,
-        "direcao_graus": 167.2
+        "altura_m": 2.14,
+        "periodo_s": 14.45,
+        "direcao_graus": 164.739990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:21.320995+00:00",
+      "observado_em": "2026-08-27T22:41:13.191734+00:00",
       "balneabilidade": "impropria",
       "score": -130
     },
@@ -4442,20 +4442,20 @@
       "latitude": -22.9397068,
       "longitude": -42.6561212,
       "vento": {
-        "velocidade_kmh": 22.788,
-        "rajada_kmh": 22.788,
-        "direcao_graus": 90.18
+        "velocidade_kmh": 19.223999450683596,
+        "rajada_kmh": 19.223999450683596,
+        "direcao_graus": 66.46
       },
       "onda": {
-        "altura_m": 2.47,
-        "periodo_s": 14.32,
-        "direcao_graus": 172.049990234375
+        "altura_m": 2.17,
+        "periodo_s": 14.4399987792969,
+        "direcao_graus": 170.34
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:23.221271+00:00",
+      "observado_em": "2026-08-27T22:41:15.430649+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "itaipuacu-marica": {
       "nome": "Itaipuaçu",
@@ -4466,20 +4466,20 @@
       "latitude": -22.9654407,
       "longitude": -42.8696498,
       "vento": {
-        "velocidade_kmh": 22.86,
-        "rajada_kmh": 22.86,
-        "direcao_graus": 86.5
+        "velocidade_kmh": 18.647999450683596,
+        "rajada_kmh": 18.647999450683596,
+        "direcao_graus": 67.44
       },
       "onda": {
-        "altura_m": 2.36,
-        "periodo_s": 14.32,
-        "direcao_graus": 170.66
+        "altura_m": 2.09,
+        "periodo_s": 14.47,
+        "direcao_graus": 169.14
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:25.046782+00:00",
+      "observado_em": "2026-08-27T22:41:17.344696+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "marica-marica": {
       "nome": "Maricá",
@@ -4490,20 +4490,20 @@
       "latitude": -22.9623547,
       "longitude": -42.9940643,
       "vento": {
-        "velocidade_kmh": 22.86,
-        "rajada_kmh": 22.86,
-        "direcao_graus": 86.5
+        "velocidade_kmh": 18.647999450683596,
+        "rajada_kmh": 18.647999450683596,
+        "direcao_graus": 67.44
       },
       "onda": {
-        "altura_m": 2.36,
-        "periodo_s": 14.32,
-        "direcao_graus": 170.66
+        "altura_m": 2.09,
+        "periodo_s": 14.47,
+        "direcao_graus": 169.14
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:27.069879+00:00",
+      "observado_em": "2026-08-27T22:41:19.175968+00:00",
       "balneabilidade": "propria",
-      "score": 70
+      "score": 85
     },
     "pontal-paraty": {
       "nome": "Pontal",
@@ -4514,18 +4514,18 @@
       "latitude": -23.2151171,
       "longitude": -44.7114782,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:28.945810+00:00",
+      "observado_em": "2026-08-27T22:41:21.417784+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -4538,18 +4538,18 @@
       "latitude": -23.2400746,
       "longitude": -44.6334044,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:30.806183+00:00",
+      "observado_em": "2026-08-27T22:41:23.403068+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -4562,18 +4562,18 @@
       "latitude": -23.206547,
       "longitude": -44.7177897,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:32.873329+00:00",
+      "observado_em": "2026-08-27T22:41:25.510652+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -4586,18 +4586,18 @@
       "latitude": -23.0460841,
       "longitude": -44.5938002,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:34.743516+00:00",
+      "observado_em": "2026-08-27T22:41:27.393721+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -4610,18 +4610,18 @@
       "latitude": -23.0464188,
       "longitude": -44.5685479,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:36.672328+00:00",
+      "observado_em": "2026-08-27T22:41:29.363373+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -4634,18 +4634,18 @@
       "latitude": -23.2196461,
       "longitude": -44.7154196,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.46,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:38.541617+00:00",
+      "observado_em": "2026-08-27T22:41:31.288203+00:00",
       "balneabilidade": "impropria",
       "score": -115
     },
@@ -4658,18 +4658,18 @@
       "latitude": -23.3535628,
       "longitude": -44.7264128,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.4599987792969,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:40.335193+00:00",
+      "observado_em": "2026-08-27T22:41:33.193580+00:00",
       "balneabilidade": "propria",
       "score": 85
     },
@@ -4682,18 +4682,18 @@
       "latitude": -23.3445124,
       "longitude": -44.7145693,
       "vento": {
-        "velocidade_kmh": 10.907999450683596,
-        "rajada_kmh": 10.907999450683596,
-        "direcao_graus": 73.58
+        "velocidade_kmh": 10.331999450683595,
+        "rajada_kmh": 10.331999450683595,
+        "direcao_graus": 30.87
       },
       "onda": {
-        "altura_m": 1.89,
-        "periodo_s": 14.35,
-        "direcao_graus": 166.58
+        "altura_m": 1.72,
+        "periodo_s": 14.4599987792969,
+        "direcao_graus": 164.579990234375
       },
       "estado_do_mar": "moderado",
       "agitacao": "Forte",
-      "observado_em": "2026-08-27T10:18:42.190514+00:00",
+      "observado_em": "2026-08-27T22:41:35.321352+00:00",
       "balneabilidade": "propria",
       "score": 85
     }
