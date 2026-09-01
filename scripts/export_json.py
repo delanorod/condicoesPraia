@@ -50,8 +50,8 @@ async def main() -> None:
             "bairro": beach.neighborhood,
             "regiao": beach.region,
             "caracteristicas": list(beach.characteristics),
-            "latitude": beach.coordinates.latitude,
-            "longitude": beach.coordinates.longitude,
+            "lat": beach.coordinates.latitude,
+            "long": beach.coordinates.longitude,
         }
 
         wave_height_m = None
