@@ -1,20 +1,7 @@
 """Adapter para o NOAA GFS-Wave (WAVEWATCH III) via NOMADS.
 
 Dados de domínio público do governo dos EUA (17 U.S.C. § 105), sem qualquer
-restrição de uso comercial — ao contrário das fontes anteriores testadas
-(Open-Meteo: não comercial; PacIOOS: cortesia acadêmica ambígua).
-
-IMPORTANTE — LIMITE DE VALIDAÇÃO:
-Este adapter foi escrito com base na documentação pública do NOMADS/NCEP,
-mas o ambiente onde foi desenvolvido não tem acesso de rede a
-nomads.ncep.noaa.gov (apenas a repositórios de pacotes). Isso significa que
-a URL exata do "GRIB filter" (nomes dos parâmetros de query) NÃO foi testada
-contra o servidor real. A seleção de ciclo e o parsing de bytes GRIB2 (via
-eccodes) seguem a documentação oficial, mas só serão confirmados quando você
-rodar isso na sua máquina, com internet completa. Use o script
-`scripts/verificar_nomads.py` (fornecido à parte) para checar rapidamente,
-fora do resto da aplicação, se a URL está correta antes de confiar na API
-inteira.
+restrição de uso comercial.
 """
 from __future__ import annotations
 
@@ -28,14 +15,32 @@ from app.domain.value_objects import Coordinates
 
 NOMADS_GFSWAVE_FILTER_URL = "https://nomads.ncep.noaa.gov/cgi-bin/filter_gfswave.pl"
 CYCLE_HOURS = (0, 6, 12, 18)
-PUBLISH_DELAY_HOURS = 5  # margem de segurança; NOAA costuma publicar ~4h-4h30 depois do ciclo
-GRID_STEP_DEG = 0.25  # resolução do GFS-Wave 0p25
-SEARCH_BOX_DEG = 1.5  # ampliado após localidades em baías bem fechadas
-# (Angra dos Reis) não acharem nenhum ponto de mar válido com 0.75
+PUBLISH_DELAY_HOURS = 5
+GRID_STEP_DEG = 0.25
+SEARCH_BOX_DEG = 1.5
+DAILY_AVERAGE_FORECAST_HOURS = (0, 3, 6, 9, 12, 15, 18, 21)
+IDW_POWER = 2  # expoente padrão do IDW (quanto maior, mais peso pros pontos próximos)
+
+
+def inverse_distance_weighted_average(values_with_distances: list[tuple[float, float]]) -> float:
+    """Média ponderada pelo inverso da distância (IDW). Cada item é
+    (valor, distância_km). Pontos mais próximos pesam mais que os distantes
+    -- mais robusto que "pega só o mais próximo válido", especialmente perto
+    da costa onde o ponto de grade mais próximo pode ser terra."""
+    if not values_with_distances:
+        raise ValueError("lista de pontos vazia -- não há como calcular IDW")
+
+    for value, distance in values_with_distances:
+        if distance == 0:
+            return value  # ponto exatamente na coordenada pedida -- sem divisão por zero
+
+    pesos = [1.0 / (distance ** IDW_POWER) for _, distance in values_with_distances]
+    soma_pesos = sum(pesos)
+    soma_ponderada = sum(peso * valor for peso, (valor, _) in zip(pesos, values_with_distances))
+    return soma_ponderada / soma_pesos
 
 
 def select_latest_available_cycle(now_utc: datetime, publish_delay_hours: int = PUBLISH_DELAY_HOURS) -> datetime:
-    """Ciclo de previsão (00/06/12/18 UTC) mais recente que já deve estar publicado."""
     cycle_hour = (now_utc.hour // 6) * 6
     cycle = now_utc.replace(hour=cycle_hour, minute=0, second=0, microsecond=0)
     while now_utc < cycle + timedelta(hours=publish_delay_hours):
@@ -44,26 +49,11 @@ def select_latest_available_cycle(now_utc: datetime, publish_delay_hours: int = 
 
 
 def candidate_cycles(now_utc: datetime, max_attempts: int = 4) -> list[datetime]:
-    """Lista de ciclos a tentar, do mais recente ao mais antigo.
-
-    Na prática o atraso de publicação da NOAA varia (não é sempre exatos
-    5h), então em vez de confiar cegamente em `select_latest_available_cycle`
-    e falhar se aquele ciclo específico ainda não estiver pronto, tentamos
-    ele e alguns anteriores em sequência.
-    """
     first = select_latest_available_cycle(now_utc)
     return [first - timedelta(hours=6 * i) for i in range(max_attempts)]
 
 
 def build_gfswave_grib_filter_url(cycle: datetime, coordinates: Coordinates, forecast_hour: int = 0) -> str:
-    """Monta a URL do GRIB filter do NOMADS para uma caixa mínima ao redor do ponto.
-
-    NÃO VALIDADO CONTRA O SERVIDOR REAL — ver aviso no topo do arquivo.
-    Convenção de parâmetros baseada na documentação pública do NOMADS filter
-    CGI (mesmo padrão usado em filter_gfs_0p25.pl): var_<NOME>=on por
-    variável, subregion com left/right/top/bottom lon/lat, e dir apontando
-    para o diretório do ciclo no servidor.
-    """
     date_str = cycle.strftime("%Y%m%d")
     cycle_str = f"{cycle.hour:02d}"
     forecast_str = f"{forecast_hour:03d}"
@@ -92,33 +82,22 @@ def build_gfswave_grib_filter_url(cycle: datetime, coordinates: Coordinates, for
 
 
 class GfsWaveParseError(ValueError):
-    """Resposta do NOMADS vazia, não é GRIB2 válido, ou variável esperada ausente."""
+    pass
 
 
 def parse_gfswave_grib2(raw_bytes: bytes, coordinates: Coordinates) -> dict[str, float]:
-    """Extrai HTSGW, DIRPW, PERPW, WIND, WDIR do ponto de grade mais próximo.
-
-    Usa a biblioteca `eccodes` (pip install eccodes — desde a versão 2.37 traz
-    o binário embutido também no Windows, sem precisar compilar nada).
-    NÃO VALIDADO contra um arquivo GRIB2 real neste ambiente — ver aviso no
-    topo do arquivo.
-    """
+    """Extrai HTSGW, DIRPW, PERPW, WIND, WDIR usando IDW entre os pontos de
+    grade válidos mais próximos (não terra/ausentes)."""
     if not raw_bytes.startswith(b"GRIB"):
         raise GfsWaveParseError("resposta do NOMADS não é um arquivo GRIB2 válido")
 
     import os
     import tempfile
+    import time
 
     import eccodes
 
     values: dict[str, float] = {}
-    # eccodes.codes_grib_new_from_file precisa de um arquivo real em disco
-    # (usa fileno() internamente) — não aceita BytesIO. No Windows, um
-    # antivírus/indexador pode travar o arquivo por uma fração de segundo
-    # logo após ser criado ("WinError 32"); por isso tentamos algumas vezes
-    # com uma pequena espera entre as tentativas.
-    import time
-
     fd, tmp_path = tempfile.mkstemp(suffix=".grib2")
     try:
         with os.fdopen(fd, "wb") as f:
@@ -139,22 +118,20 @@ def parse_gfswave_grib2(raw_bytes: bytes, coordinates: Coordinates) -> dict[str,
                             except Exception:
                                 missing_value = None
 
-                            # WAVEWATCH III só calcula sobre o mar: o ponto de
-                            # grade mais próximo pode cair em terra (valor
-                            # sentinela, tipicamente 9999). Pedimos os 4
-                            # vizinhos mais próximos e usamos o primeiro que
-                            # não for terra/ausente.
                             candidates = eccodes.codes_grib_find_nearest(
                                 msg_id, coordinates.latitude, coordinates.longitude, npoints=4
                             )
+                            validos: list[tuple[float, float]] = []
                             for candidate in candidates:
                                 value = candidate.value
                                 if missing_value is not None and value == missing_value:
                                     continue
-                                if value in (9999.0, 9999):  # sentinela de segurança
+                                if value in (9999.0, 9999):
                                     continue
-                                values[short_name] = value
-                                break
+                                validos.append((value, candidate.distance))
+
+                            if validos:
+                                values[short_name] = inverse_distance_weighted_average(validos)
                         finally:
                             eccodes.codes_release(msg_id)
                 break
@@ -169,9 +146,9 @@ def parse_gfswave_grib2(raw_bytes: bytes, coordinates: Coordinates) -> dict[str,
         try:
             os.unlink(tmp_path)
         except OSError:
-            pass  # limpeza best-effort; não deve mascarar um erro real acima
+            pass
 
-    required = {"swh", "dirpw", "perpw", "ws", "wdir"}  # confirmado contra resposta real do NOMADS
+    required = {"swh", "dirpw", "perpw", "ws", "wdir"}
     if not required.intersection(values.keys()):
         raise GfsWaveParseError("dados insuficientes: nenhuma variável esperada encontrada no GRIB2")
 
@@ -182,20 +159,40 @@ class GfsWaveOceanDataSource(OceanDataSource):
     def __init__(self, http_client: httpx.AsyncClient):
         self._http_client = http_client
 
-    async def _fetch_grib(self, coordinates: Coordinates) -> dict[str, float]:
+    async def _find_working_cycle(self, coordinates: Coordinates) -> datetime:
         now = datetime.now(timezone.utc).replace(tzinfo=None)
         last_error: Exception | None = None
         for cycle in candidate_cycles(now):
-            url = build_gfswave_grib_filter_url(cycle, coordinates)
+            url = build_gfswave_grib_filter_url(cycle, coordinates, forecast_hour=0)
             response = await self._http_client.get(url)
             if response.status_code == 404:
                 last_error = GfsWaveParseError(f"ciclo {cycle.isoformat()} ainda não publicado (404)")
                 continue
             response.raise_for_status()
-            return parse_gfswave_grib2(response.content, coordinates)
+            return cycle
         raise GfsWaveParseError(
             f"nenhum dos últimos {len(candidate_cycles(now))} ciclos do GFS-Wave está disponível"
         ) from last_error
+
+    async def _fetch_grib_at_hour(
+        self, coordinates: Coordinates, cycle: datetime, forecast_hour: int
+    ) -> dict[str, float] | None:
+        url = build_gfswave_grib_filter_url(cycle, coordinates, forecast_hour=forecast_hour)
+        response = await self._http_client.get(url)
+        if response.status_code == 404:
+            return None
+        response.raise_for_status()
+        try:
+            return parse_gfswave_grib2(response.content, coordinates)
+        except GfsWaveParseError:
+            return None
+
+    async def _fetch_grib(self, coordinates: Coordinates) -> dict[str, float]:
+        cycle = await self._find_working_cycle(coordinates)
+        values = await self._fetch_grib_at_hour(coordinates, cycle, forecast_hour=0)
+        if values is None:
+            raise GfsWaveParseError(f"ciclo {cycle.isoformat()} não retornou dados válidos em f000")
+        return values
 
     async def fetch_wave(self, coordinates: Coordinates) -> WaveReading:
         values = await self._fetch_grib(coordinates)
@@ -207,11 +204,26 @@ class GfsWaveOceanDataSource(OceanDataSource):
         )
 
     async def fetch_wind(self, coordinates: Coordinates) -> WindReading:
-        values = await self._fetch_grib(coordinates)
-        speed = values["ws"]
+        cycle = await self._find_working_cycle(coordinates)
+
+        speeds: list[float] = []
+        direction: float | None = None
+        for hour in DAILY_AVERAGE_FORECAST_HOURS:
+            values = await self._fetch_grib_at_hour(coordinates, cycle, hour)
+            if values is None or "ws" not in values:
+                continue
+            speeds.append(values["ws"])
+            if direction is None and "wdir" in values:
+                direction = values["wdir"]
+
+        if not speeds:
+            raise GfsWaveParseError(
+                f"nenhum horário do dia (ciclo {cycle.isoformat()}) retornou dado de vento válido"
+            )
+
         return WindReading(
-            speed_ms=speed,
-            gust_ms=speed,  # GFS-Wave não inclui rajada; usar a mesma velocidade como aproximação
-            direction_deg=values["wdir"],
+            speed_ms=sum(speeds) / len(speeds),
+            gust_ms=max(speeds),
+            direction_deg=direction if direction is not None else 0.0,
             observed_at=datetime.now(timezone.utc),
         )
