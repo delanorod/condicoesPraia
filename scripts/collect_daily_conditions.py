@@ -22,7 +22,10 @@ from app.application.exceptions import BeachNotFoundError
 from app.application.use_cases import GetCoastalConditionUseCase
 from app.config import settings
 from app.infrastructure.noaa_gfswave_client import GfsWaveOceanDataSource
-from app.infrastructure.supabase_repository import SupabaseBeachRepository, SupabaseCoastalConditionRepository
+from app.infrastructure.supabase_repository import (
+    SupabaseBeachRepository,
+    SupabaseCoastalConditionRepository,
+)
 
 
 async def main() -> None:
