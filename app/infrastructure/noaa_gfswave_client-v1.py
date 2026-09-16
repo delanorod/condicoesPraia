@@ -6,7 +6,6 @@ restrição de uso comercial.
 from __future__ import annotations
 
 from datetime import datetime, timedelta, timezone
-import math
 
 import httpx
 
@@ -24,14 +23,10 @@ IDW_POWER = 2  # expoente padrão do IDW (quanto maior, mais peso pros pontos pr
 
 
 def inverse_distance_weighted_average(values_with_distances: list[tuple[float, float]]) -> float:
-    """Média ponderada pelo inverso da distância (IDW).
-
-    Cada item é (valor, distância_km). Pontos mais próximos pesam mais que
-    os distantes. Usado para variáveis escalares, como altura, período e
-    velocidade.
-
-    Para direções, use circular_inverse_distance_weighted_average().
-    """
+    """Média ponderada pelo inverso da distância (IDW). Cada item é
+    (valor, distância_km). Pontos mais próximos pesam mais que os distantes
+    -- mais robusto que "pega só o mais próximo válido", especialmente perto
+    da costa onde o ponto de grade mais próximo pode ser terra."""
     if not values_with_distances:
         raise ValueError("lista de pontos vazia -- não há como calcular IDW")
 
@@ -41,49 +36,8 @@ def inverse_distance_weighted_average(values_with_distances: list[tuple[float, f
 
     pesos = [1.0 / (distance ** IDW_POWER) for _, distance in values_with_distances]
     soma_pesos = sum(pesos)
-    soma_ponderada = sum(
-        peso * valor
-        for peso, (valor, _) in zip(pesos, values_with_distances)
-    )
+    soma_ponderada = sum(peso * valor for peso, (valor, _) in zip(pesos, values_with_distances))
     return soma_ponderada / soma_pesos
-
-
-def circular_inverse_distance_weighted_average(
-    values_with_distances: list[tuple[float, float]]
-) -> float:
-    """IDW circular para direções em graus (0-360).
-
-    Não é correto calcular a média aritmética de ângulos diretamente,
-    porque 359° e 1°, por exemplo, estão separados por apenas 2°.
-    A função converte cada direção em vetor unitário, aplica os mesmos
-    pesos do IDW e reconverte o vetor resultante para graus.
-    """
-    if not values_with_distances:
-        raise ValueError("lista de pontos vazia -- não há como calcular IDW circular")
-
-    for value, distance in values_with_distances:
-        if distance == 0:
-            return value % 360.0
-
-    pesos = [1.0 / (distance ** IDW_POWER) for _, distance in values_with_distances]
-
-    soma_x = 0.0
-    soma_y = 0.0
-
-    for peso, (value, _) in zip(pesos, values_with_distances):
-        angulo_rad = math.radians(value % 360.0)
-        soma_x += peso * math.cos(angulo_rad)
-        soma_y += peso * math.sin(angulo_rad)
-
-    # Se os vetores se anularem quase completamente, não existe uma
-    # direção média estável. Nesse caso, mantém-se o valor do ponto
-    # mais próximo em vez de produzir uma direção arbitrária.
-    modulo = math.hypot(soma_x, soma_y)
-    if modulo < 1e-12:
-        return min(values_with_distances, key=lambda item: item[1])[0] % 360.0
-
-    direcao = math.degrees(math.atan2(soma_y, soma_x))
-    return direcao % 360.0
 
 
 def select_latest_available_cycle(now_utc: datetime, publish_delay_hours: int = PUBLISH_DELAY_HOURS) -> datetime:
@@ -132,12 +86,8 @@ class GfsWaveParseError(ValueError):
 
 
 def parse_gfswave_grib2(raw_bytes: bytes, coordinates: Coordinates) -> dict[str, float]:
-    """Extrai HTSGW, DIRPW, PERPW, WIND, WDIR usando interpolação IDW.
-
-    Variáveis escalares usam IDW convencional; DIRPW e WDIR usam IDW
-    circular (média vetorial ponderada), sempre ignorando pontos
-    ausentes/inválidos e priorizando os pontos de grade mais próximos.
-    """
+    """Extrai HTSGW, DIRPW, PERPW, WIND, WDIR usando IDW entre os pontos de
+    grade válidos mais próximos (não terra/ausentes)."""
     if not raw_bytes.startswith(b"GRIB"):
         raise GfsWaveParseError("resposta do NOMADS não é um arquivo GRIB2 válido")
 
@@ -178,21 +128,10 @@ def parse_gfswave_grib2(raw_bytes: bytes, coordinates: Coordinates) -> dict[str,
                                     continue
                                 if value in (9999.0, 9999):
                                     continue
-                                if not math.isfinite(value):
-                                    continue
                                 validos.append((value, candidate.distance))
 
                             if validos:
-                                # Variáveis direcionais são circulares:
-                                # não podem usar média aritmética/IDW escalar.
-                                if short_name in {"dirpw", "wdir"}:
-                                    values[short_name] = (
-                                        circular_inverse_distance_weighted_average(validos)
-                                    )
-                                else:
-                                    values[short_name] = (
-                                        inverse_distance_weighted_average(validos)
-                                    )
+                                values[short_name] = inverse_distance_weighted_average(validos)
                         finally:
                             eccodes.codes_release(msg_id)
                 break
