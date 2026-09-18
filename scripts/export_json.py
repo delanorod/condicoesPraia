@@ -31,6 +31,95 @@ from app.infrastructure.supabase_repository import (
 
 OUTPUT_JSON = Path(__file__).parent.parent / "condicoes.json"
 
+# ---------------------------------------------------------------------------
+# Enriquecimento: direção em texto + fallback de bairro/região
+# ---------------------------------------------------------------------------
+
+_PONTOS_CARDEAIS = [
+    "Norte", "Nordeste", "Leste", "Sudeste",
+    "Sul", "Sudoeste", "Oeste", "Noroeste",
+]
+
+
+def graus_para_direcao(graus: float | None) -> str | None:
+    """Converte graus (0-360) no ponto cardeal em português (8 direções)."""
+    if graus is None:
+        return None
+    graus = float(graus) % 360
+    indice = int((graus + 22.5) // 45) % 8
+    return _PONTOS_CARDEAIS[indice]
+
+
+# Macrorregião por município, usada quando o cadastro da praia (Supabase)
+# não tem "region" preenchido. São "regiões turísticas" informais -- ajuste
+# livremente caso o projeto adote outra nomenclatura.
+REGIAO_POR_MUNICIPIO = {
+    "Niterói": "Niterói",
+    "Angra dos Reis": "Costa Verde",
+    "Paraty": "Costa Verde",
+    "Conceição de Jacareí": "Costa Verde",
+    "Região da Costa Verde (Mangaratiba e Itaguaí)": "Costa Verde",
+    "Búzios": "Região dos Lagos",
+    "Cabo Frio": "Região dos Lagos",
+    "Arraial do Cabo": "Região dos Lagos",
+    "Araruama": "Região dos Lagos",
+    "Saquarema": "Região dos Lagos",
+    "Iguaba Grande e São Pedro d'Aldeia": "Região dos Lagos",
+    "Casimiro de Abreu e Unamar (Cabo Frio)": "Região dos Lagos",
+    "Maricá": "Região dos Lagos",
+    "Macaé": "Costa do Sol",
+    "Rio das Ostras": "Costa do Sol",
+    "Campos": "Norte Fluminense",
+    "São Francisco de Itabapoana": "Norte Fluminense",
+    "São João da Barra": "Norte Fluminense",
+    "Paquetá": "Baía de Guanabara",
+    "Ilha do Governador e Ramos": "Baía de Guanabara",
+}
+
+# Bairro/região por nome de praia, só usado para o município "Rio de
+# Janeiro" -- lá o município sozinho não diferencia Zona Sul de Zona Oeste,
+# então é preciso saber o bairro. Chaves em minúsculas.
+NOME_PARA_BAIRRO_REGIAO_RJ = {
+    "barra da tijuca": ("Barra da Tijuca", "Zona Oeste"),
+    "recreio dos bandeirantes": ("Recreio dos Bandeirantes", "Zona Oeste"),
+    "recreio": ("Recreio dos Bandeirantes", "Zona Oeste"),
+    "grumari": ("Grumari", "Zona Oeste"),
+    "prainha": ("Recreio dos Bandeirantes", "Zona Oeste"),
+    "macumba": ("Recreio dos Bandeirantes", "Zona Oeste"),
+    "barra de guaratiba": ("Guaratiba", "Zona Oeste"),
+    "pontal de sernambetiba": ("Recreio dos Bandeirantes", "Zona Oeste"),
+    "copacabana": ("Copacabana", "Zona Sul"),
+    "ipanema": ("Ipanema", "Zona Sul"),
+    "leblon": ("Leblon", "Zona Sul"),
+    "leme": ("Leme", "Zona Sul"),
+    "arpoador": ("Ipanema", "Zona Sul"),
+    "diabo": ("Ipanema", "Zona Sul"),
+    "vidigal": ("Vidigal", "Zona Sul"),
+    "são conrado": ("São Conrado", "Zona Sul"),
+    "pepino": ("São Conrado", "Zona Sul"),
+    "joatinga": ("Joá", "Zona Sul"),
+    "flamengo": ("Flamengo", "Zona Sul"),
+    "botafogo": ("Botafogo", "Zona Sul"),
+    "urca": ("Urca", "Zona Sul"),
+    "vermelha": ("Urca", "Zona Sul"),
+    "glória": ("Glória", "Zona Sul"),
+}
+
+
+def preencher_bairro_regiao(entry: dict) -> None:
+    """Preenche 'bairro'/'regiao' em branco direto no dict de saída."""
+    if not entry.get("bairro") or not entry.get("regiao"):
+        if entry["municipio"] == "Rio de Janeiro":
+            info = NOME_PARA_BAIRRO_REGIAO_RJ.get(entry["nome"].strip().lower())
+            if info:
+                bairro, regiao = info
+                entry["bairro"] = entry.get("bairro") or bairro
+                entry["regiao"] = entry.get("regiao") or regiao
+        if not entry.get("regiao"):
+            regiao_municipio = REGIAO_POR_MUNICIPIO.get(entry["municipio"])
+            if regiao_municipio:
+                entry["regiao"] = regiao_municipio
+
 
 async def main() -> None:
     client = await acreate_client(
@@ -93,6 +182,7 @@ async def main() -> None:
             "balneabilidade": None,
             "score": 0,
         }
+        preencher_bairro_regiao(entry)
 
         wave_height_m = None
         wind_speed_kmh = None
@@ -132,7 +222,13 @@ async def main() -> None:
             entry["onda"] = wave_height_m
 
             # Dados adicionais úteis
-            entry["direcao"] = condition.wave.direction_deg
+            # "direcao_graus" guarda o valor bruto em graus;
+            # "direcao" passa a ser o ponto cardeal em português,
+            # mais útil para exibir no app.
+            entry["direcao_graus"] = condition.wave.direction_deg
+            entry["direcao"] = graus_para_direcao(
+                condition.wave.direction_deg
+            )
             entry["periodo"] = condition.wave.period_s
 
             entry["estado_do_mar"] = (
