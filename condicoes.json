@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-09-25T18:11:45.619387+00:00",
+  "ultima_atualizacao": "2026-09-25T22:31:58.858657+00:00",
   "fonte_ondas": "NOAA GFS-Wave",
   "fonte_balneabilidade": "INEA (via praialimpa.net)",
   "praia_recomendada": "Recreio dos Bandeirantes",
@@ -21,7 +21,7 @@
       "direcao": "Sul",
       "periodo": 12.9825520214715,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:26:33.145938+00:00",
+      "observado_em": "2026-09-25T21:45:15.918159+00:00",
       "balneabilidade": "propria",
       "score": 110,
       "direcao_graus": 179.356038512694
@@ -43,7 +43,7 @@
       "direcao": "Sul",
       "periodo": 12.9310192308715,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:26:47.071747+00:00",
+      "observado_em": "2026-09-25T21:45:32.595150+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 181.295970795937
@@ -65,7 +65,7 @@
       "direcao": "Sul",
       "periodo": 12.9371460869483,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:27:01.852836+00:00",
+      "observado_em": "2026-09-25T21:45:47.952953+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 181.139792247981
@@ -84,9 +84,9 @@
       "direcao": "Sul",
       "periodo": 13.0609442900454,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:27:17.908907+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T21:46:04.537060+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 179.424757304459
     },
     {
@@ -103,7 +103,7 @@
       "direcao": "Sul",
       "periodo": 13.0612987158087,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:27:32.864876+00:00",
+      "observado_em": "2026-09-25T21:46:22.442053+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 179.238788848026
@@ -125,7 +125,7 @@
       "direcao": "Sul",
       "periodo": 13.0691939766131,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:27:48.424106+00:00",
+      "observado_em": "2026-09-25T21:46:35.866281+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 175.092705644179
@@ -147,9 +147,9 @@
       "direcao": "Sul",
       "periodo": 13.0692599022809,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:28:04.093010+00:00",
-      "balneabilidade": "propria",
-      "score": 70,
+      "observado_em": "2026-09-25T21:46:53.469064+00:00",
+      "balneabilidade": "impropria",
+      "score": -130,
       "direcao_graus": 175.058122384759
     },
     {
@@ -166,7 +166,7 @@
       "direcao": "Sul",
       "periodo": 13.0604974778027,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:28:18.969064+00:00",
+      "observado_em": "2026-09-25T21:47:06.537395+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 179.659136834157
@@ -188,7 +188,7 @@
       "direcao": "Sul",
       "periodo": 12.9700339876142,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:28:34.179458+00:00",
+      "observado_em": "2026-09-25T21:47:22.969792+00:00",
       "balneabilidade": null,
       "score": -30,
       "direcao_graus": 179.90810488706
@@ -207,7 +207,7 @@
       "direcao": "Sul",
       "periodo": 13.0647245305073,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:28:50.697429+00:00",
+      "observado_em": "2026-09-25T21:47:37.599897+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.439722447937
@@ -229,7 +229,7 @@
       "direcao": "Sul",
       "periodo": 13.0698215727137,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:29:07.446768+00:00",
+      "observado_em": "2026-09-25T21:47:53.716258+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 174.763550217682
@@ -251,7 +251,7 @@
       "direcao": "Sul",
       "periodo": 13.0699491805639,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:29:22.851237+00:00",
+      "observado_em": "2026-09-25T21:48:06.900281+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 174.69664345112
@@ -273,7 +273,7 @@
       "direcao": "Sul",
       "periodo": 13.0674522304003,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:29:37.794555+00:00",
+      "observado_em": "2026-09-25T21:48:22.645296+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.006894573328
@@ -292,9 +292,9 @@
       "direcao": "Sul",
       "periodo": 13.0648726441656,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:29:52.306017+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T21:48:36.205026+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 177.361908603045
     },
     {
@@ -311,9 +311,9 @@
       "direcao": "Sul",
       "periodo": 12.9586717082024,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:30:10.570923+00:00",
-      "balneabilidade": "propria",
-      "score": 120,
+      "observado_em": "2026-09-25T21:48:51.641086+00:00",
+      "balneabilidade": "impropria",
+      "score": -80,
       "direcao_graus": 173.963633900323
     },
     {
@@ -330,9 +330,9 @@
       "direcao": "Sul",
       "periodo": 12.9599169788098,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:30:28.147914+00:00",
-      "balneabilidade": "propria",
-      "score": 120,
+      "observado_em": "2026-09-25T21:49:07.012760+00:00",
+      "balneabilidade": "impropria",
+      "score": -80,
       "direcao_graus": 173.955539637968
     },
     {
@@ -367,7 +367,7 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:30:47.460720+00:00",
+      "observado_em": "2026-09-25T21:49:22.103168+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 174.839647436569
@@ -386,7 +386,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:31:01.734287+00:00",
+      "observado_em": "2026-09-25T21:49:36.872332+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -405,7 +405,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:31:18.010194+00:00",
+      "observado_em": "2026-09-25T21:49:52.186400+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 120.59
@@ -424,7 +424,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:31:32.435845+00:00",
+      "observado_em": "2026-09-25T21:50:07.697387+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -443,7 +443,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:31:47.185175+00:00",
+      "observado_em": "2026-09-25T21:50:23.039499+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -462,7 +462,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:32:03.026816+00:00",
+      "observado_em": "2026-09-25T21:50:38.408636+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -481,7 +481,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:32:16.247368+00:00",
+      "observado_em": "2026-09-25T21:50:55.428907+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -500,7 +500,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:32:31.765653+00:00",
+      "observado_em": "2026-09-25T21:51:11.314603+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -519,7 +519,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:32:47.413750+00:00",
+      "observado_em": "2026-09-25T21:51:24.390673+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -538,7 +538,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:32:59.688393+00:00",
+      "observado_em": "2026-09-25T21:51:39.758106+00:00",
       "balneabilidade": null,
       "score": 40,
       "direcao_graus": 120.59
@@ -557,7 +557,7 @@
       "direcao": "Sul",
       "periodo": 13.0999006695511,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:33:15.085261+00:00",
+      "observado_em": "2026-09-25T21:51:54.160336+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 164.500069357868
@@ -594,7 +594,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:33:33.857138+00:00",
+      "observado_em": "2026-09-25T21:52:13.511909+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 169.91
@@ -613,7 +613,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:33:48.031675+00:00",
+      "observado_em": "2026-09-25T21:52:28.993541+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 169.91
@@ -632,7 +632,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:34:03.829116+00:00",
+      "observado_em": "2026-09-25T21:52:44.245867+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 169.91
@@ -651,7 +651,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:34:19.069086+00:00",
+      "observado_em": "2026-09-25T21:52:58.064526+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 169.91
@@ -670,7 +670,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:34:34.209476+00:00",
+      "observado_em": "2026-09-25T21:53:13.051722+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 169.91
@@ -689,7 +689,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:34:49.536456+00:00",
+      "observado_em": "2026-09-25T21:53:28.057353+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 169.91
@@ -708,7 +708,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:35:08.853321+00:00",
+      "observado_em": "2026-09-25T21:53:43.588948+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 169.91
@@ -727,9 +727,9 @@
       "direcao": "Sul",
       "periodo": 13.4087310940208,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:35:22.445360+00:00",
-      "balneabilidade": "propria",
-      "score": 70,
+      "observado_em": "2026-09-25T21:53:57.018051+00:00",
+      "balneabilidade": "impropria",
+      "score": -130,
       "direcao_graus": 171.118991948846
     },
     {
@@ -746,7 +746,7 @@
       "direcao": "Sul",
       "periodo": 13.3937213277767,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:35:39.406687+00:00",
+      "observado_em": "2026-09-25T21:54:14.087576+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 171.267902423448
@@ -765,7 +765,7 @@
       "direcao": "Sul",
       "periodo": 12.9804245706134,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:35:53.112925+00:00",
+      "observado_em": "2026-09-25T21:54:30.006509+00:00",
       "balneabilidade": null,
       "score": -15,
       "direcao_graus": 179.455102691117
@@ -784,7 +784,7 @@
       "direcao": "Sul",
       "periodo": 13.0649132912231,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:36:09.455916+00:00",
+      "observado_em": "2026-09-25T21:54:42.222844+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 177.340553975407
@@ -806,7 +806,7 @@
       "direcao": "Sul",
       "periodo": 13.0677910092275,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:36:24.117842+00:00",
+      "observado_em": "2026-09-25T21:54:56.943277+00:00",
       "balneabilidade": "propria",
       "score": 110,
       "direcao_graus": 175.829014074612
@@ -828,9 +828,9 @@
       "direcao": "Sul",
       "periodo": 13.0664331305401,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:36:41.776801+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T21:55:12.376303+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 174.890680262903
     },
     {
@@ -850,9 +850,9 @@
       "direcao": "Sul",
       "periodo": 13.0672924812617,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:36:54.769766+00:00",
-      "balneabilidade": "impropria",
-      "score": -130,
+      "observado_em": "2026-09-25T21:55:29.440809+00:00",
+      "balneabilidade": "propria",
+      "score": 70,
       "direcao_graus": 176.09078189031
     },
     {
@@ -872,7 +872,7 @@
       "direcao": "Sul",
       "periodo": 12.9300726511163,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:37:09.208944+00:00",
+      "observado_em": "2026-09-25T21:55:48.919850+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 181.323433451175
@@ -893,9 +893,9 @@
       "direcao": "Sul",
       "periodo": 12.9917148388064,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:37:23.580445+00:00",
-      "balneabilidade": "impropria",
-      "score": -115,
+      "observado_em": "2026-09-25T21:56:02.990409+00:00",
+      "balneabilidade": "propria",
+      "score": 85,
       "direcao_graus": 178.930028824021
     },
     {
@@ -912,9 +912,9 @@
       "direcao": "Sul",
       "periodo": 13.0609758703972,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:37:38.460392+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T21:56:21.353578+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 179.408188745726
     },
     {
@@ -934,9 +934,9 @@
       "direcao": "Sul",
       "periodo": 13.0647727938935,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:37:52.778448+00:00",
-      "balneabilidade": "indisponivel",
-      "score": -15,
+      "observado_em": "2026-09-25T21:56:35.776890+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 174.992660853487
     },
     {
@@ -953,7 +953,7 @@
       "direcao": "Sul",
       "periodo": 13.0642045737218,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:38:08.493287+00:00",
+      "observado_em": "2026-09-25T21:56:51.632930+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.712883812316
@@ -972,9 +972,9 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:38:22.367599+00:00",
-      "balneabilidade": "propria",
-      "score": 70,
+      "observado_em": "2026-09-25T21:57:05.222657+00:00",
+      "balneabilidade": "impropria",
+      "score": -130,
       "direcao_graus": 169.91
     },
     {
@@ -991,7 +991,7 @@
       "direcao": "Sul",
       "periodo": 13.4284487711022,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:38:36.503942+00:00",
+      "observado_em": "2026-09-25T21:57:21.021265+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 172.80556959094
@@ -1010,7 +1010,7 @@
       "direcao": "Sul",
       "periodo": 13.43236018219,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:38:51.216542+00:00",
+      "observado_em": "2026-09-25T21:57:35.514387+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 172.62113057434
@@ -1029,9 +1029,9 @@
       "direcao": "Sul",
       "periodo": 13.4325606906602,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:39:05.917189+00:00",
-      "balneabilidade": "propria",
-      "score": 70,
+      "observado_em": "2026-09-25T21:57:53.820249+00:00",
+      "balneabilidade": "impropria",
+      "score": -130,
       "direcao_graus": 172.611676864586
     },
     {
@@ -1048,7 +1048,7 @@
       "direcao": "Sul",
       "periodo": 13.4315663546347,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:39:20.674053+00:00",
+      "observado_em": "2026-09-25T21:58:08.441699+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 172.658559559824
@@ -1067,7 +1067,7 @@
       "direcao": "Sul",
       "periodo": 13.4324664644951,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:39:36.537952+00:00",
+      "observado_em": "2026-09-25T21:58:24.553574+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 172.616119490324
@@ -1086,7 +1086,7 @@
       "direcao": "Sul",
       "periodo": 13.43236018219,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:39:50.865919+00:00",
+      "observado_em": "2026-09-25T21:58:38.474552+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 172.62113057434
@@ -1105,7 +1105,7 @@
       "direcao": "Sul",
       "periodo": 13.4474218209734,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:40:04.692781+00:00",
+      "observado_em": "2026-09-25T21:58:52.902796+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 171.911333453593
@@ -1124,7 +1124,7 @@
       "direcao": "Sul",
       "periodo": 13.49,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:40:20.371302+00:00",
+      "observado_em": "2026-09-25T21:59:09.032139+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 169.91
@@ -1143,9 +1143,9 @@
       "direcao": "Sul",
       "periodo": 13.4465874653789,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:40:34.686958+00:00",
-      "balneabilidade": "propria",
-      "score": 70,
+      "observado_em": "2026-09-25T21:59:26.436740+00:00",
+      "balneabilidade": "impropria",
+      "score": -130,
       "direcao_graus": 171.950633671193
     },
     {
@@ -1180,7 +1180,7 @@
       "direcao": "Sul",
       "periodo": 13.4001606401702,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:40:53.901742+00:00",
+      "observado_em": "2026-09-25T21:59:43.243528+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 174.14035436836
@@ -1235,7 +1235,7 @@
       "direcao": "Sul",
       "periodo": 13.3560423848101,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:41:16.707062+00:00",
+      "observado_em": "2026-09-25T22:00:09.581885+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 176.222588354317
@@ -1254,7 +1254,7 @@
       "direcao": "Sul",
       "periodo": 13.1700408368569,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:41:29.371201+00:00",
+      "observado_em": "2026-09-25T22:00:27.988750+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 183.319179525977
@@ -1273,7 +1273,7 @@
       "direcao": "Sul",
       "periodo": 13.1825644868235,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:41:44.545437+00:00",
+      "observado_em": "2026-09-25T22:00:52.854759+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 182.91383095667
@@ -1292,7 +1292,7 @@
       "direcao": "Sul",
       "periodo": 13.1889587507557,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:41:58.348810+00:00",
+      "observado_em": "2026-09-25T22:01:07.772229+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 182.732914867746
@@ -1311,7 +1311,7 @@
       "direcao": "Sul",
       "periodo": 13.0265158598554,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:42:12.493862+00:00",
+      "observado_em": "2026-09-25T22:01:40.450031+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 186.33246623914
@@ -1330,7 +1330,7 @@
       "direcao": "Sul",
       "periodo": 13.0293342271822,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:42:27.309955+00:00",
+      "observado_em": "2026-09-25T22:01:54.775741+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 186.348671862672
@@ -1349,7 +1349,7 @@
       "direcao": "Sul",
       "periodo": 13.0326530192549,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:42:41.302453+00:00",
+      "observado_em": "2026-09-25T22:02:25.022075+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.367754919311
@@ -1368,7 +1368,7 @@
       "direcao": "Sul",
       "periodo": 13.0326530192549,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:42:55.781976+00:00",
+      "observado_em": "2026-09-25T22:02:47.702337+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.367754919311
@@ -1387,7 +1387,7 @@
       "direcao": "Sul",
       "periodo": 13.0926995017573,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:43:10.920482+00:00",
+      "observado_em": "2026-09-25T22:03:13.437402+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.423034392565
@@ -1406,7 +1406,7 @@
       "direcao": "Sul",
       "periodo": 13.1090115612769,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:43:24.130320+00:00",
+      "observado_em": "2026-09-25T22:03:58.013920+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.012710189327
@@ -1425,7 +1425,7 @@
       "direcao": "Sul",
       "periodo": 13.0311410162628,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:43:39.646832+00:00",
+      "observado_em": "2026-09-25T22:04:32.320057+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 186.359060902842
@@ -1444,7 +1444,7 @@
       "direcao": "Sul",
       "periodo": 13.0340312526444,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:43:52.070526+00:00",
+      "observado_em": "2026-09-25T22:04:36.127723+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.375679757722
@@ -1463,7 +1463,7 @@
       "direcao": "Sul",
       "periodo": 13.0117833153502,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:44:08.572322+00:00",
+      "observado_em": "2026-09-25T22:04:51.354461+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.247754010527
@@ -1482,7 +1482,7 @@
       "direcao": "Sul",
       "periodo": 13.0109026553827,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:44:21.063516+00:00",
+      "observado_em": "2026-09-25T22:05:07.179579+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.24269021274
@@ -1501,7 +1501,7 @@
       "direcao": "Sul",
       "periodo": 13.0111202498964,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:44:35.218092+00:00",
+      "observado_em": "2026-09-25T22:05:32.669203+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.243941381855
@@ -1520,7 +1520,7 @@
       "direcao": "Sul",
       "periodo": 13.0109026553827,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:44:51.001008+00:00",
+      "observado_em": "2026-09-25T22:05:47.642269+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 186.24269021274
@@ -1539,7 +1539,7 @@
       "direcao": "Sul",
       "periodo": 13.0112960642391,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:45:07.163498+00:00",
+      "observado_em": "2026-09-25T22:06:11.241745+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.244952314897
@@ -1558,7 +1558,7 @@
       "direcao": "Sul",
       "periodo": 13.0109026553827,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:45:21.397102+00:00",
+      "observado_em": "2026-09-25T22:06:37.342875+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.24269021274
@@ -1577,7 +1577,7 @@
       "direcao": "Sul",
       "periodo": 13.0109026553827,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:45:36.234350+00:00",
+      "observado_em": "2026-09-25T22:06:54.465445+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.24269021274
@@ -1596,7 +1596,7 @@
       "direcao": "Sul",
       "periodo": 13.0109026553827,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:45:50.658624+00:00",
+      "observado_em": "2026-09-25T22:07:10.185089+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.24269021274
@@ -1615,7 +1615,7 @@
       "direcao": "Sul",
       "periodo": 13.0109026553827,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:46:06.317152+00:00",
+      "observado_em": "2026-09-25T22:07:26.209627+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.24269021274
@@ -1634,7 +1634,7 @@
       "direcao": "Sul",
       "periodo": 13.0643293675022,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:46:19.254251+00:00",
+      "observado_em": "2026-09-25T22:07:47.054270+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.647324168093
@@ -1653,9 +1653,9 @@
       "direcao": "Sul",
       "periodo": 13.0645502569713,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:46:33.989243+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T22:08:02.176004+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 177.53127909171
     },
     {
@@ -1672,7 +1672,7 @@
       "direcao": "Sul",
       "periodo": 13.0646390818816,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:46:48.659136+00:00",
+      "observado_em": "2026-09-25T22:08:16.892803+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.484614005864
@@ -1694,7 +1694,7 @@
       "direcao": "Sul",
       "periodo": 13.0675477916761,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:47:05.525984+00:00",
+      "observado_em": "2026-09-25T22:08:31.678319+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 175.956716143447
@@ -1716,7 +1716,7 @@
       "direcao": "Sul",
       "periodo": 13.0682986426318,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:47:17.618814+00:00",
+      "observado_em": "2026-09-25T22:08:46.770691+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 175.562528114589
@@ -1738,7 +1738,7 @@
       "direcao": "Sul",
       "periodo": 13.0673908659528,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:47:34.816050+00:00",
+      "observado_em": "2026-09-25T22:09:05.795528+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.039117580442
@@ -1760,7 +1760,7 @@
       "direcao": "Sul",
       "periodo": 13.0334345924062,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:47:48.361560+00:00",
+      "observado_em": "2026-09-25T22:09:21.994232+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 176.796199328091
@@ -1782,7 +1782,7 @@
       "direcao": "Sul",
       "periodo": 13.0694744167262,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:48:02.750789+00:00",
+      "observado_em": "2026-09-25T22:09:39.562856+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 174.94560390183
@@ -1804,7 +1804,7 @@
       "direcao": "Sul",
       "periodo": 13.068600961339,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:48:17.180969+00:00",
+      "observado_em": "2026-09-25T22:09:53.533135+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 175.403858519896
@@ -1826,7 +1826,7 @@
       "direcao": "Sul",
       "periodo": 13.067874828909,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:48:30.983950+00:00",
+      "observado_em": "2026-09-25T22:10:09.537654+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 174.801823001948
@@ -1845,7 +1845,7 @@
       "direcao": "Sul",
       "periodo": 13.06486359723,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:48:45.734387+00:00",
+      "observado_em": "2026-09-25T22:10:27.020339+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 177.366661563265
@@ -1864,7 +1864,7 @@
       "direcao": "Sul",
       "periodo": 13.0648365635037,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:48:59.404920+00:00",
+      "observado_em": "2026-09-25T22:10:41.305721+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.380864181161
@@ -1883,7 +1883,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:49:13.781086+00:00",
+      "observado_em": "2026-09-25T22:10:56.485316+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.89
@@ -1902,9 +1902,9 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:49:27.714932+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T22:11:11.727012+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 174.321315573105
     },
     {
@@ -1921,7 +1921,7 @@
       "direcao": "Sul",
       "periodo": 12.9584163642344,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:49:41.751043+00:00",
+      "observado_em": "2026-09-25T22:11:29.708180+00:00",
       "balneabilidade": "impropria",
       "score": -80,
       "direcao_graus": 173.965293636782
@@ -1976,7 +1976,7 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:50:05.184471+00:00",
+      "observado_em": "2026-09-25T22:11:49.908543+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 174.901993822926
@@ -2013,9 +2013,9 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:50:21.562061+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T22:12:07.724568+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 174.321315573105
     },
     {
@@ -2032,7 +2032,7 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:50:38.582024+00:00",
+      "observado_em": "2026-09-25T22:12:25.163091+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 174.321315573105
@@ -2069,9 +2069,9 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:50:56.794872+00:00",
-      "balneabilidade": "impropria",
-      "score": -115,
+      "observado_em": "2026-09-25T22:12:43.487123+00:00",
+      "balneabilidade": "propria",
+      "score": 85,
       "direcao_graus": 174.321315573105
     },
     {
@@ -2088,7 +2088,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:51:11.708193+00:00",
+      "observado_em": "2026-09-25T22:12:58.619585+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.89
@@ -2107,7 +2107,7 @@
       "direcao": "Sul",
       "periodo": 12.9619706550864,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:51:27.744908+00:00",
+      "observado_em": "2026-09-25T22:13:11.438214+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.942190736657
@@ -2126,7 +2126,7 @@
       "direcao": "Sul",
       "periodo": 12.9574950332978,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:51:43.923055+00:00",
+      "observado_em": "2026-09-25T22:13:26.761358+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.971282290111
@@ -2145,7 +2145,7 @@
       "direcao": "Sudeste",
       "periodo": 13.39,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T17:52:01.376821+00:00",
+      "observado_em": "2026-09-25T22:13:42.232015+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 120.59
@@ -2164,7 +2164,7 @@
       "direcao": "Sul",
       "periodo": 13.0360598003972,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:52:18.544273+00:00",
+      "observado_em": "2026-09-25T22:13:55.166846+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.387343896331
@@ -2183,7 +2183,7 @@
       "direcao": "Sul",
       "periodo": 13.0383076958666,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:52:35.802210+00:00",
+      "observado_em": "2026-09-25T22:14:10.152732+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.400269274144
@@ -2202,7 +2202,7 @@
       "direcao": "Sul",
       "periodo": 13.0390597003916,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:52:52.080818+00:00",
+      "observado_em": "2026-09-25T22:14:22.903182+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.404593290764
@@ -2239,7 +2239,7 @@
       "direcao": "Sul",
       "periodo": 13.0037897110317,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:53:10.160749+00:00",
+      "observado_em": "2026-09-25T22:14:42.530242+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.670378130995
@@ -2258,7 +2258,7 @@
       "direcao": "Sul",
       "periodo": 13.0078861540298,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:53:23.942366+00:00",
+      "observado_em": "2026-09-25T22:14:57.499746+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.119362184116
@@ -2277,7 +2277,7 @@
       "direcao": "Sul",
       "periodo": 13.0085460673971,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:53:38.101774+00:00",
+      "observado_em": "2026-09-25T22:15:13.099301+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 185.030589103951
@@ -2296,7 +2296,7 @@
       "direcao": "Sul",
       "periodo": 13.0075254643854,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:53:51.929824+00:00",
+      "observado_em": "2026-09-25T22:15:28.465441+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 185.167882443704
@@ -2315,7 +2315,7 @@
       "direcao": "Sul",
       "periodo": 13.0058448216883,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:54:07.719822+00:00",
+      "observado_em": "2026-09-25T22:15:44.976433+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 185.39395642983
@@ -2334,7 +2334,7 @@
       "direcao": "Sul",
       "periodo": 13.0036925943013,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:54:22.445238+00:00",
+      "observado_em": "2026-09-25T22:15:57.192343+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.683439910401
@@ -2353,7 +2353,7 @@
       "direcao": "Sul",
       "periodo": 13.0059374670695,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:54:38.079872+00:00",
+      "observado_em": "2026-09-25T22:16:13.880825+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.381494496528
@@ -2372,7 +2372,7 @@
       "direcao": "Sul",
       "periodo": 13.0053700408456,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:54:50.544293+00:00",
+      "observado_em": "2026-09-25T22:16:26.352501+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.457819386286
@@ -2391,7 +2391,7 @@
       "direcao": "Sul",
       "periodo": 13.0088740013689,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:55:06.538732+00:00",
+      "observado_em": "2026-09-25T22:16:40.973872+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 186.231025448549
@@ -2428,7 +2428,7 @@
       "direcao": "Sul",
       "periodo": 13.0038198531252,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:55:23.895151+00:00",
+      "observado_em": "2026-09-25T22:16:57.902981+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 185.666324132306
@@ -2447,7 +2447,7 @@
       "direcao": "Sul",
       "periodo": 13.0183956080472,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:55:38.118881+00:00",
+      "observado_em": "2026-09-25T22:17:13.138306+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 183.705729500715
@@ -2466,7 +2466,7 @@
       "direcao": "Sul",
       "periodo": 13.0183956080472,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:55:53.734113+00:00",
+      "observado_em": "2026-09-25T22:17:28.876561+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 183.705729500715
@@ -2485,7 +2485,7 @@
       "direcao": "Sul",
       "periodo": 13.0143913785924,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:56:06.267374+00:00",
+      "observado_em": "2026-09-25T22:17:43.332066+00:00",
       "balneabilidade": "impropria",
       "score": -130,
       "direcao_graus": 184.244271994722
@@ -2504,7 +2504,7 @@
       "direcao": "Sul",
       "periodo": 13.0209128973784,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:56:20.242290+00:00",
+      "observado_em": "2026-09-25T22:17:57.462349+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 183.304710631649
@@ -2523,7 +2523,7 @@
       "direcao": "Sul",
       "periodo": 13.0209128973784,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:56:35.701391+00:00",
+      "observado_em": "2026-09-25T22:18:11.882604+00:00",
       "balneabilidade": null,
       "score": -30,
       "direcao_graus": 183.304710631649
@@ -2542,7 +2542,7 @@
       "direcao": "Sul",
       "periodo": 13.0210408233189,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:56:50.397800+00:00",
+      "observado_em": "2026-09-25T22:18:28.124993+00:00",
       "balneabilidade": null,
       "score": -30,
       "direcao_graus": 183.278744226167
@@ -2561,7 +2561,7 @@
       "direcao": "Sul",
       "periodo": 13.0152586178282,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:57:05.217902+00:00",
+      "observado_em": "2026-09-25T22:18:41.455822+00:00",
       "balneabilidade": null,
       "score": -30,
       "direcao_graus": 184.127621897716
@@ -2580,7 +2580,7 @@
       "direcao": "Sul",
       "periodo": 13.0647099449083,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:57:20.629224+00:00",
+      "observado_em": "2026-09-25T22:18:57.137538+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.447385198064
@@ -2599,7 +2599,7 @@
       "direcao": "Sul",
       "periodo": 13.0647660254499,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:57:34.650237+00:00",
+      "observado_em": "2026-09-25T22:19:11.287736+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.417922467302
@@ -2618,7 +2618,7 @@
       "direcao": "Sul",
       "periodo": 13.2148115908756,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:57:48.711819+00:00",
+      "observado_em": "2026-09-25T22:19:27.444981+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 181.898312672731
@@ -2637,7 +2637,7 @@
       "direcao": "Sul",
       "periodo": 13.3221943649922,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:58:03.672111+00:00",
+      "observado_em": "2026-09-25T22:19:40.437244+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 177.817525309827
@@ -2656,7 +2656,7 @@
       "direcao": "Sul",
       "periodo": 13.3226988612773,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:58:17.635194+00:00",
+      "observado_em": "2026-09-25T22:19:55.708441+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 177.79378341252
@@ -2675,7 +2675,7 @@
       "direcao": "Sul",
       "periodo": 13.3235906304778,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:58:33.512267+00:00",
+      "observado_em": "2026-09-25T22:20:09.354358+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 177.751813556033
@@ -2694,7 +2694,7 @@
       "direcao": "Sul",
       "periodo": 13.321201683818,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:58:47.202378+00:00",
+      "observado_em": "2026-09-25T22:20:26.268731+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 177.864238263555
@@ -2713,7 +2713,7 @@
       "direcao": "Sul",
       "periodo": 13.2308168703289,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:59:01.368136+00:00",
+      "observado_em": "2026-09-25T22:20:39.410032+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 181.376382644607
@@ -2732,7 +2732,7 @@
       "direcao": "Sul",
       "periodo": 13.2264286166303,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:59:16.551542+00:00",
+      "observado_em": "2026-09-25T22:20:55.302055+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 181.524946693746
@@ -2751,7 +2751,7 @@
       "direcao": "Sul",
       "periodo": 13.2113161779852,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:59:30.605752+00:00",
+      "observado_em": "2026-09-25T22:21:08.137224+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 182.023511117936
@@ -2770,7 +2770,7 @@
       "direcao": "Sul",
       "periodo": 13.2053672294087,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:59:46.103106+00:00",
+      "observado_em": "2026-09-25T22:21:22.789321+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 182.201462055307
@@ -2789,7 +2789,7 @@
       "direcao": "Sul",
       "periodo": 13.0380736427644,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T17:59:59.913521+00:00",
+      "observado_em": "2026-09-25T22:21:37.147844+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.398923471484
@@ -2808,7 +2808,7 @@
       "direcao": "Sul",
       "periodo": 13.0265158598554,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:00:22.557465+00:00",
+      "observado_em": "2026-09-25T22:21:52.877072+00:00",
       "balneabilidade": "propria",
       "score": 70,
       "direcao_graus": 186.33246623914
@@ -2827,9 +2827,9 @@
       "direcao": "Sul",
       "periodo": 13.0647237987104,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:00:37.969674+00:00",
-      "balneabilidade": "impropria",
-      "score": -115,
+      "observado_em": "2026-09-25T22:22:05.317729+00:00",
+      "balneabilidade": "propria",
+      "score": 85,
       "direcao_graus": 177.440106907906
     },
     {
@@ -2846,7 +2846,7 @@
       "direcao": "Sul",
       "periodo": 13.0647517674127,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:00:54.479946+00:00",
+      "observado_em": "2026-09-25T22:22:22.572628+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 177.425413141966
@@ -2865,9 +2865,9 @@
       "direcao": "Sul",
       "periodo": 13.0647210826405,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:01:07.960470+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T22:22:35.169679+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 177.44153383389
     },
     {
@@ -2884,9 +2884,9 @@
       "direcao": "Sul",
       "periodo": 13.0647760860782,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:01:23.695303+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T22:22:49.574200+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 177.41263696211
     },
     {
@@ -2903,7 +2903,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:01:38.806808+00:00",
+      "observado_em": "2026-09-25T22:23:03.737101+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -2922,7 +2922,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:01:53.739385+00:00",
+      "observado_em": "2026-09-25T22:23:19.917768+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -2941,7 +2941,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:02:08.387274+00:00",
+      "observado_em": "2026-09-25T22:23:33.798972+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -2960,7 +2960,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:02:24.080404+00:00",
+      "observado_em": "2026-09-25T22:23:48.077930+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -2979,7 +2979,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:02:39.541263+00:00",
+      "observado_em": "2026-09-25T22:24:01.704849+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -2998,7 +2998,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:02:54.166039+00:00",
+      "observado_em": "2026-09-25T22:24:15.722336+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -3017,7 +3017,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:03:08.582957+00:00",
+      "observado_em": "2026-09-25T22:24:29.806963+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -3036,7 +3036,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:03:23.545714+00:00",
+      "observado_em": "2026-09-25T22:24:43.821293+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -3055,7 +3055,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:03:38.358941+00:00",
+      "observado_em": "2026-09-25T22:24:58.853457+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -3074,7 +3074,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:03:53.494364+00:00",
+      "observado_em": "2026-09-25T22:25:15.884996+00:00",
       "balneabilidade": null,
       "score": -15,
       "direcao_graus": 176.398404755051
@@ -3093,7 +3093,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:04:08.765209+00:00",
+      "observado_em": "2026-09-25T22:25:30.457610+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -3112,7 +3112,7 @@
       "direcao": "Sul",
       "periodo": 13.0667067447221,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:04:24.133296+00:00",
+      "observado_em": "2026-09-25T22:25:45.420149+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 176.398404755051
@@ -3131,7 +3131,7 @@
       "direcao": "Sul",
       "periodo": 12.99,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T18:04:39.676733+00:00",
+      "observado_em": "2026-09-25T22:25:59.589514+00:00",
       "balneabilidade": "impropria",
       "score": -65,
       "direcao_graus": 180.15
@@ -3186,7 +3186,7 @@
       "direcao": "Sul",
       "periodo": 12.99,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T18:05:03.606823+00:00",
+      "observado_em": "2026-09-25T22:26:23.175415+00:00",
       "balneabilidade": "impropria",
       "score": -65,
       "direcao_graus": 180.15
@@ -3205,7 +3205,7 @@
       "direcao": "Sul",
       "periodo": 12.99,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T18:05:23.191692+00:00",
+      "observado_em": "2026-09-25T22:26:36.223690+00:00",
       "balneabilidade": "impropria",
       "score": -65,
       "direcao_graus": 180.15
@@ -3224,7 +3224,7 @@
       "direcao": "Sul",
       "periodo": 12.9561681488844,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:05:40.057274+00:00",
+      "observado_em": "2026-09-25T22:26:52.306644+00:00",
       "balneabilidade": "impropria",
       "score": -115,
       "direcao_graus": 178.563428732018
@@ -3243,7 +3243,7 @@
       "direcao": "Sul",
       "periodo": 12.99,
       "estado_do_mar": "leve",
-      "observado_em": "2026-09-25T18:05:56.620068+00:00",
+      "observado_em": "2026-09-25T22:27:07.634904+00:00",
       "balneabilidade": null,
       "score": 35,
       "direcao_graus": 180.15
@@ -3262,9 +3262,9 @@
       "direcao": "Sul",
       "periodo": 12.95,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:06:13.367877+00:00",
-      "balneabilidade": "propria",
-      "score": 85,
+      "observado_em": "2026-09-25T22:27:21.547166+00:00",
+      "balneabilidade": "impropria",
+      "score": -115,
       "direcao_graus": 174.946556561616
     },
     {
@@ -3281,7 +3281,7 @@
       "direcao": "Sul",
       "periodo": 13.0268636907072,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:06:29.092324+00:00",
+      "observado_em": "2026-09-25T22:27:35.921237+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 182.096636705217
@@ -3300,7 +3300,7 @@
       "direcao": "Sul",
       "periodo": 13.0438272195485,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:06:41.525213+00:00",
+      "observado_em": "2026-09-25T22:27:51.469230+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 180.750206332303
@@ -3319,7 +3319,7 @@
       "direcao": "Sul",
       "periodo": 13.0591864868655,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:06:56.704414+00:00",
+      "observado_em": "2026-09-25T22:28:04.210915+00:00",
       "balneabilidade": "propria",
       "score": 85,
       "direcao_graus": 179.961755714514
@@ -3338,7 +3338,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:07:09.619205+00:00",
+      "observado_em": "2026-09-25T22:28:18.397954+00:00",
       "balneabilidade": "impropria",
       "score": -80,
       "direcao_graus": 173.89
@@ -3357,7 +3357,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:07:24.794363+00:00",
+      "observado_em": "2026-09-25T22:28:32.072971+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.89
@@ -3376,7 +3376,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:07:40.415413+00:00",
+      "observado_em": "2026-09-25T22:28:45.918161+00:00",
       "balneabilidade": "impropria",
       "score": -80,
       "direcao_graus": 173.89
@@ -3395,7 +3395,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:07:58.246390+00:00",
+      "observado_em": "2026-09-25T22:28:59.657789+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.89
@@ -3414,7 +3414,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:08:12.504582+00:00",
+      "observado_em": "2026-09-25T22:29:13.429960+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.89
@@ -3433,7 +3433,7 @@
       "direcao": "Sul",
       "periodo": 12.97,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:08:26.948570+00:00",
+      "observado_em": "2026-09-25T22:29:26.869946+00:00",
       "balneabilidade": "impropria",
       "score": -80,
       "direcao_graus": 173.89
@@ -3452,7 +3452,7 @@
       "direcao": "Sul",
       "periodo": 12.9717435675108,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:08:41.073679+00:00",
+      "observado_em": "2026-09-25T22:29:41.503333+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 172.998054665276
@@ -3471,7 +3471,7 @@
       "direcao": "Sul",
       "periodo": 12.9699777703927,
       "estado_do_mar": "moderado",
-      "observado_em": "2026-09-25T18:08:56.299408+00:00",
+      "observado_em": "2026-09-25T22:29:54.748082+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 173.140041555049
