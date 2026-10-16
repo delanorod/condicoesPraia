@@ -1,8 +1,8 @@
 {
-  "ultima_atualizacao": "2026-10-16T17:39:23.736124+00:00",
+  "ultima_atualizacao": "2026-10-16T22:18:51.683382+00:00",
   "fonte_ondas": "NOAA GFS-Wave",
   "fonte_balneabilidade": "INEA (via praialimpa.net)",
-  "praia_recomendada": "Recreio dos Bandeirantes",
+  "praia_recomendada": "Leme",
   "praias": [
     {
       "nome": "Recreio dos Bandeirantes",
@@ -15,16 +15,16 @@
       ],
       "lat": -23.0241,
       "lon": -43.4626,
-      "onda": 0.711433119244991,
-      "vento": 8.538643105328628,
+      "onda": 0.766255247597033,
+      "vento": 11.676710770104133,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.65577954400067,
+      "periodo": 7.42106168914447,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:51:46.730111+00:00",
+      "observado_em": "2026-10-16T21:32:47.020555+00:00",
       "balneabilidade": "propria",
-      "score": 180,
-      "direcao_graus": 161.320385334845
+      "score": 165,
+      "direcao_graus": 158.637401803547
     },
     {
       "nome": "Grumari",
@@ -37,16 +37,16 @@
       ],
       "lat": -23.0548,
       "lon": -43.5283,
-      "onda": 0.649833839306231,
-      "vento": 9.208439471920247,
+      "onda": 0.698768089777775,
+      "vento": 12.778842121764013,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.71252979633378,
+      "periodo": 7.43837811637884,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:52:01.894011+00:00",
+      "observado_em": "2026-10-16T21:33:02.428824+00:00",
       "balneabilidade": "propria",
-      "score": 140,
-      "direcao_graus": 162.880538354352
+      "score": 125,
+      "direcao_graus": 161.043294266938
     },
     {
       "nome": "Barra de Guaratiba",
@@ -59,16 +59,16 @@
       ],
       "lat": -23.065,
       "lon": -43.57,
-      "onda": 0.627542092853379,
-      "vento": 9.111553237741175,
+      "onda": 0.674716468604962,
+      "vento": 12.582205556707043,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.72009050923412,
+      "periodo": 7.43792179497731,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:52:19.000815+00:00",
+      "observado_em": "2026-10-16T21:33:18.746501+00:00",
       "balneabilidade": "propria",
-      "score": 155,
-      "direcao_graus": 163.426244910819
+      "score": 140,
+      "direcao_graus": 161.697874430147
     },
     {
       "nome": "Itaipu",
@@ -78,16 +78,16 @@
       "caracteristicas": [],
       "lat": -22.9591,
       "lon": -43.0493,
-      "onda": 0.673389969682404,
-      "vento": 8.454347929077445,
+      "onda": 0.731501389591662,
+      "vento": 10.635628244673095,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.67188858009074,
+      "periodo": 7.40811141990926,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:52:34.721864+00:00",
+      "observado_em": "2026-10-16T21:33:31.475117+00:00",
       "balneabilidade": "impropria",
-      "score": -45,
-      "direcao_graus": 162.792956667164
+      "score": -60,
+      "direcao_graus": 160.488328606281
     },
     {
       "nome": "Piratininga",
@@ -97,16 +97,16 @@
       "caracteristicas": [],
       "lat": -22.9554,
       "lon": -43.0588,
-      "onda": 0.670908989339368,
-      "vento": 8.401556211635304,
+      "onda": 0.728311557722045,
+      "vento": 10.570555674532908,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.67259743161732,
+      "periodo": 7.40740256838268,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:52:50.308528+00:00",
+      "observado_em": "2026-10-16T21:33:48.621595+00:00",
       "balneabilidade": "propria",
-      "score": 155,
-      "direcao_graus": 162.767792697641
+      "score": 140,
+      "direcao_graus": 160.498961359591
     },
     {
       "nome": "Arpoador",
@@ -119,16 +119,16 @@
       ],
       "lat": -22.9876,
       "lon": -43.194,
-      "onda": 0.615642163708291,
-      "vento": 7.22555711481402,
+      "onda": 0.657254210482089,
+      "vento": 9.120985790837796,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.6883879532262,
+      "periodo": 7.3916120467738,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:53:07.976685+00:00",
+      "observado_em": "2026-10-16T21:34:03.395753+00:00",
       "balneabilidade": "propria",
       "score": 140,
-      "direcao_graus": 162.207226530973
+      "direcao_graus": 160.7358193836
     },
     {
       "nome": "Diabo",
@@ -141,16 +141,16 @@
       ],
       "lat": -22.988,
       "lon": -43.196,
-      "onda": 0.615180684034024,
-      "vento": 7.215737486602284,
+      "onda": 0.656660879472316,
+      "vento": 9.108881838238428,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.68851980456171,
+      "periodo": 7.39148019543829,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:53:24.384803+00:00",
+      "observado_em": "2026-10-16T21:34:17.448287+00:00",
       "balneabilidade": "impropria",
       "score": -60,
-      "direcao_graus": 162.20254587709
+      "direcao_graus": 160.737797148463
     },
     {
       "nome": "Itacoatiara",
@@ -160,16 +160,16 @@
       "caracteristicas": [],
       "lat": -22.9681,
       "lon": -43.0356,
-      "onda": 0.676517655380963,
-      "vento": 8.520900612620364,
+      "onda": 0.735522699775524,
+      "vento": 10.717662972423852,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.67099495560544,
+      "periodo": 7.40900504439456,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:53:40.959697+00:00",
+      "observado_em": "2026-10-16T21:34:30.127298+00:00",
       "balneabilidade": "propria",
-      "score": 155,
-      "direcao_graus": 162.824679849534
+      "score": 140,
+      "direcao_graus": 160.474924275728
     },
     {
       "nome": "Macumba",
@@ -182,16 +182,16 @@
       ],
       "lat": -23.031,
       "lon": -43.4921,
-      "onda": 0.724084856974089,
-      "vento": 8.721149376498229,
+      "onda": 0.780346690501576,
+      "vento": 12.029947276492656,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.65350538291879,
+      "periodo": 7.42460365042373,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:53:57.996243+00:00",
+      "observado_em": "2026-10-16T21:34:45.917012+00:00",
       "balneabilidade": null,
-      "score": 40,
-      "direcao_graus": 161.156674392426
+      "score": 25,
+      "direcao_graus": 158.38337209408
     },
     {
       "nome": "Charitas",
@@ -201,16 +201,16 @@
       "caracteristicas": [],
       "lat": -22.9231,
       "lon": -43.12,
-      "onda": 0.646928286448608,
-      "vento": 7.891281112266901,
+      "onda": 0.697479225433925,
+      "vento": 9.941576095855261,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.67944906101468,
+      "periodo": 7.40055093898532,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:54:12.520210+00:00",
+      "observado_em": "2026-10-16T21:34:58.579580+00:00",
       "balneabilidade": "impropria",
       "score": -45,
-      "direcao_graus": 162.524558583501
+      "direcao_graus": 160.601735896397
     },
     {
       "nome": "Leblon",
@@ -223,16 +223,16 @@
       ],
       "lat": -22.9877,
       "lon": -43.223,
-      "onda": 0.611248991003922,
-      "vento": 7.132076675626032,
+      "onda": 0.651605845576471,
+      "vento": 9.005759146763173,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.68964314542745,
+      "periodo": 7.39035685457255,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:54:27.310351+00:00",
+      "observado_em": "2026-10-16T21:35:16.193279+00:00",
       "balneabilidade": "impropria",
       "score": -45,
-      "direcao_graus": 162.162668030256
+      "direcao_graus": 160.754647204577
     },
     {
       "nome": "Vidigal",
@@ -245,16 +245,16 @@
       ],
       "lat": -22.9932,
       "lon": -43.2349,
-      "onda": 0.610355736052429,
-      "vento": 7.11306948633678,
+      "onda": 0.650457374924551,
+      "vento": 8.982330345464005,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.68989836112788,
+      "periodo": 7.39010163887212,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:54:42.499028+00:00",
+      "observado_em": "2026-10-16T21:35:29.293659+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 162.15360808902
+      "direcao_graus": 160.758475423779
     },
     {
       "nome": "Glória",
@@ -267,16 +267,16 @@
       ],
       "lat": -22.9232,
       "lon": -43.174,
-      "onda": 0.627834387197585,
-      "vento": 7.484990213204065,
+      "onda": 0.672929926396895,
+      "vento": 9.440770395499849,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.68490446080069,
+      "periodo": 7.39509553919931,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:54:59.023953+00:00",
+      "observado_em": "2026-10-16T21:35:43.445026+00:00",
       "balneabilidade": "impropria",
       "score": -45,
-      "direcao_graus": 162.330889949497
+      "direcao_graus": 160.683567039656
     },
     {
       "nome": "Adão",
@@ -286,16 +286,16 @@
       "caracteristicas": [],
       "lat": -22.9275652,
       "lon": -43.122763,
-      "onda": 0.645891490840914,
-      "vento": 7.869219582871764,
+      "onda": 0.696146202509747,
+      "vento": 9.914382428202,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.67974528833117,
+      "periodo": 7.40025471166883,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:55:15.293850+00:00",
+      "observado_em": "2026-10-16T21:35:57.742430+00:00",
       "balneabilidade": "impropria",
       "score": -45,
-      "direcao_graus": 162.514042379879
+      "direcao_graus": 160.606179316244
     },
     {
       "nome": "Bonfim",
@@ -305,16 +305,16 @@
       "caracteristicas": [],
       "lat": -23.020845,
       "lon": -44.3327425,
-      "onda": 0.60929804258345,
-      "vento": 9.165190234873176,
+      "onda": 0.670626334381085,
+      "vento": 12.477753935816148,
       "agitacao": "Moderado",
-      "direcao": "Sul",
-      "periodo": 7.75566414589882,
+      "direcao": "Sudeste",
+      "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:55:29.779909+00:00",
+      "observado_em": "2026-10-16T21:36:14.669018+00:00",
       "balneabilidade": "impropria",
-      "score": -45,
-      "direcao_graus": 159.333717708441
+      "score": -60,
+      "direcao_graus": 157.328273185001
     },
     {
       "nome": "Praia Grande",
@@ -324,16 +324,16 @@
       "caracteristicas": [],
       "lat": -23.044002,
       "lon": -44.3728007,
-      "onda": 0.600581148331465,
-      "vento": 9.101027666825534,
+      "onda": 0.660664169521675,
+      "vento": 12.404625419395044,
       "agitacao": "Moderado",
-      "direcao": "Sul",
-      "periodo": 7.75504151059511,
+      "direcao": "Sudeste",
+      "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:55:44.793808+00:00",
+      "observado_em": "2026-10-16T21:36:28.839443+00:00",
       "balneabilidade": "impropria",
-      "score": -45,
-      "direcao_graus": 159.522419357765
+      "score": -60,
+      "direcao_graus": 157.484579174122
     },
     {
       "nome": "Jacuecanga",
@@ -361,16 +361,16 @@
       "caracteristicas": [],
       "lat": -23.1352592,
       "lon": -44.1545463,
-      "onda": 0.708482356549262,
-      "vento": 9.928902206183185,
+      "onda": 0.774634120894336,
+      "vento": 13.362780040042177,
       "agitacao": "Moderado",
-      "direcao": "Sul",
-      "periodo": 7.75615176434507,
+      "direcao": "Sudeste",
+      "periodo": 7.42769647130985,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:56:06.023922+00:00",
+      "observado_em": "2026-10-16T21:36:50.323370+00:00",
       "balneabilidade": "propria",
-      "score": 155,
-      "direcao_graus": 157.573608985671
+      "score": 140,
+      "direcao_graus": 155.793608985671
     },
     {
       "nome": "Guaxindiba",
@@ -381,15 +381,15 @@
       "lat": -21.4792521,
       "lon": -41.0577166,
       "onda": 0.38,
-      "vento": 11.362499828338608,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:56:22.040045+00:00",
+      "observado_em": "2026-10-16T21:37:04.830276+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Sossego",
@@ -400,15 +400,15 @@
       "lat": -21.492483,
       "lon": -41.0664792,
       "onda": 0.38,
-      "vento": 11.362499828338608,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:56:35.873173+00:00",
+      "observado_em": "2026-10-16T21:37:19.649263+00:00",
       "balneabilidade": "impropria",
       "score": -45,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Tropical",
@@ -419,15 +419,15 @@
       "lat": -21.5369093,
       "lon": -41.0710554,
       "onda": 0.38,
-      "vento": 11.3625,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:56:53.158430+00:00",
+      "observado_em": "2026-10-16T21:37:36.342113+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Itaperuna",
@@ -438,15 +438,15 @@
       "lat": -21.5114814,
       "lon": -41.0866915,
       "onda": 0.38,
-      "vento": 11.3625,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:57:06.378194+00:00",
+      "observado_em": "2026-10-16T21:37:50.629628+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Sonho",
@@ -457,15 +457,15 @@
       "lat": -21.4537437,
       "lon": -41.1452982,
       "onda": 0.38,
-      "vento": 11.362499828338608,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:57:20.422062+00:00",
+      "observado_em": "2026-10-16T21:38:07.734997+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Gargaú",
@@ -476,15 +476,15 @@
       "lat": -21.5615608,
       "lon": -41.0600938,
       "onda": 0.38,
-      "vento": 11.3625,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:57:35.878282+00:00",
+      "observado_em": "2026-10-16T21:38:21.014035+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Grussaí",
@@ -495,15 +495,15 @@
       "lat": -21.688009,
       "lon": -41.0231546,
       "onda": 0.38,
-      "vento": 11.3625,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:57:51.050065+00:00",
+      "observado_em": "2026-10-16T21:38:37.949181+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Atafona",
@@ -514,15 +514,15 @@
       "lat": -21.6537276,
       "lon": -41.0176438,
       "onda": 0.38,
-      "vento": 11.3625,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:58:07.558986+00:00",
+      "observado_em": "2026-10-16T21:38:51.037216+00:00",
       "balneabilidade": "propria",
       "score": 155,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Lagoa de Grussaí",
@@ -533,15 +533,15 @@
       "lat": -21.688009,
       "lon": -41.0231546,
       "onda": 0.38,
-      "vento": 11.3625,
+      "vento": 14.467499862670907,
       "agitacao": "Fraco",
-      "direcao": "Sudeste",
-      "periodo": 8.40999938964844,
+      "direcao": "Leste",
+      "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T16:58:23.044077+00:00",
+      "observado_em": "2026-10-16T21:39:06.008853+00:00",
       "balneabilidade": null,
       "score": 55,
-      "direcao_graus": 124.62
+      "direcao_graus": 81.2899975585938
     },
     {
       "nome": "Farol de São Tomé",
@@ -551,16 +551,16 @@
       "caracteristicas": [],
       "lat": -22.0391709,
       "lon": -41.0536377,
-      "onda": 0.687401252452616,
-      "vento": 14.077817024242284,
+      "onda": 0.771908902555588,
+      "vento": 13.81545537923124,
       "agitacao": "Moderado",
-      "direcao": "Sul",
-      "periodo": 7.98102025193488,
+      "direcao": "Sudeste",
+      "periodo": 7.38306084892815,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:58:38.857467+00:00",
+      "observado_em": "2026-10-16T21:39:20.548016+00:00",
       "balneabilidade": "propria",
       "score": 140,
-      "direcao_graus": 158.928951958586
+      "direcao_graus": 154.232382436883
     },
     {
       "nome": "Lagoa Lagamar",
@@ -588,16 +588,16 @@
       "caracteristicas": [],
       "lat": -22.4071231,
       "lon": -41.8005748,
-      "onda": 0.73,
-      "vento": 11.13299998283387,
+      "onda": 0.83,
+      "vento": 11.888999991416917,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.83,
+      "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:58:57.658904+00:00",
+      "observado_em": "2026-10-16T21:39:40.307710+00:00",
       "balneabilidade": "propria",
       "score": 140,
-      "direcao_graus": 161.36
+      "direcao_graus": 158.079995117188
     },
     {
       "nome": "Campista",
@@ -607,16 +607,16 @@
       "caracteristicas": [],
       "lat": -22.392478,
       "lon": -41.7799543,
-      "onda": 0.73,
-      "vento": 11.13299998283387,
+      "onda": 0.83,
+      "vento": 11.888999991416917,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.83,
+      "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:59:12.465338+00:00",
+      "observado_em": "2026-10-16T21:39:55.151930+00:00",
       "balneabilidade": "propria",
       "score": 140,
-      "direcao_graus": 161.36
+      "direcao_graus": 158.079995117188
     },
     {
       "nome": "Imbetiba",
@@ -626,16 +626,16 @@
       "caracteristicas": [],
       "lat": -22.3822494,
       "lon": -41.7706265,
-      "onda": 0.73,
-      "vento": 11.13299998283387,
+      "onda": 0.83,
+      "vento": 11.888999991416917,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.83,
+      "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:59:28.132528+00:00",
+      "observado_em": "2026-10-16T21:40:10.875551+00:00",
       "balneabilidade": "impropria",
       "score": -60,
-      "direcao_graus": 161.36
+      "direcao_graus": 158.079995117188
     },
     {
       "nome": "Forte",
@@ -645,16 +645,16 @@
       "caracteristicas": [],
       "lat": -22.3764369,
       "lon": -41.771176,
-      "onda": 0.73,
-      "vento": 11.13299998283387,
+      "onda": 0.83,
+      "vento": 11.888999991416917,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.83,
+      "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T16:59:44.590497+00:00",
+      "observado_em": "2026-10-16T21:40:27.516202+00:00",
       "balneabilidade": "impropria",
       "score": -60,
-      "direcao_graus": 161.36
+      "direcao_graus": 158.079995117188
     },
     {
       "nome": "Barra",
@@ -664,16 +664,16 @@
       "caracteristicas": [],
       "lat": -22.3538145,
       "lon": -41.7697617,
-      "onda": 0.73,
-      "vento": 11.13299998283387,
+      "onda": 0.83,
+      "vento": 11.888999991416917,
       "agitacao": "Moderado",
       "direcao": "Sul",
-      "periodo": 7.83,
+      "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:00:01.929441+00:00",
+      "observado_em": "2026-10-16T21:40:43.624990+00:00",
       "balneabilidade": "impropria",
       "score": -60,
-      "direcao_graus": 161.36
+      "direcao_graus": 158.079995117188
     },
     {
       "nome": "Pecado",
@@ -689,7 +689,7 @@
       "direcao": "Sul",
       "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:00:19.687547+00:00",
+      "observado_em": "2026-10-16T21:40:56.440887+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.079995117188
@@ -708,7 +708,7 @@
       "direcao": "Sul",
       "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:00:36.021207+00:00",
+      "observado_em": "2026-10-16T21:41:12.107390+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.079995117188
@@ -727,7 +727,7 @@
       "direcao": "Sul",
       "periodo": 7.32495628417171,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:00:52.583923+00:00",
+      "observado_em": "2026-10-16T21:41:25.210457+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 159.619089503433
@@ -746,7 +746,7 @@
       "direcao": "Sul",
       "periodo": 7.33341781648426,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:01:11.968771+00:00",
+      "observado_em": "2026-10-16T21:41:41.591006+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.057367485091
@@ -765,7 +765,7 @@
       "direcao": "Sul",
       "periodo": 7.42170309009974,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:01:27.623299+00:00",
+      "observado_em": "2026-10-16T21:41:56.130146+00:00",
       "balneabilidade": null,
       "score": 40,
       "direcao_graus": 158.592051181111
@@ -784,7 +784,7 @@
       "direcao": "Sul",
       "periodo": 7.4001734175538,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:01:44.233262+00:00",
+      "observado_em": "2026-10-16T21:42:13.462771+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.607398730752
@@ -806,7 +806,7 @@
       "direcao": "Sul",
       "periodo": 7.39441798154503,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:02:02.427122+00:00",
+      "observado_em": "2026-10-16T21:42:27.394752+00:00",
       "balneabilidade": "propria",
       "score": 180,
       "direcao_graus": 160.693730408513
@@ -828,7 +828,7 @@
       "direcao": "Sul",
       "periodo": 7.39149723901229,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:02:21.851414+00:00",
+      "observado_em": "2026-10-16T21:42:43.239490+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.660799913836
@@ -850,7 +850,7 @@
       "direcao": "Sul",
       "periodo": 7.39541503747667,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:02:36.524164+00:00",
+      "observado_em": "2026-10-16T21:42:56.604430+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.678774561944
@@ -872,7 +872,7 @@
       "direcao": "Sul",
       "periodo": 7.43841144542679,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:02:53.847292+00:00",
+      "observado_em": "2026-10-16T21:43:12.382421+00:00",
       "balneabilidade": "propria",
       "score": 125,
       "direcao_graus": 160.95465986164
@@ -893,7 +893,7 @@
       "direcao": "Sul",
       "periodo": 7.41830440646227,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:03:10.426747+00:00",
+      "observado_em": "2026-10-16T21:43:25.897785+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.832440674986
@@ -912,7 +912,7 @@
       "direcao": "Sul",
       "periodo": 7.40804825920566,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:03:29.009788+00:00",
+      "observado_em": "2026-10-16T21:43:39.916371+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.48927601476
@@ -934,7 +934,7 @@
       "direcao": "Sul",
       "periodo": 7.39218818424696,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:03:42.857593+00:00",
+      "observado_em": "2026-10-16T21:43:54.163638+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.614950079669
@@ -953,7 +953,7 @@
       "direcao": "Sul",
       "periodo": 7.40159085255646,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:03:59.771609+00:00",
+      "observado_em": "2026-10-16T21:44:09.488721+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.586137158515
@@ -972,7 +972,7 @@
       "direcao": "Sul",
       "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:04:14.587351+00:00",
+      "observado_em": "2026-10-16T21:44:24.021029+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.079995117188
@@ -991,7 +991,7 @@
       "direcao": "Sul",
       "periodo": 7.32077561444892,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:04:29.691170+00:00",
+      "observado_em": "2026-10-16T21:44:38.095921+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.637009077113
@@ -1010,7 +1010,7 @@
       "direcao": "Sul",
       "periodo": 7.31881990890499,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:04:45.555551+00:00",
+      "observado_em": "2026-10-16T21:44:51.965418+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.601609305831
@@ -1029,7 +1029,7 @@
       "direcao": "Sul",
       "periodo": 7.31871965466989,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:04:59.378588+00:00",
+      "observado_em": "2026-10-16T21:45:07.950904+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.599794634891
@@ -1048,7 +1048,7 @@
       "direcao": "Sul",
       "periodo": 7.31921682268265,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:05:16.289408+00:00",
+      "observado_em": "2026-10-16T21:45:23.060906+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.608793727027
@@ -1067,7 +1067,7 @@
       "direcao": "Sul",
       "periodo": 7.31876676775243,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:05:32.139956+00:00",
+      "observado_em": "2026-10-16T21:45:38.561408+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.600647414148
@@ -1086,7 +1086,7 @@
       "direcao": "Sul",
       "periodo": 7.31881990890499,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:05:49.972027+00:00",
+      "observado_em": "2026-10-16T21:45:53.941494+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.601609305831
@@ -1105,7 +1105,7 @@
       "direcao": "Sul",
       "periodo": 7.31128908951332,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:06:07.998295+00:00",
+      "observado_em": "2026-10-16T21:46:09.949707+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.465298668606
@@ -1124,7 +1124,7 @@
       "direcao": "Sul",
       "periodo": 7.29,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:06:24.806250+00:00",
+      "observado_em": "2026-10-16T21:46:25.574418+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.079995117188
@@ -1143,7 +1143,7 @@
       "direcao": "Sul",
       "periodo": 7.31170626731055,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:06:40.471821+00:00",
+      "observado_em": "2026-10-16T21:46:41.008279+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.472849602472
@@ -1180,7 +1180,7 @@
       "direcao": "Sul",
       "periodo": 7.33491967991492,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:07:00.500640+00:00",
+      "observado_em": "2026-10-16T21:47:08.215148+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.89303375469
@@ -1235,7 +1235,7 @@
       "direcao": "Sul",
       "periodo": 7.35697880759496,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:07:22.472361+00:00",
+      "observado_em": "2026-10-16T21:47:29.993309+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.292334146835
@@ -1254,7 +1254,7 @@
       "direcao": "Sul",
       "periodo": 7.47315087054312,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:07:41.003828+00:00",
+      "observado_em": "2026-10-16T21:47:45.220669+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.160191859761
@@ -1273,7 +1273,7 @@
       "direcao": "Sul",
       "periodo": 7.46488254535812,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:07:55.953088+00:00",
+      "observado_em": "2026-10-16T21:47:59.357743+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.228756675999
@@ -1292,7 +1292,7 @@
       "direcao": "Sul",
       "periodo": 7.46157436839646,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:08:11.918407+00:00",
+      "observado_em": "2026-10-16T21:48:14.370358+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.246862606088
@@ -1311,7 +1311,7 @@
       "direcao": "Sul",
       "periodo": 7.51325792992771,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:08:30.120182+00:00",
+      "observado_em": "2026-10-16T21:48:28.874415+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 159.823953807113
@@ -1330,7 +1330,7 @@
       "direcao": "Sul",
       "periodo": 7.51466711359111,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:08:43.680724+00:00",
+      "observado_em": "2026-10-16T21:48:43.546018+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 159.687256148892
@@ -1349,7 +1349,7 @@
       "direcao": "Sul",
       "periodo": 7.51632650962744,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:08:59.021100+00:00",
+      "observado_em": "2026-10-16T21:49:00.755017+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.526293401593
@@ -1368,7 +1368,7 @@
       "direcao": "Sul",
       "periodo": 7.51632650962744,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:09:16.851725+00:00",
+      "observado_em": "2026-10-16T21:49:13.783365+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.526293401593
@@ -1387,7 +1387,7 @@
       "direcao": "Sul",
       "periodo": 7.51026638193123,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:09:31.098387+00:00",
+      "observado_em": "2026-10-16T21:49:30.133925+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.994830218982
@@ -1406,7 +1406,7 @@
       "direcao": "Sul",
       "periodo": 7.50359523962166,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:09:46.737335+00:00",
+      "observado_em": "2026-10-16T21:49:44.730937+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.008298617916
@@ -1425,7 +1425,7 @@
       "direcao": "Sul",
       "periodo": 7.51557050813141,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:10:03.503404+00:00",
+      "observado_em": "2026-10-16T21:49:58.966295+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 159.599625104957
@@ -1444,7 +1444,7 @@
       "direcao": "Sul",
       "periodo": 7.51701562632221,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:10:22.279444+00:00",
+      "observado_em": "2026-10-16T21:50:14.671187+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.459451230377
@@ -1463,7 +1463,7 @@
       "direcao": "Sul",
       "periodo": 7.50589165767508,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:10:37.611653+00:00",
+      "observado_em": "2026-10-16T21:50:31.543093+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.538540854954
@@ -1482,7 +1482,7 @@
       "direcao": "Sul",
       "periodo": 7.50545132769135,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:10:54.970085+00:00",
+      "observado_em": "2026-10-16T21:50:45.811495+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.581254648323
@@ -1501,7 +1501,7 @@
       "direcao": "Sul",
       "periodo": 7.50556012494818,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:11:11.151830+00:00",
+      "observado_em": "2026-10-16T21:51:02.524740+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.57070091717
@@ -1520,7 +1520,7 @@
       "direcao": "Sul",
       "periodo": 7.50545132769135,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:11:26.869556+00:00",
+      "observado_em": "2026-10-16T21:51:16.221665+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.581254648323
@@ -1539,7 +1539,7 @@
       "direcao": "Sul",
       "periodo": 7.50564803211955,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:11:40.277370+00:00",
+      "observado_em": "2026-10-16T21:51:32.842173+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.562173579199
@@ -1558,7 +1558,7 @@
       "direcao": "Sul",
       "periodo": 7.50545132769135,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:11:56.595371+00:00",
+      "observado_em": "2026-10-16T21:51:46.685415+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.581254648323
@@ -1577,7 +1577,7 @@
       "direcao": "Sul",
       "periodo": 7.50545132769135,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:12:11.854441+00:00",
+      "observado_em": "2026-10-16T21:52:02.575377+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.581254648323
@@ -1596,7 +1596,7 @@
       "direcao": "Sul",
       "periodo": 7.50545132769135,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:12:28.416735+00:00",
+      "observado_em": "2026-10-16T21:52:18.443191+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.581254648323
@@ -1615,7 +1615,7 @@
       "direcao": "Sul",
       "periodo": 7.50545132769135,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:12:41.215061+00:00",
+      "observado_em": "2026-10-16T21:52:32.893666+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.581254648323
@@ -1634,7 +1634,7 @@
       "direcao": "Sul",
       "periodo": 7.40134126499563,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:12:56.969457+00:00",
+      "observado_em": "2026-10-16T21:52:47.259042+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.589880979928
@@ -1653,7 +1653,7 @@
       "direcao": "Sul",
       "periodo": 7.40089948605748,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:13:11.774398+00:00",
+      "observado_em": "2026-10-16T21:53:03.033917+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.596507678562
@@ -1672,7 +1672,7 @@
       "direcao": "Sul",
       "periodo": 7.40072183623679,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:13:27.813932+00:00",
+      "observado_em": "2026-10-16T21:53:16.628821+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.59917243184
@@ -1694,7 +1694,7 @@
       "direcao": "Sul",
       "periodo": 7.39490441664777,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:13:40.356085+00:00",
+      "observado_em": "2026-10-16T21:53:32.539655+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.686433879566
@@ -1716,7 +1716,7 @@
       "direcao": "Sul",
       "periodo": 7.39340271473644,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:13:56.066649+00:00",
+      "observado_em": "2026-10-16T21:53:48.342502+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.708959406637
@@ -1738,7 +1738,7 @@
       "direcao": "Sul",
       "periodo": 7.39521826809446,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:14:09.398107+00:00",
+      "observado_em": "2026-10-16T21:54:01.527722+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.681726104982
@@ -1760,7 +1760,7 @@
       "direcao": "Sul",
       "periodo": 7.40427769330171,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:14:27.274635+00:00",
+      "observado_em": "2026-10-16T21:54:17.713670+00:00",
       "balneabilidade": "impropria",
       "score": -75,
       "direcao_graus": 159.801654923985
@@ -1782,7 +1782,7 @@
       "direcao": "Sul",
       "periodo": 7.39105116654752,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:14:39.550959+00:00",
+      "observado_em": "2026-10-16T21:54:30.618636+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.744232562871
@@ -1804,7 +1804,7 @@
       "direcao": "Sul",
       "periodo": 7.39279807732202,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:14:54.382181+00:00",
+      "observado_em": "2026-10-16T21:54:46.767487+00:00",
       "balneabilidade": "propria",
       "score": 155,
       "direcao_graus": 160.718028958963
@@ -1826,7 +1826,7 @@
       "direcao": "Sul",
       "periodo": 7.39089477825199,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:15:10.022186+00:00",
+      "observado_em": "2026-10-16T21:54:58.600787+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.700747864078
@@ -1845,7 +1845,7 @@
       "direcao": "Sul",
       "periodo": 7.4002728055401,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:15:27.973819+00:00",
+      "observado_em": "2026-10-16T21:55:16.464660+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.605907907557
@@ -1864,7 +1864,7 @@
       "direcao": "Sul",
       "periodo": 7.40032687299259,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:15:44.009962+00:00",
+      "observado_em": "2026-10-16T21:55:30.075670+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.605096893921
@@ -1883,7 +1883,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:15:59.446429+00:00",
+      "observado_em": "2026-10-16T21:55:45.971861+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.75
@@ -1902,7 +1902,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42282965544275,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:16:15.455639+00:00",
+      "observado_em": "2026-10-16T21:56:00.115176+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 156.075886886307
@@ -1921,7 +1921,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:16:31.915941+00:00",
+      "observado_em": "2026-10-16T21:56:15.874234+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 157.296222717985
@@ -1976,7 +1976,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42828182420314,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:16:55.948264+00:00",
+      "observado_em": "2026-10-16T21:56:35.788871+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 155.759657499823
@@ -2013,7 +2013,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42282965544275,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:17:15.505706+00:00",
+      "observado_em": "2026-10-16T21:56:54.085556+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 156.075886886307
@@ -2032,7 +2032,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42282965544275,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:17:31.801860+00:00",
+      "observado_em": "2026-10-16T21:57:09.438210+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 156.075886886307
@@ -2069,7 +2069,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42282965544275,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:17:51.669829+00:00",
+      "observado_em": "2026-10-16T21:57:26.800717+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 156.075886886307
@@ -2088,7 +2088,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:18:06.741274+00:00",
+      "observado_em": "2026-10-16T21:57:40.935508+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.75
@@ -2107,7 +2107,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:18:22.437864+00:00",
+      "observado_em": "2026-10-16T21:57:57.961035+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 157.742355236814
@@ -2126,7 +2126,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:18:37.833641+00:00",
+      "observado_em": "2026-10-16T21:58:12.760669+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 157.180579548795
@@ -2145,7 +2145,7 @@
       "direcao": "Leste",
       "periodo": 6.1,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T17:18:53.258061+00:00",
+      "observado_em": "2026-10-16T21:58:28.201068+00:00",
       "balneabilidade": "propria",
       "score": 155,
       "direcao_graus": 81.2899975585938
@@ -2164,7 +2164,7 @@
       "direcao": "Sul",
       "periodo": 7.51802990019859,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:19:07.807060+00:00",
+      "observado_em": "2026-10-16T21:58:40.241186+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.361073248007
@@ -2183,7 +2183,7 @@
       "direcao": "Sul",
       "periodo": 7.51915384793332,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:19:21.833943+00:00",
+      "observado_em": "2026-10-16T21:58:55.026769+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.252063002325
@@ -2202,7 +2202,7 @@
       "direcao": "Sul",
       "periodo": 7.51952985019579,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:19:36.935732+00:00",
+      "observado_em": "2026-10-16T21:59:09.074118+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.215596422296
@@ -2239,7 +2239,7 @@
       "direcao": "Sul",
       "periodo": 7.49621028896833,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:19:58.751496+00:00",
+      "observado_em": "2026-10-16T21:59:28.320158+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.967887879175
@@ -2258,7 +2258,7 @@
       "direcao": "Sul",
       "periodo": 7.49211384597022,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:20:16.152673+00:00",
+      "observado_em": "2026-10-16T21:59:45.294633+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.814270305205
@@ -2277,7 +2277,7 @@
       "direcao": "Sul",
       "periodo": 7.49145393260294,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:20:31.645629+00:00",
+      "observado_em": "2026-10-16T21:59:57.925393+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.789523234689
@@ -2296,7 +2296,7 @@
       "direcao": "Sul",
       "periodo": 7.4924745356146,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:20:48.392392+00:00",
+      "observado_em": "2026-10-16T22:00:21.234270+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.827796329447
@@ -2315,7 +2315,7 @@
       "direcao": "Sul",
       "periodo": 7.49415517831172,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:21:08.187036+00:00",
+      "observado_em": "2026-10-16T22:00:34.889810+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.8908210275
@@ -2334,7 +2334,7 @@
       "direcao": "Sul",
       "periodo": 7.49630740569869,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:21:26.135543+00:00",
+      "observado_em": "2026-10-16T22:01:00.308295+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.971529747451
@@ -2353,7 +2353,7 @@
       "direcao": "Sul",
       "periodo": 7.49406253293054,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:21:43.380031+00:00",
+      "observado_em": "2026-10-16T22:01:10.830218+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.887346801225
@@ -2372,7 +2372,7 @@
       "direcao": "Sul",
       "periodo": 7.49462995915442,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:22:01.638665+00:00",
+      "observado_em": "2026-10-16T22:01:28.329510+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.908625416027
@@ -2391,7 +2391,7 @@
       "direcao": "Sul",
       "periodo": 7.50443700068446,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:22:16.728335+00:00",
+      "observado_em": "2026-10-16T22:01:46.584300+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.679646535015
@@ -2428,7 +2428,7 @@
       "direcao": "Sul",
       "periodo": 7.4961801468748,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:22:35.491977+00:00",
+      "observado_em": "2026-10-16T22:02:08.172379+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.966757553111
@@ -2447,7 +2447,7 @@
       "direcao": "Sul",
       "periodo": 7.48160439195283,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:22:50.332932+00:00",
+      "observado_em": "2026-10-16T22:02:26.253388+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.420163371437
@@ -2466,7 +2466,7 @@
       "direcao": "Sul",
       "periodo": 7.48160439195283,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:23:06.953000+00:00",
+      "observado_em": "2026-10-16T22:02:43.472651+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.420163371437
@@ -2485,7 +2485,7 @@
       "direcao": "Sul",
       "periodo": 7.48560862140764,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:23:22.009022+00:00",
+      "observado_em": "2026-10-16T22:03:02.045410+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.570321404805
@@ -2504,7 +2504,7 @@
       "direcao": "Sul",
       "periodo": 7.4763484104864,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:23:36.402628+00:00",
+      "observado_em": "2026-10-16T22:03:18.115321+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.316171540944
@@ -2523,7 +2523,7 @@
       "direcao": "Sul",
       "periodo": 7.4763484104864,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:23:51.688580+00:00",
+      "observado_em": "2026-10-16T22:03:39.818555+00:00",
       "balneabilidade": null,
       "score": 40,
       "direcao_graus": 160.316171540944
@@ -2542,7 +2542,7 @@
       "direcao": "Sul",
       "periodo": 7.47583670672424,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:24:06.920865+00:00",
+      "observado_em": "2026-10-16T22:03:52.359710+00:00",
       "balneabilidade": null,
       "score": 40,
       "direcao_graus": 160.310031129645
@@ -2561,7 +2561,7 @@
       "direcao": "Sul",
       "periodo": 7.48474138217177,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:24:21.828670+00:00",
+      "observado_em": "2026-10-16T22:04:07.932527+00:00",
       "balneabilidade": null,
       "score": 40,
       "direcao_graus": 160.53779979429
@@ -2580,7 +2580,7 @@
       "direcao": "Sul",
       "periodo": 7.40058011018334,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:24:36.907697+00:00",
+      "observado_em": "2026-10-16T22:04:26.430747+00:00",
       "balneabilidade": "propria",
       "score": 155,
       "direcao_graus": 160.601298327437
@@ -2599,7 +2599,7 @@
       "direcao": "Sul",
       "periodo": 7.40046794910017,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:24:53.925078+00:00",
+      "observado_em": "2026-10-16T22:04:41.649677+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.602980747496
@@ -2618,7 +2618,7 @@
       "direcao": "Sul",
       "periodo": 7.44457519839554,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:25:10.751653+00:00",
+      "observado_em": "2026-10-16T22:04:55.059978+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.38711747422
@@ -2637,7 +2637,7 @@
       "direcao": "Sul",
       "periodo": 7.37390281750392,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:25:24.927105+00:00",
+      "observado_em": "2026-10-16T22:05:10.969043+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.598663684522
@@ -2656,7 +2656,7 @@
       "direcao": "Sul",
       "periodo": 7.37365056936137,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:25:42.075155+00:00",
+      "observado_em": "2026-10-16T22:05:27.621246+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.5940981333
@@ -2675,7 +2675,7 @@
       "direcao": "Sul",
       "periodo": 7.37320468476108,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:25:56.005356+00:00",
+      "observado_em": "2026-10-16T22:05:44.753185+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.586027850898
@@ -2694,7 +2694,7 @@
       "direcao": "Sul",
       "periodo": 7.37439915809101,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:26:13.505135+00:00",
+      "observado_em": "2026-10-16T22:05:58.894321+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.607647150556
@@ -2713,7 +2713,7 @@
       "direcao": "Sul",
       "periodo": 7.43385826161502,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:26:29.774294+00:00",
+      "observado_em": "2026-10-16T22:06:19.148845+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.477514590053
@@ -2732,7 +2732,7 @@
       "direcao": "Sul",
       "periodo": 7.43698951698357,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:26:44.460054+00:00",
+      "observado_em": "2026-10-16T22:06:32.006643+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.449160521512
@@ -2751,7 +2751,7 @@
       "direcao": "Sul",
       "periodo": 7.44730828456333,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:27:00.048459+00:00",
+      "observado_em": "2026-10-16T22:06:51.784079+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.360111136222
@@ -2770,7 +2770,7 @@
       "direcao": "Sul",
       "periodo": 7.45072566925944,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:27:15.168740+00:00",
+      "observado_em": "2026-10-16T22:07:07.129889+00:00",
       "balneabilidade": "propria",
       "score": 120,
       "direcao_graus": 159.336982678834
@@ -2789,7 +2789,7 @@
       "direcao": "Sul",
       "periodo": 7.51903682138219,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:27:29.708571+00:00",
+      "observado_em": "2026-10-16T22:07:23.578517+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.263412970765
@@ -2808,7 +2808,7 @@
       "direcao": "Sul",
       "periodo": 7.51325792992771,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:27:47.950259+00:00",
+      "observado_em": "2026-10-16T22:07:38.796338+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 159.823953807113
@@ -2827,7 +2827,7 @@
       "direcao": "Sul",
       "periodo": 7.4005524025792,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:28:02.253066+00:00",
+      "observado_em": "2026-10-16T22:07:55.389807+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.601713942439
@@ -2846,7 +2846,7 @@
       "direcao": "Sul",
       "periodo": 7.4004964651746,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:28:16.863540+00:00",
+      "observado_em": "2026-10-16T22:08:12.509831+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.602553005409
@@ -2865,7 +2865,7 @@
       "direcao": "Sul",
       "periodo": 7.40055783471903,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:28:31.194356+00:00",
+      "observado_em": "2026-10-16T22:08:28.298500+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.601632460157
@@ -2884,7 +2884,7 @@
       "direcao": "Sul",
       "periodo": 7.40044782784357,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:28:46.776951+00:00",
+      "observado_em": "2026-10-16T22:08:42.909641+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.60328256703
@@ -2903,7 +2903,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:28:59.722246+00:00",
+      "observado_em": "2026-10-16T22:08:58.007445+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -2922,7 +2922,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:29:15.369236+00:00",
+      "observado_em": "2026-10-16T22:09:13.728230+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -2941,7 +2941,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:29:29.659771+00:00",
+      "observado_em": "2026-10-16T22:09:28.660471+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -2960,7 +2960,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:29:47.621107+00:00",
+      "observado_em": "2026-10-16T22:09:43.809208+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -2979,7 +2979,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:30:01.631542+00:00",
+      "observado_em": "2026-10-16T22:10:00.117299+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -2998,7 +2998,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:30:18.796630+00:00",
+      "observado_em": "2026-10-16T22:10:15.255278+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -3017,7 +3017,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:30:34.874179+00:00",
+      "observado_em": "2026-10-16T22:10:28.848980+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -3036,7 +3036,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:30:50.285646+00:00",
+      "observado_em": "2026-10-16T22:10:44.559032+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -3055,7 +3055,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:31:06.839793+00:00",
+      "observado_em": "2026-10-16T22:10:59.331882+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -3074,7 +3074,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:31:24.521446+00:00",
+      "observado_em": "2026-10-16T22:11:14.733860+00:00",
       "balneabilidade": null,
       "score": 55,
       "direcao_graus": 160.661202445011
@@ -3093,7 +3093,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:31:38.565717+00:00",
+      "observado_em": "2026-10-16T22:11:30.195996+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -3112,7 +3112,7 @@
       "direcao": "Sul",
       "periodo": 7.39658651055583,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:31:55.043603+00:00",
+      "observado_em": "2026-10-16T22:11:45.141067+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 160.661202445011
@@ -3131,7 +3131,7 @@
       "direcao": "Sul",
       "periodo": 7.43,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T17:32:11.384723+00:00",
+      "observado_em": "2026-10-16T22:12:01.977060+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 168.659990234375
@@ -3186,7 +3186,7 @@
       "direcao": "Sul",
       "periodo": 7.43,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T17:32:35.536942+00:00",
+      "observado_em": "2026-10-16T22:12:27.131509+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 168.659990234375
@@ -3205,7 +3205,7 @@
       "direcao": "Sul",
       "periodo": 7.43,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T17:32:49.350898+00:00",
+      "observado_em": "2026-10-16T22:12:40.572469+00:00",
       "balneabilidade": "impropria",
       "score": -45,
       "direcao_graus": 168.659990234375
@@ -3224,7 +3224,7 @@
       "direcao": "Sul",
       "periodo": 7.43845796277891,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:33:05.862472+00:00",
+      "observado_em": "2026-10-16T22:12:56.293042+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 160.020383193043
@@ -3243,7 +3243,7 @@
       "direcao": "Sul",
       "periodo": 7.43,
       "estado_do_mar": "quase_calmo",
-      "observado_em": "2026-10-16T17:33:20.821877+00:00",
+      "observado_em": "2026-10-16T22:13:11.147021+00:00",
       "balneabilidade": null,
       "score": 55,
       "direcao_graus": 168.659990234375
@@ -3262,7 +3262,7 @@
       "direcao": "Sudeste",
       "periodo": 7.42870020879687,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:33:35.054566+00:00",
+      "observado_em": "2026-10-16T22:13:25.748196+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 155.73539042146
@@ -3281,7 +3281,7 @@
       "direcao": "Sul",
       "periodo": 7.45254523717124,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:33:50.639885+00:00",
+      "observado_em": "2026-10-16T22:13:40.831388+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.030532629914
@@ -3300,7 +3300,7 @@
       "direcao": "Sul",
       "periodo": 7.42617278045148,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:34:05.633763+00:00",
+      "observado_em": "2026-10-16T22:13:55.040912+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.147326052165
@@ -3319,7 +3319,7 @@
       "direcao": "Sul",
       "periodo": 7.41081351313453,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:34:23.156400+00:00",
+      "observado_em": "2026-10-16T22:14:10.618672+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 160.444272326556
@@ -3338,7 +3338,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:34:35.898201+00:00",
+      "observado_em": "2026-10-16T22:14:25.037465+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.75
@@ -3357,7 +3357,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:34:52.272859+00:00",
+      "observado_em": "2026-10-16T22:14:40.846384+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.75
@@ -3376,7 +3376,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:35:07.229795+00:00",
+      "observado_em": "2026-10-16T22:14:55.499048+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.75
@@ -3395,7 +3395,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:35:23.581390+00:00",
+      "observado_em": "2026-10-16T22:15:09.973761+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.75
@@ -3414,7 +3414,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:35:38.765861+00:00",
+      "observado_em": "2026-10-16T22:15:27.034663+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 158.75
@@ -3433,7 +3433,7 @@
       "direcao": "Sul",
       "periodo": 7.42,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:35:54.647789+00:00",
+      "observado_em": "2026-10-16T22:15:42.989476+00:00",
       "balneabilidade": "impropria",
       "score": -60,
       "direcao_graus": 158.75
@@ -3452,7 +3452,7 @@
       "direcao": "Sudeste",
       "periodo": 7.44690757466503,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:36:08.852567+00:00",
+      "observado_em": "2026-10-16T22:16:00.398139+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 152.202445468481
@@ -3471,7 +3471,7 @@
       "direcao": "Sudeste",
       "periodo": 7.44594235773116,
       "estado_do_mar": "leve",
-      "observado_em": "2026-10-16T17:36:23.761010+00:00",
+      "observado_em": "2026-10-16T22:16:13.580802+00:00",
       "balneabilidade": "propria",
       "score": 140,
       "direcao_graus": 152.599086412378
